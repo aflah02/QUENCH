@@ -1,0 +1,1 @@
+Data produced by the annotation tool is stored in this folder as YAML files
