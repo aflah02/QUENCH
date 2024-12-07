@@ -29,7 +29,7 @@ def saveResults(question, themes, question_source, question_title, variable_spec
         "metadata": metadata,
         "variable_to_answer": variable_to_answer
     }
-    with open(f"Data_Store/{question_title}.yml", "w") as f:
+    with open(f"Stage_1_Annotations/{question_title}.yml", "w") as f:
         yaml.dump(savingJson, f, default_flow_style=False)
     
 # read themes.txt
@@ -47,9 +47,9 @@ question_source = st.text_input("Enter the source of the question:")
 
 question_title = st.text_input("Enter the title of the question:")
 
-current_questions = os.listdir("Data_Store")
+current_questions = os.listdir("Stage_1_Annotations")
 if question_title + ".yml" in current_questions:
-    st.warning("Question title already in use. Please check the Data_Store folder for the question.")
+    st.warning("Question title already in use. Please check the Stage_1_Annotations folder for the question.")
 
 metadata = st.text_input("Enter the metadata of the question (if any):")
 
