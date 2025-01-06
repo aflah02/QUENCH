@@ -32,7 +32,7 @@ pip install google-generativeai PyYAML openai groq
 2. Run the following command:
 
    ```bash
-   python Open_Source_Inference_via_Groq.py --model_name MODEL_NAME --mode MODE
+   python Open_Weight_Inference_via_Groq.py --model_name MODEL_NAME --mode MODE
    ```
 
    **Parameters**:  
