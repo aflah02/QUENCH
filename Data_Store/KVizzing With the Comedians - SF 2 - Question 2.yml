@@ -1,0 +1,18 @@
+metadata: ''
+question: "Steve Borden and Gordon Sumner are globally renowned entertainers from\
+  \ two very different industries but publicly known by the same stage name \u2014\
+  \ X. It is easy to assume that Sumner, the musician, would own the name. But according\
+  \ to IMDB.com, it is Borden, the professional wrestler, who own the trademark for\
+  \ the pseudonym of X. As per a longstanding rumour, Sumner pays Borden one dollar\
+  \ per year to use the name."
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 2
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: Both Steve Borden and Gordon Sumner use the stage name Sting. Borden, the professional
+    wrestler, owns the trademark according to IMDB
+variable_to_answer:
+  X: Sting
+variables:
+- X

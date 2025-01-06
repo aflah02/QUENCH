@@ -1,0 +1,29 @@
+metadata: ''
+question: Women's tennis was once considered too hazardous for the young. Populated
+  by a growing cadre of teen phenoms, the WTA enacted age- eligibility rules in 1995
+  that limited the number of tournaments players between the ages of 14 and 17 could
+  enter. This WTA rule (X) was named after American former no.l player and '92 Olympics
+  gold medalist (Y) who is known for her early success and eventual burnout
+question_source: https://www.youtube.com/watch?v=01WxO1MZNHI&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=3
+question_title: KVizzing With the Comedians - QF 3 - Question 1
+themes:
+- Sports
+variable_specific_rationale:
+  X: The Capriati Rule, named after former no. 1 player Jennifer Capriati, was enacted
+    by the WTA in 1995 to limit the number of tournaments that players between the
+    ages of 14 and 17 could enter, due to concerns about the physical and emotional
+    toll of professional tennis on young players. The rule aimed to protect the health
+    and well-being of teenage players, such as Capriati herself, who experienced early
+    success but eventually burned out.
+  Y: Jennifer Capriati is a former American professional tennis player who won the
+    gold medal at the 1992 Olympics and rose to the no. 1 ranking in the early 1990s.
+    However, she struggled with the physical and emotional demands of professional
+    tennis at a young age, leading to burnout and a decline in her career. The WTA's
+    age-eligibility rules, known as the Capriati Rule, were named after her in recognition
+    of her early success and the challenges she faced as a young player.
+variable_to_answer:
+  X: Capriati Rule
+  Y: Jennifer Capriati
+variables:
+- X
+- Y

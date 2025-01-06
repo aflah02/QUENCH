@@ -1,0 +1,25 @@
+metadata: ''
+question: X was convinced that Johnny Fontane, a mob- associated singer in Mario Puzo's
+  novel The Godfather, was based on his life. Puzo wrote in 1972 that when the author
+  and X met in Chasen's, X "started to shout abuse", calling Puzo a "pimp" and threatening
+  physical violence. Francis Ford Coppola, director of the film adaptation, said in
+  the audio commentary that "Obviously Johnny Fontane was inspired by a kind of X
+  character" X is among the world's best-selling music artists with an estimated 150
+  million record sales
+question_source: https://www.youtube.com/watch?v=JtvCSZdMzAI&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF3 -  Q7
+themes:
+- Books
+- Literature
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Frank Sinatra believed that the character of Johnny Fontane was based on him
+    and also had many fights with the author Mario Puzo. Francis Ford Coppola director
+    of the movie adaptation of the book confirmed that it was indeed based on a similar
+    type of character. The record sales offer a hint towards the person being very
+    popular.
+variable_to_answer:
+  X: Frank Sinatra
+variables:
+- X

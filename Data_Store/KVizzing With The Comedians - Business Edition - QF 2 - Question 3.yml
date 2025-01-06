@@ -1,0 +1,19 @@
+metadata: ''
+question: X is a global celebrity who owns the following brands - MDNA, MDG, Truth
+  or Dare
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=3
+question_title: KVizzing With The Comedians - Business Edition - QF 2 - Question 3
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: "MDNA is a range of skin care products that include a serum\u2014exclusively\
+    \ created for Madonna.\nIn 2010, Dolce & Gabbana (D&G) announced a collaboration\
+    \ with American singer Madonna to create a collection of sunglasses named MDG,\
+    \ which was released in May of that year.\nIn November 2011, Madonna announced\
+    \ plans of launching her own global lifestyle brand, called Truth or Dare by Madonna;\
+    \ her second lifestyle brand following Material Girl with her daughter Lourdes\
+    \ and second enterprise involving MG Icon and Macy's."
+variable_to_answer:
+  X: Madonna
+variables:
+- X

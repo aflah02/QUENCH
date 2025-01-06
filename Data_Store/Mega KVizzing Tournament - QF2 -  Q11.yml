@@ -1,0 +1,20 @@
+metadata: ''
+question: This company (X) played a crucial role during World War 2, showcasing its
+  versatility beyond its well-known products. Through its subsidiary, the Q. O. Ordnance
+  Company, it took charge of the Cornhusker Ordnance Plant, situated six miles west
+  of Grand Island. The scale of operations was staggering, with an expansive 11,960-acre
+  government- owned site dedicated to production. From March 1942 to August 1945,
+  the company churned out millions of pieces of various artillery munitions, filling
+  41 warehouses and 219 magazines covering a vast area of 280,800 ft^2 X is now known
+  for a different line of products today.
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF2 -  Q11
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Quaker Oats can be deduced from the acronym Q.O. in Q. O. Ordnance Company. They
+    used to build ammunition during WW2 but are now known for their food products.
+variable_to_answer:
+  X: Quaker Oats
+variables:
+- X

@@ -1,0 +1,21 @@
+metadata: ''
+question: This art movement (X), popular in the early 20th century, emphasized the
+  exploration of the subconscious mind and the use of dream-like imagery. Artists
+  associated with this movement sought to unlock the power of the imagination and
+  tap into the realms of fantasy and the irrational. This artistic movement (X) is
+  named after the French word for 'beyond reality'.
+question_source: https://www.youtube.com/watch?v=VSc6V6sXL-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6
+question_title: KVizzing With the Comedians - QF 1 - Question 15
+themes:
+- Art and Music
+- History
+variable_specific_rationale:
+  X: Surrealism was an art movement that emerged in the early 20th century, characterized
+    by the exploration of the subconscious mind and the use of dream-like imagery.
+    Surrealist artists sought to unlock the power of the imagination and tap into
+    the realms of fantasy and the irrational, resulting in work that was often bizarre,
+    unsettling, and thought-provoking.
+variable_to_answer:
+  X: Surrealism
+variables:
+- X

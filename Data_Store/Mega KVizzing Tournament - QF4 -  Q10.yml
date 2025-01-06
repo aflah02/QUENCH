@@ -1,0 +1,19 @@
+metadata: ''
+question: This word (X), deeply ingrained in the world of entertainment, has been
+  a source of joy across generations, seamlessly woven into the fabric of silent movies,
+  cartoons, and contemporary films of a distinct genre. Its roots trace back to the
+  Italian term "Battachio," denoting a club-like object crafted from two flat wooden
+  pieces, engineered to generate an amplified, humorous noise upon impact.
+question_source: https://www.youtube.com/watch?v=lhMV08ZPDfo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=4
+question_title: Mega KVizzing Tournament - QF4 -  Q10
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: Slapstick can be deduced by the description which denotes there being two flat
+    wooden pieces engineered to create amplified humorous noise. It was used extensively
+    in silent movies, cartoons and contemporary films of a distinct genre bringing
+    joy to the audience.
+variable_to_answer:
+  X: Slapstick
+variables:
+- X

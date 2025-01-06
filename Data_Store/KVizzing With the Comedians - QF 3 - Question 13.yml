@@ -1,0 +1,22 @@
+metadata: ''
+question: The French were the first Europeans to settle on the island, and they signed
+  a treaty with the native Caribs in 1660. England and France fought 14 times for
+  control of the island. Eventually, the British took full control in 1814. Because
+  the island switched so often between British and French control, it was also known
+  as the "Helen of the West" after the Greek mythological character. X and Ireland
+  are the only two sovereign states in the world named after a woman and X is the
+  only one named after a human woman.
+question_source: https://www.youtube.com/watch?v=01WxO1MZNHI&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 3 - Question 13
+themes:
+- Geography
+- History
+- Politics and Government
+variable_specific_rationale:
+  X: Saint Lucia is the only sovereign state named after a human woman. It was called
+    "Helen of the West" due to the frequent switch in control between the British
+    and the French
+variable_to_answer:
+  X: Saint Lucia
+variables:
+- X

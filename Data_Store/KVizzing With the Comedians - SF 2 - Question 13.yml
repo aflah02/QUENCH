@@ -1,0 +1,25 @@
+metadata: ''
+question: "X might seem like an unlikely artistic medium, but in some Tibetan Buddhist\
+  \ traditions, sculptors shape yak X into flowers, animals, and meaningful symbols\
+  \ such as the dharma wheel. The sculptures, known as torma, are often made by Buddhist\
+  \ monks and nuns for prayer festivals and the Tibetan New Year. Making these requires\
+  \ a great deal of skill gleaned through years of practice. These sacred offerings\
+  \ are moulded by hand and decorated in the most colourful ways imaginable. In a\
+  \ variety of sizes \u2014 from a few centimetres to several metres \u2014 these\
+  \ delicately ornate sculptures are often displayed in monasteries and temples throughout\
+  \ Tibet. Xs malleable qualities and availability make it the ideal medium for sculptures\
+  \ in the absence of flowers in the freezing winters."
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 13
+themes:
+- Art and Music
+- Design
+- Food and Cooking
+variable_specific_rationale:
+  X: Yak Butter is used due to its high mouldability as well as availability. It is
+    used to sculpt flowers, animals, and meaningful symbols such as the dharma wheel
+    by Buddhist monks and nuns.
+variable_to_answer:
+  X: Butter
+variables:
+- X

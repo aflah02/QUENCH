@@ -1,0 +1,21 @@
+metadata: ''
+question: A quiz contest aired on Doordarshan in February 1967, in which participants
+  could easily answer questions pertaining to Greek mythology, but were unable to
+  reply to the question "In the Ramayana, who was Rama's mother?"- listening to it,
+  this person was shocked that Indian students could answer questions on Greek and
+  Roman mythology, but were ignorant of their own history, mythology and folklore.
+  Thus, in an attempt to teach Indian children about their cultural heritage he started
+  this company (X) in 1967.
+question_source: https://www.youtube.com/watch?v=AYkYqmgf2M4&list=PLwXllhq0F5MlHT_R6ITogkjEqGHj1d6ha&index=2
+question_title: KVizzing With The Comedians - India Quiz Edition - QF 1 - Q8
+themes:
+- History
+- Mythology and Folklore
+variable_specific_rationale:
+  X: Uncle Pai started Amar Chitra Katha when he saw that Indian students in quiz
+    shows could answer questions on Greek and Roman mythology, but were ignorant of
+    their own history, mythology and folklore.
+variable_to_answer:
+  X: Amar Chitra Katha
+variables:
+- X

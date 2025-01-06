@@ -1,0 +1,19 @@
+metadata: ''
+question: Calabash also known as bottle gourd is a vine grown for its fruit. It can
+  be either harvested young to be consumed as a vegetable, or harvested mature to
+  be dried and used as a utensil, container, or a musical instrument. The Mandarin
+  Chinese name of Calabash gives its name to which American streaming service majority-owned
+  by The Walt Disney Company?
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 3 - Question 7
+themes:
+- Business and Economics
+- Food and Cooking
+- Plants and Vegetation
+variable_specific_rationale:
+  X: Hulu is the mandarin name of Calabash and also the name of a popular streaming
+    service owned by Disney.
+variable_to_answer:
+  X: Hulu
+variables:
+- X

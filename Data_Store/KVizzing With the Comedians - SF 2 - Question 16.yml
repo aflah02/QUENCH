@@ -1,0 +1,20 @@
+metadata: ''
+question: "X's symbol, known as \"B\xE9lo,\" is described as a representation of places,\
+  \ people, love, and X itself. Unveiled in 2014, the logo takes the form of a rounded\
+  \ letter with a loop in the middle, reminiscent of a location pin symbol and a person's\
+  \ head. The overall shape of the emblem is designed to convey a heart and the letter.\
+  \ However, the new logo faced backlash on social media, with many users suggesting\
+  \ that it resembled sexual organs and other body parts. Others criticized the logo\
+  \ for being too similar to that of another startup, Automation Anywhere."
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 16
+themes:
+- Business and Economics
+- Design
+variable_specific_rationale:
+  X: Airbnb faced a controversy with its new logo which is built on top of the letter
+    A and could be misrepresented to have sexual connotations.
+variable_to_answer:
+  X: Airbnb
+variables:
+- X

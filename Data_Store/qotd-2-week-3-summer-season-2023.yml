@@ -1,0 +1,22 @@
+metadata: ''
+question: Poseidon is the Greek trident-wielding god with dominion over the seas.
+  A lesser-known facet of his divine repertoire is his reputation as the earth-shaker,
+  master of tectonic motion. In addition, he is credited with the taming of an animal
+  (not the shrew). ID this animal whose earth-shaking sound is associated with backup.
+question_source: https://donquizote.wordpress.com/2023/07/11/qotd-2-week-3-summer-season-2023/
+question_title: qotd-2-week-3-summer-season-2023
+themes:
+- Mythology and Folklore
+- Wildlife and Nature
+variable_specific_rationale:
+  Animal: The animal in question is the horse. In Greek mythology, Poseidon is often
+    credited with the creation of horses, and he is known for taming and controlling
+    them. The earth-shaking sound associated with backup refers to the sound of hooves,
+    specifically the thunderous noise created by a galloping horse. This connection
+    between Poseidon, horses, and the powerful sound of their movement ties into the
+    mythological aspects of the god's dominion over both the seas and, in a lesser-known
+    aspect, his association with earth-shaking phenomena.
+variable_to_answer:
+  Animal: Horse
+variables:
+- Animal

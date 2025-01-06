@@ -1,0 +1,18 @@
+metadata: ''
+question: The origin of the cocktail's name (X) is less clear, but the name seemed
+  to appear in Ankara, Turkey, in 1943-44 and later in Istanbul. According to another
+  popular belief, it gets its name from the fact that in 1950 an American oilman in
+  Iran stirred this combination with an equipment.
+question_source: https://www.youtube.com/watch?v=xeAYBOR2On0&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 4 - Question 5
+themes:
+- Food and Cooking
+- History
+variable_specific_rationale:
+  X: The name Screwdriver seems to have its origins in Turkey. A popular belief is
+    that the name comes from the fact that an American oilman in Iran mixed this combination
+    with a screwdriver.
+variable_to_answer:
+  X: Screwdriver
+variables:
+- X

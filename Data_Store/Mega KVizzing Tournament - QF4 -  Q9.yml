@@ -1,0 +1,21 @@
+metadata: ''
+question: This accomplished French painter, Frangoise Gaime Gilot married Jonas Salk
+  in 1970, who developed the first safe polio vaccine. Her work has been in more than
+  a dozen museums, including the Met and the MOMA in New York. Her memoir, "Life with
+  X," published in 1964 on her romance with X was written with Carlton Lake. It became
+  an international best seller, and so infuriated X that he broke off all contact
+  with Ms. Gilot and their two children.
+question_source: https://www.youtube.com/watch?v=lhMV08ZPDfo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=4
+question_title: Mega KVizzing Tournament - QF4 -  Q9
+themes:
+- Art and Music
+- Books
+- Pop Culture
+variable_specific_rationale:
+  X: Frangoise Gaime Gilot's memoir, "Life with Picasso" infuriated Picasso and he
+    broke off all contact with Ms. Gilot and their two children. It included bits
+    about her romance with him and was written by Carlton Lake.
+variable_to_answer:
+  X: Pablo Picasso
+variables:
+- X

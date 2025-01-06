@@ -1,0 +1,25 @@
+metadata: ''
+question: During the making of the blockbuster movie, filmmaker Rohit Shetty expressed
+  initial displeasure with a particular line in a song (X), prompting a discussion
+  with the rapper involved. Rohit Shetty disclosed in an interview that the song was
+  a last-minute addition to the film. According to Shetty, he had reservations about
+  a specific word in the song, considering the young audience of his films. However,
+  the rapper, understanding the filmmaker's apprehension, willingly altered the lyrics
+  to accommodate the family-friendly tone. Despite the change, the rapper humorously
+  remarked, "'Isse zyada main shareef nahi ho sakta aapke liye,'" highlighting his
+  playfulness. Eventually, the song became a massive hit, leaving fans enthralled.
+question_source: https://www.youtube.com/watch?v=lhMV08ZPDfo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=4
+question_title: Mega KVizzing Tournament - QF4 -  Q8
+themes:
+- Art and Music
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Lungi Dance by Honey Singh initially used the term Vodka which was later changed
+    to Lassi by him so that it would not be a bad influence for the young audience.
+    It can also be deduced by the fact that Rohit Shetty is the director and the rapper
+    is mentioned to be playful while the song was a hit.
+variable_to_answer:
+  X: Lungi Dance
+variables:
+- X

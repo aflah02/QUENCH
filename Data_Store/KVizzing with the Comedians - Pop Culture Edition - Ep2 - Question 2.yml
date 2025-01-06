@@ -1,0 +1,19 @@
+metadata: ''
+question: X is still the highest-grossing action buddy comedy of all time. Rush Hour
+  2 almost dethroned X from the top spot in 2001, but with a gross of $250 million,
+  X held onto its position. 22 Jump Street comes in third, and X II and X 3 rank fourth
+  and fifth on the list, respectively. X is a 1997 blockbuster.
+question_source: https://www.youtube.com/watch?v=_PnezMNAJgY
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  2
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Men in Black is still the highest-grossing action buddy comedy of all time. Rush
+    Hour 2 came close but could not beat the record. Men in Black 2 and 3 come 4th
+    and 5th on the list. Men in Black also came out in 1997.
+variable_to_answer:
+  X: Men in Black
+variables:
+- X

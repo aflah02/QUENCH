@@ -1,0 +1,22 @@
+metadata: ''
+question: This injury, also known as Hutchinson fracture, was first identified in
+  the late 19th century among professionals who encountered it while performing a
+  specific task related to their job. The mechanism of injury was linked to an unconventional
+  practice during that era when, while hand- cranking to start a certain machinery,
+  an unexpected incident occurred. This sudden jerk could hyperextend the wrist, causing
+  the fracture name. Although the naming may seem disconnected from its origin, today,
+  these fractures are more commonly associated with different causes like falling
+  on outstretched arms. This specific fracture called X, shares its name with the
+  professionals who once faced this injury during their job tasks
+question_source: https://www.youtube.com/watch?v=0rZIH2hSl54&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF1 -  Q2
+themes:
+- Pharmaceuticals & Medicine
+variable_specific_rationale:
+  X: Hutchinson fracture is also known as Chauffeur's fracture. The name originates
+    from early chauffeurs, who sustained these injuries when the car back-fired while
+    the chauffeur was hand-cranking to start the car thereby causing the injury.
+variable_to_answer:
+  X: Chauffeur's fracture
+variables:
+- X

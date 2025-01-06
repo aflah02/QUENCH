@@ -1,0 +1,21 @@
+metadata: ''
+question: "X is a fictional character created by author John Ie Carr\xE9, who appears\
+  \ in several spy stories starting with Call for the Dead in 1961. X is a British\
+  \ secret service agent with a low-key presence, leading an ordinary and unexciting\
+  \ life. Despite his seemingly unremarkable appearance, he earns the trust and admiration\
+  \ of his team members and colleagues. Occasionally, X finds himself at odds with\
+  \ the bureaucratic aspects of the intelligence community, feeling torn between his\
+  \ professional obligations and personal integrity. His most formidable opponent\
+  \ is a skilled Soviet spy named Karla."
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E2 Q3
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: "George Smiley was created by author John Ie Carr\xE9 and appears in several\
+    \ spy theories. His most formidable opponent is a skilled Soviet spy named Karla. "
+variable_to_answer:
+  X: George Smiley
+variables:
+- X

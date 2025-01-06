@@ -1,0 +1,19 @@
+metadata: ''
+question: X was established on 11 December 1961 with the active support of the Government
+  of India, state government and prominent members of Indian industry. The physicist
+  Vikram Sarabhai and businessman Kasturbhai Lalbhai, both from Y, played pivotal
+  roles in setting it up.
+question_source: https://www.youtube.com/watch?v=tCA4WD6VeWw&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 4 - Question 8
+themes:
+- Business and Economics
+- Politics and Government
+- Education
+variable_specific_rationale:
+  X Y: IIM Ahmedabad was established on 11 December 1961 with huge political and industrial
+    support. The physicist Vikram Sarabhai and businessman Kasturbhai Lalbhai both
+    from Ahmedabad played pivotal roles in the same
+variable_to_answer:
+  X Y: IIM Ahmedabad
+variables:
+- X Y

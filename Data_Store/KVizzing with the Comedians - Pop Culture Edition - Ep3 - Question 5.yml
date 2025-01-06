@@ -1,0 +1,28 @@
+metadata: ''
+question: The character of Vincent Vega in the movie X was written for Michael Madsen.
+  The director Y specifically wrote a number of roles in the film for chosen actors
+  (including Samuel L. Jackson, Harvey Keitel, Tim Roth, and Amanda Plummer), but
+  nothing compared to his dedication to having Michael Madsen play Vincent. Madsen,
+  who knew of Y's plans and said he wanted to do the part, dropped out two weeks before
+  the script was finished to star in a movie called Wyatt Earp.
+question_source: https://www.youtube.com/watch?v=WX2z4VTY8Yo
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep3 - Question
+  5
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Pulp Fiction had a special role written for Michael Madsen by Quentin Tarantino.
+    However he dropped out at the last moment to star in Wyatt Earp. The other actors
+    also help narrow down the film as Samuel L. Jackson, Harvey Keitel, Tim Roth,
+    and Amanda Plummer feature in Pulp Fiction.
+  Y: Quentin Tarantino directed Pulp Fiction which has many famous characters such
+    as Samuel L. Jackson, Harvey Keitel, Tim Roth, and Amanda Plummer. Michael Madsen
+    was also supposed to star in the film with a special role written with him in
+    mind however he backed off at the last moment.
+variable_to_answer:
+  X: Pulp Fiction
+  Y: Quentin Tarantino
+variables:
+- X
+- Y

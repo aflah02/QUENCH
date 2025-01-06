@@ -1,0 +1,19 @@
+metadata: ''
+question: It (X) involved increasing the nation's money supply, boosting government
+  spending, and enacting reforms to make the country's economy more competitive. This
+  concept was promoted as a way to shake the Asian country's economy out of a period
+  of minimal growth and overall deflation. Its economic troubles dated back to the
+  90s, also known as the Lost Decade.
+question_source: https://www.youtube.com/watch?v=tCA4WD6VeWw&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 4 - Question 3
+themes:
+- Business and Economics
+- Politics and Government
+variable_specific_rationale:
+  X: Abenomics originating in Japan which involved increasing the nation's money supply,
+    boosting government spending, and enacting reforms to make the country's economy
+    more competitive.
+variable_to_answer:
+  X: Abenomics
+variables:
+- X

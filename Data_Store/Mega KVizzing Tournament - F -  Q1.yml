@@ -1,0 +1,25 @@
+metadata: ''
+question: X's family was chock-full of lawyers, and the budding intellectual was expected
+  to join them. He studied law at the University of Poitiers and even came home with
+  a law degree in 1616. But he never entered the practice. In 1618, a 22-year-old
+  X enlisted as a mercenary in the Dutch States Army instead. There, he would study
+  military engineering and become fascinated with math and physics. In 1618, the Emperor
+  of the Holy Roman Empire, Ferdinand 11, attempted to impose Catholicism on anybody
+  living within his domain. The result of this policy would be the Thirty Years' War.
+  It would also prompt X, a Catholic, to switch allegiances to a Bavarian army fighting
+  for the Catholic side. But on his travels, he stopped in the town of Ulm. There,
+  on the night of November 10, he had three dreams that convinced him to change his
+  life's path. "X took from them the message that he should set out to reform all
+  knowledge," philosopher Gary Hatfield writes in the Stanford Encyclopedia of Philosophy.
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q1
+themes:
+- History
+variable_specific_rationale:
+  X: Rene Descartes came from a family of lawyers, studied law however then transitioned
+    to being a mercenary instead. There he studied maths and physics. During a stop
+    in the town of Ulm he had 3 dreams which convinced him to change his life's path.
+variable_to_answer:
+  X: Rene Descartes
+variables:
+- X

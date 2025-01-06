@@ -1,0 +1,21 @@
+metadata: ''
+question: X was first established as a harness workshop in Paris, dedicated to serving
+  European noblemen and created high-quality wrought harnesses and bridles for the
+  carriage trade. The company also created bags, specially designed for riders to
+  carry their saddles with them. In 1922. the first leather handbags were introduced
+  after the owner's wife complained of not being able to find one to her liking.
+question_source: https://www.youtube.com/watch?v=YHCB9sUoqNM&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=8
+question_title: KVizzing With The Comedians - Business Edition - Final - Question
+  12
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: "Herm\xE8s was first established as a harness workshop in Paris and also started\
+    \ making bags, specially designed for riders to carry their saddles with them.\
+    \ In 1922 they started making handbags when the owner's wife complained of not\
+    \ finding one to her liking. Another hint is that a horse cart features on the\
+    \ company logo."
+variable_to_answer:
+  X: "Herm\xE8s"
+variables:
+- X

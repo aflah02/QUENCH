@@ -1,0 +1,22 @@
+metadata: ''
+question: Naman Gupta is the creative mind behind Code Effort, a company that specializes
+  in producing toys and pillows made from an unconventional recycled material at its
+  factory in Noida. Naman, residing in a flat with roommates, observed a concerning
+  trend in the rapid accumulation of waste. This realization prompted him to address
+  the environmental impact of a ubiquitous item, widely regarded as the most littered
+  on the planet. Through innovative thinking, Naman established India's inaugural
+  recycling center dedicated to transforming this specific waste product into a valuable
+  resource. To date, this center has successfully repurposed more than 200 crore units
+  of a common item (X)
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF1 -  Q6
+themes:
+- Business and Economics
+- Social Issues
+variable_specific_rationale:
+  X: Code Effort repurposes cigarette ends to make toys and pillows. It was started
+    by Naman Gupta out of concern for the planet and currently runs based out of Noida.
+variable_to_answer:
+  X: Cigarette ends
+variables:
+- X

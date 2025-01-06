@@ -1,0 +1,14 @@
+metadata: ''
+question: The name of which Japanese brand (X) comes from the phrase Anima Sana In
+  Corpore Sano, which, translated from Latin, means "Healthy soul in a healthy body"?
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 3 - Question 5
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: ASICS stands for "Anima Sana In Corpore Sano" which when  translated from Latin,
+    means "Healthy soul in a healthy body"
+variable_to_answer:
+  X: ASICS
+variables:
+- X

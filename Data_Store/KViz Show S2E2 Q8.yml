@@ -1,0 +1,27 @@
+metadata: ''
+question: As a teenager, X used to support local side Y, the then pre-eminent team
+  in the city. His intention to join them changed when X was slapped by one of Y's
+  youth team player in the final of an Under-14 tournament. X then joined Y's arch
+  rival Z in 1959, where he played for the next 19 years. Under X's captaincy, Z became
+  a global powerhouse, winning three Europeans Cups back to back. X himself went on
+  to become one of football's all time greats.
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E2 Q8
+themes:
+- Sports
+variable_specific_rationale:
+  X: Franz Beckenbauer won three Europeans Cups back to back. He joined Bayern Munich
+    in 1959 and played there for 19 years after an altercation with his then dream
+    team TSV 1860 Munich which made him lose respect for them.
+  Y: Franz Beckenbauer was slapped by a U14 player from TSV 1860 Munich which led
+    to join their rival.
+  Z: Franz Beckenbauer played for Bayern Munich for 19 years making it a power house
+    and winning three Europeans Cups back to back.
+variable_to_answer:
+  X: Franz Beckenbauer
+  Y: TSV 1860 Munich
+  Z: Bayern Munich
+variables:
+- X
+- Y
+- Z

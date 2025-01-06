@@ -1,0 +1,25 @@
+metadata: ''
+question: Madagascar is the largest producer of vanilla in the world. In 1985, the
+  economy of Madagascar nearly crashed. This is because a certain company (X) introduced
+  a new variant of its product. This new variant (Y) used vanillin, a less expensive
+  synthetic substitute, whereas the original product, which uses natural vanilla,
+  was discontinued. This resulted in purchases of vanilla dropping significantly during
+  this period. Madagascar's economy stabilised only after the new variant flopped
+  and the company discontinued it.
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 2 - Question 12
+themes:
+- Business and Economics
+- Food and Cooking
+variable_specific_rationale:
+  X: Madagascar's economy is heavily reliant on the vanilla sold to Coca Cola and
+    hence nearly crashed when Coca Cola launched a new product moving away from the
+    natural vanilla based product.
+  Y: The new product was branded as New Coke which did not use natural vanilla but
+    the it flopped and the company discontinued it.
+variable_to_answer:
+  X: Coca Cola
+  Y: New Coke
+variables:
+- X
+- Y

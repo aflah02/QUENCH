@@ -1,0 +1,26 @@
+metadata: ''
+question: The author of this iconic novel (X) first came up with the idea for it after
+  being beaten up on a camping trip when he complained to some nearby campers about
+  the noise of their radio. When he returned to work, he was fascinated to find that
+  nobody would mention or acknowledge his injuries, instead saying such commonplace
+  things as "How was your weekend?" The author concluded that the reason people reacted
+  this way was because if they asked him what had happened, a degree of personal interaction
+  would be necessary, and his workmates simply didn't care enough to connect with
+  him on a personal level. It was his fascination with this societal 'blocking' which
+  became the foundation for the novel. The novel was adapted into an equally iconic
+  movie in the late 1990s.
+question_source: https://www.youtube.com/watch?v=BOOHPDcz7Zs&list=PLwXllhq0F5MlDWa52D8-w2-4AQ7H5W2SI
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep1 - Question
+  9
+themes:
+- Literature
+- Pop Culture
+- Movies and Entertainment
+variable_specific_rationale:
+  X: The movie Fight Club is an adaptation of the novel with the same name. The author
+    experienced societal blocking when none of his peers inquired about his injuries
+    which led him to write about the same.
+variable_to_answer:
+  X: Fight Club
+variables:
+- X

@@ -1,0 +1,17 @@
+metadata: ''
+question: Rossmanith released the first version of this software in 2005 because the
+  IT service provider wanted to avoid unnecessary trips to customers and instead wanted
+  to perform tasks such as installing software remotely. The development was very
+  successful and gave rise to the company X. X also replaced Chevrolet somewhere.
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 1 - Question 4
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Rossmanith released the first version of Team Viewer in 2005 which allowed companies
+    to perform tasks like software installation remotely. It replaced Chevrolet on
+    the Manchester United jersey as a sponsor.
+variable_to_answer:
+  X: Team Viewer
+variables:
+- X

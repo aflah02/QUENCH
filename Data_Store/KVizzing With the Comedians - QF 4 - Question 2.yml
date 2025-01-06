@@ -1,0 +1,20 @@
+metadata: ''
+question: "The company was founded by Erling Persson in 1947 when he opened his first\
+  \ shop in V\xE4ster\xE5s, Sweden. The shop, called X (Swedish for \"hers\"), exclusively\
+  \ sold women's clothing. Another store opened in Norway in 1964. In 1968, Persson\
+  \ acquired the hunting apparel retailer Y Widforss in Stockholm, which led to the\
+  \ inclusion of a menswear collection in the product range, and the name changed\
+  \ to its current name"
+question_source: https://www.youtube.com/watch?v=xeAYBOR2On0&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 4 - Question 2
+themes:
+- Fashion and Style
+- History
+variable_specific_rationale:
+  X: H&M is a apparel brand which started as a women's clothing store in Sweden in
+    1947. The founder Erling Persson later acquired Y Widforss in Stockholm which
+    led to the addition of men's wear.
+variable_to_answer:
+  X: H&M
+variables:
+- X

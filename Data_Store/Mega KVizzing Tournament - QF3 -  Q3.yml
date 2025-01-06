@@ -1,0 +1,18 @@
+metadata: ''
+question: Kalyan S Rathore, the sculptor based in Bengaluru, created the 15-foot tall
+  Corten steel squirrel for a railway station junction (X). Indian Railways is also
+  making silent efforts round the clock to contribute to nation building and for the
+  pilgrims and passengers just like the squirrel did in Yuddha Kanda, which conveys
+  the railway's message of commitment and devotion.
+question_source: https://www.youtube.com/watch?v=JtvCSZdMzAI&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF3 -  Q3
+themes:
+- Art and Music
+variable_specific_rationale:
+  X: The statue is installed at the Ayodhya Railway Station. It was designed by Kalyan
+    S Rathore and denotes how the railways work to make sure pilgrims and passengers
+    do not face troubles in their journey.
+variable_to_answer:
+  X: Ayodhya Railway Station
+variables:
+- X

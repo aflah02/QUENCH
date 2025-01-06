@@ -1,0 +1,18 @@
+metadata: ''
+question: The name (X) of this classic 1942 American movie, set outside the mainland
+  of USA during the WW2 time, was originally 'Everybody come to Rick's'. It won the
+  Best Picture Academy award
+question_source: https://www.youtube.com/watch?v=BOOHPDcz7Zs&list=PLwXllhq0F5MlDWa52D8-w2-4AQ7H5W2SI
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep1 - Question
+  13
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Casablanca is set outside the mainland USA during WW2 times. It won Best Picture
+    Academy award and was a play called 'Everybody come to Rick's' which was adapted
+    to be the film.
+variable_to_answer:
+  X: Casablanca
+variables:
+- X

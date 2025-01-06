@@ -1,0 +1,32 @@
+metadata: ''
+question: "Poland is a nation with a variegated history, from the atrocities committed\
+  \ at the camps of Birkenau-Auschwitz to Oskar Schindler\u2019s humanity and even\
+  \ the world\u2019s first official mention of vodka. Along with this, the catholic\
+  \ punching bag of Europe also has stunning art. One of the most famous pieces is\
+  \ that of a court member, X. The piece is notable for the emotion, Y, being experienced\
+  \ by X. This juxtaposition has led to the creation of several memes using the piece\
+  \ as a template."
+question_source: https://donquizote.wordpress.com/2023/07/16/question-4-weekend-mini-league-3/
+question_title: question-4-weekend-mini-league-3
+themes:
+- Art and Music
+- History
+- Pop Culture
+variable_specific_rationale:
+  X: The court member in the famous piece of art is commonly known as Stańczyk.
+    Stańczyk remains an important symbol of Polish culture. Stańczyk embodied
+    satire to criticize social problems while also offering wisdom to the
+    common people. His character is remembered and is a proud part of
+    Polish national character.
+  Y: The emotion being experienced by Stańczyk in the artwork is often interpreted
+    as sadness or melancholy. A clown is usually associated with the sad clown
+    paradox since clowns are usually seen as a happy figure, but this painting
+    is also a representation of it, since Stańczyk is a jester, whose job is to entertain,
+    yet he is shown in a moment of hopelessness. The dark colors in the painting convey
+    this theme with the contrast of the bright colors in the ball.
+variable_to_answer:
+  X: Stańczyk
+  Y: Sadness
+variables:
+- X
+- Y

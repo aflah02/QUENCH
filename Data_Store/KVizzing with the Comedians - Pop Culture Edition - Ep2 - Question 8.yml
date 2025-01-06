@@ -1,0 +1,19 @@
+metadata: ''
+question: Namor also known as the Sub-Mariner is a Marvel Comics character that debuted
+  in early 1939. He is the mutant son of a human sea captain and a princess of the
+  mythical undersea kingdom of Atlantis. Other than being the first known comic book
+  antihero. Namor has the first super-hero ability (X) to his name
+question_source: https://www.youtube.com/watch?v=_PnezMNAJgY
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  8
+themes:
+- Literature
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Namor is the first superhero to fly which was shown in his second appearance
+    in 1939.
+variable_to_answer:
+  X: Fly
+variables:
+- X

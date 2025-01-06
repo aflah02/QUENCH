@@ -1,0 +1,21 @@
+metadata: ''
+question: 'At the beginning of the counterculture of the 1960s, Timothy Leary and
+  Richard Alpert created a psychedelic training center and international community
+  at a coastal town in Mexico, and named their project after its location: Zihuatanejo.
+  However, after it gained notoriety as an "LSD Paradise" amongst Mexican media it
+  was shutdown by immigration officials in 1963. The town is perhaps best known as
+  the place where the protagonist of this box office failure (X) (directed by Frank
+  Darabont) convinces his friend to visit him at, after their shared predicament has
+  ended, though in reality the scenes showing the town concerned were shot in the
+  island of St. Croix in the US Virgin Islands.'
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q8
+themes:
+- Movies and Entertainment
+variable_specific_rationale:
+  X: The Shawshank Redemption has a scene set in Zihuatanejo which was notorious as
+    an "LSD Paradise". Frank Darabont as the director also narrows it down.
+variable_to_answer:
+  X: The Shawshank Redemption
+variables:
+- X

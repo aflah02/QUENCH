@@ -1,0 +1,22 @@
+metadata: ''
+question: During the second Australia-Pakistan Test at the MCG, the afternoon session
+  on day three encountered an unexpected delay of six minutes. This peculiar interruption
+  (X) was caused by none other than third umpire Richard Illingworth, who found himself
+  in an unusual predicament. As the players prepared to resume play after the lunch
+  break, umpires Joel Wilson and Michael Gough were puzzled by Illingworth's absence
+  from his viewing box. This incident prompted Australian opener David Warner to burst
+  into laughter when the true reason for the delay was revealed. X is a bizarre yet
+  commonplace circumstance
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF1 -  Q4
+themes:
+- Cricket
+- Sports
+variable_specific_rationale:
+  X: Third umpire Richard Illingworth got stuck in the elevator which caused the delay.
+    This kind of delay is bizarre to hear about but also a commonplace circumstance.
+    This led to a 6-minute delay.
+variable_to_answer:
+  X: Stuck in the elevator
+variables:
+- X

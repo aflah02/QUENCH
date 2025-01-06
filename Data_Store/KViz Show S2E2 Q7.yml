@@ -1,0 +1,18 @@
+metadata: ''
+question: '- X is the very first biscuit to be eaten on the moon by Edwin Aldrin -
+  The creator of these biscuits was Dr. Hans Zehnloch. Zehnloch in German means 10
+  holes, and that is why the biscuit has IO holes on it. - In one point in history,
+  the biscuit was called Creola. - They are most popular in India and I-JK, and are
+  among the top 3 biscuits in the I-JK. - The most famous manufacturers of X is Britannia.'
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E2 Q7
+themes:
+- Food and Cooking
+variable_specific_rationale:
+  X: Bourbon has 10 holes in it. One of the most famous manufacturers of the same
+    is Britannia and it is very popular in India and UK. The other hints also similarly
+    fall in place.
+variable_to_answer:
+  X: Bourbon
+variables:
+- X

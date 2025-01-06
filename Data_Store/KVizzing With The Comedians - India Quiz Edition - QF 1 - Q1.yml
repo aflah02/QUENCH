@@ -1,0 +1,26 @@
+metadata: ''
+question: "Indian participation in X began with four mule companies being sent off\
+  \ to France to assist the British Expeditionary Forces. The then Viceroy of India,\
+  \ Lord Linlithgow, did not consult the burgeoning Indian political leadership before\
+  \ doing so. This undemocratic inclusion in X led to Mahatma Gandhi launching the\
+  \ Y movement \u2014 mass agitations against 200 years of British rule \u2014 which\
+  \ was suppressed, in turn, by a brutal use of force, including firing on civilians\
+  \ and public floggings."
+question_source: https://www.youtube.com/watch?v=AYkYqmgf2M4&list=PLwXllhq0F5MlHT_R6ITogkjEqGHj1d6ha&index=2
+question_title: KVizzing With The Comedians - India Quiz Edition - QF 1 - Q1
+themes:
+- History
+- Politics and Government
+variable_specific_rationale:
+  X: Indian participation in World War 2 began without the consultation of the Indian
+    political leadership when four mule companies were sent off to France to assist
+    the British Expeditionary Forces.
+  Y: Mahatma Gandhi launched the Quit India Movement which were mass agitations against
+    the British rule when they brutally suppressed anyone who questioned their choices
+    regarding sending Indian forces into World War 2.
+variable_to_answer:
+  X: World War 2
+  Y: Quit India Movement
+variables:
+- X
+- Y

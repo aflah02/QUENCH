@@ -1,0 +1,24 @@
+metadata: ''
+question: X is a type of magazines that were inexpensive and published from 1896 to
+  the late 1950s. The term derives from the cheap paper on which the magazines were
+  printed. In contrast, magazines printed on higher-quality paper were called "glossies"
+  or "slicks." The typical magazine of this kind had 128 pages. The magazines were
+  best known for their lurid, exploitative, and sensational subject matter and gave
+  rise to a term for run-of-the-mill, low-quality literature which were printed on
+  these.
+question_source: https://www.youtube.com/watch?v=1qxJy0OpbUI&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 1 - Question 9
+themes:
+- History
+- Literature
+variable_specific_rationale:
+  X: Pulp magazines (also referred to as "the pulps") were inexpensive fiction magazines
+    that were published from 1896 through the 1960s. The term "pulp" derives from
+    the cheap wood pulp paper on which the magazines were printed. he pulps gave rise
+    to the term pulp fiction in reference to run-of-the-mill, low-quality literature.
+    Successors of pulps include paperback books, such as hardboiled detective stories
+    and erotic fiction.
+variable_to_answer:
+  X: Pulp Fiction
+variables:
+- X

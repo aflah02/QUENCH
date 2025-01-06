@@ -1,0 +1,19 @@
+metadata: ''
+question: Some theories say it was called X because it was meant to be done with minimum
+  loss of lives. Another theory says the name was aimed towards a certain community
+  and the colour of their traditional dress A theory also says it was named because
+  a certain army officer was driving home and came across a signboard of a fridge/AC
+  brand outside a showroom Some just say it was named after Sirius
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E3 Q8
+themes:
+- Politics and Government
+variable_specific_rationale:
+  X: These are all theories as to why Operation Bluestar was given the name. One theory
+    suggests it was to minimize loss of life while another says it was based on the
+    colour of their traditional dress. It is also a fridge/AC brand while some say
+    it is named after Sirius.
+variable_to_answer:
+  X: Operation Bluestar
+variables:
+- X

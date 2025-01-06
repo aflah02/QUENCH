@@ -1,0 +1,21 @@
+metadata: ''
+question: 'The KLCC Twin Towers (more popularly known as X) has found itself in a
+  lot of places in popular culture notably, In the 2002 Hitman 2: Silent Assassin;
+  The Graveyard Shift, and The Jacuzzi Job all take place in here. Similarly in the
+  1999 film Entrapment, numerous scenes were filmed at the towers, with the climax
+  set on the skybridge. Among the two towers, tower one is fully occupied by one entity
+  while tower two is occupied by lot of companies including Bloomberg, McKinsey, Microsoft,
+  Huawei, IBM, TCS etc.'
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 2 - Question 11
+themes:
+- Business and Economics
+- Pop Culture
+variable_specific_rationale:
+  X: KLCC Twin Towers more popularly known as the Petronas Towers is a famous hotspot
+    for many pop-culture films etc. especially on the sky bridge connecting the two
+    towers. Various company offices are also present in this building.
+variable_to_answer:
+  X: Petronas Towers
+variables:
+- X

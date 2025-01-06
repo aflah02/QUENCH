@@ -1,0 +1,22 @@
+metadata: ''
+question: The idea for the rippling water and rattling mirror in the tour vehicle
+  was inspired by the director listening to Earth, Wind & Fire with the bass turned
+  up at full volume in his car. On set, special effects supervisor Michael Lantieri
+  plucked a guitar string underneath the cups to create the ripples; a vibrating motor
+  above the windshield made the mirror shake. This is a famous movie's (X) iconic
+  moment
+question_source: https://www.youtube.com/watch?v=_PnezMNAJgY
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  11
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Jurassic Park has a famous scene where water ripples in the cups to hint at the
+    loose dinosaurs while the people are in the car. The references to car and water
+    ripples alongside the name of special effects supervisor Michael Lantieri further
+    validates this.
+variable_to_answer:
+  X: Jurassic Park
+variables:
+- X

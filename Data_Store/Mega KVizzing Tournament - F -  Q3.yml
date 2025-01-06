@@ -1,0 +1,22 @@
+metadata: ''
+question: 'The perfume Loubirouge symbolizes X''s founding story: he created his first
+  designs in Paris, which is known as home to the brand''s first boutique. This is
+  where he first painted the soles of his iconic Y, using his assistant''s nail polish.
+  Born in 1963, X is a French fashion designer who designed women''s shoes for Chanel,
+  Yves Saint Laurent and Maud Frizon. He set up his company in 1991 with his shoes
+  finding favor with celebrity clientele. X topped the Luxury Institute''s annual
+  Luxury Brand Status Index for three years; the brand''s offerings were declared
+  the Most Prestigious Women''s Shoes in 2007, 2008 and 2009. By 2011, X became the
+  most searched-for shoe brand online.'
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q3
+themes:
+- Fashion and Style
+variable_specific_rationale:
+  X: Perfume Loubirouge symbolizes Christian Louboutin's founding story. He has worked
+    for several fashion brands and later his own brand topped the Luxury Institute's
+    annual Luxury Brand Status Index for three years.
+variable_to_answer:
+  X: Christian Louboutin
+variables:
+- X

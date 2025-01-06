@@ -1,0 +1,23 @@
+metadata: ''
+question: The word X was coined by American humorist Gelett Burgess. His short 1906
+  book "Are You a Bromide?" was presented in a limited edition with a dust jacket.
+  The jacket proclaimed "YES, this is a 'X'!" with a picture of a (fictitious) young
+  woman "Miss Belinda X" shown calling out, described as "in the act of Xing." The
+  name and term stuck for any publisher's contents on a book's back cover, even after
+  the picture was dropped and only the text remained.
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=7
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 9
+themes:
+- Books
+- Literature
+- Movies and Entertainment
+variable_specific_rationale:
+  X: The word "blurb," meaning a short description of a book, film, or other product
+    written for promotional purposes, was coined by Burgess in 1906, in attributing
+    the dust jacket of his book, Are You a Bromide?, to a "Miss Belinda Blurb" depicted
+    "in the act of blurbing." His definition of "blurb" is "a flamboyant advertisement;
+    an inspired testimonial."
+variable_to_answer:
+  X: Blurb
+variables:
+- X

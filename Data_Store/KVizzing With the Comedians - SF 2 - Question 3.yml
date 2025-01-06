@@ -1,0 +1,20 @@
+metadata: ''
+question: Charles Miller was born on November 24, 1874, in Sao Paulo to a Brazilian
+  mother of English descent, Carlota Fox, and a Scottish father, John, who along with
+  3,000 other British workers had gone to South America to work on a major railway
+  construction project. In 1884, Charles was sent to England to be educated at Banister
+  Court in Southampton, and his name can be found on the school's 1891 census return,
+  as a boarder. While returning to Brazil in 1894 on completing his education, Charles
+  is said to have brought with him two X among other things.
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 3
+themes:
+- History
+- Sports
+variable_specific_rationale:
+  X: Charles Miller is known to be the father of football in Brazil. He brought back
+    two footballs and introduced the sport to Brazil.
+variable_to_answer:
+  X: Footballs
+variables:
+- X

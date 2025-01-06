@@ -1,0 +1,15 @@
+metadata: ''
+question: Formed by the merger of three struggling airlines by the Greek government,
+  it (X) was the flagship carrier of Greece for close to 4 decades before being acquired
+  by Aristotle Onassis.
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 3 - Question 4
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Olympic Airlines was formed by the merger of three struggling airlines by the
+    Greek government. It was later acquired by Aristotle Onassis.
+variable_to_answer:
+  X: Olympic Airlines
+variables:
+- X

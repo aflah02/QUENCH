@@ -1,0 +1,19 @@
+metadata: ''
+question: During 218 BC, Hannibal and his army, having passed through Spain en route
+  to his intended conquest of Rome, decided to rest for a while at a place known as
+  Les Bouillens. A certain St John Harmsworth bought the place at around 1900 and
+  renamed the place after the previous owner. He started manufacturing X at the place
+  with the packaging inspired from Indian clubs which Harmsworth used for exercise.
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q4
+themes:
+- Business and Economics
+- History
+variable_specific_rationale:
+  X: Hannibal and his army acts as a clue as they rested there and consumed the water
+    which they really liked. Indian clubs have a very similar shape to Perrier's water
+    bottles. Hence we can narrow it down to Perrier.
+variable_to_answer:
+  X: Perrier
+variables:
+- X

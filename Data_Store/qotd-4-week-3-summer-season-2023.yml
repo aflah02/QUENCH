@@ -1,0 +1,32 @@
+metadata: ''
+question: A type of variation seen in some precious stones, X is most well known in
+  rubies and sapphires and causes the stones to appear like the eyes of the protagonist(s)
+  of a viral recent T.V. series. Caused by trace deposits of mineral Y, these variations
+  are quite rare and make stones with these variations quite expensive.
+question_source: https://donquizote.wordpress.com/2023/07/12/qotd-4-week-3-summer-season-2023/
+question_title: qotd-4-week-3-summer-season-2023
+themes:
+- Pop Culture
+- Geology
+variable_specific_rationale:
+  TV Show: The mention of the viral recent TV series with protagonists whose eyes
+    exhibit asterism likely refers to the anime series "Naruto," where characters
+    like Naruto Uzumaki and Sasuke Uchiha possess unique eye designs known as the
+    Sharingan and Rinnegan, which could be metaphorically linked to the star-like
+    patterns seen in gemstones with asterism.
+  X: Asterism is a phenomenon in which a star-like pattern appears on the surface
+    of a gemstone, most notably in rubies and sapphires. This effect is caused by
+    the presence of needle-like inclusions of minerals, such as rutile, within the
+    gemstone.
+  Y: Rutile is the mineral responsible for causing asterism in gemstones like rubies
+    and sapphires. When rutile is present in the form of needle-like inclusions, it
+    interacts with light to create the distinctive star-shaped pattern known as asterism,
+    adding a unique and desirable characteristic to the precious stones.
+variable_to_answer:
+  TV Show: Naruto
+  X: Asterism
+  Y: Rutile
+variables:
+- X
+- Y
+- TV Show

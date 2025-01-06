@@ -1,0 +1,19 @@
+metadata: ''
+question: X marketing is an advanced form of word-of- mouth marketing in which the
+  company takes help from customers that are so loyal towards the product/service
+  that they freely try to convince others to buy or use them. This word's origin lies
+  in the Bible where it means to 'bring good news' or to 'preach the gospel.'
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q14
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: 'The word evangelism comes from the Bible where it means ''bring good news''
+    or to ''preach the
+
+    gospel.'' In evangelism marketing companies take help from loyal customers to
+    spread their brand name.'
+variable_to_answer:
+  X: Evangelism
+variables:
+- X

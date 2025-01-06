@@ -1,0 +1,21 @@
+metadata: ''
+question: The phrase was coined by Oliver Gingold in the 1920s when Gingold was standing
+  by the stock ticker at the brokerage firm that later became Merrill Lynch. Noticing
+  several trades at $200 or $250 a share or more, he said to Lucien Hooper that he
+  intended to return to the office to "write about these X. It has been in use ever
+  since, used originally in reference to high-price, it is more commonly used today
+  to refer to high-quality. X is a 3-word phrase.
+question_source: https://www.youtube.com/watch?v=FQNzfDMGqZY&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB
+question_title: KVizzing With The Comedians - Business Edition - QF 1 - Question 8
+themes:
+- Business and Economics
+- History
+variable_specific_rationale:
+  X: The term "blue chip" was first used in 1923 by Oliver Gingold, an employee of
+    Dow Jones, to describe stocks that traded at $200 or more per share. 2 It relates
+    to poker chips of blue, white, and red, with the blue chips having the greatest
+    value. Today, blue chip stocks aren't necessarily stocks with a high price tag.
+variable_to_answer:
+  X: Blue-chip stocks
+variables:
+- X

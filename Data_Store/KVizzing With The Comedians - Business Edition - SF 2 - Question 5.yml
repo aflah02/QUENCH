@@ -1,0 +1,22 @@
+metadata: ''
+question: X, now owned by P&G, was formulated by a Unilever chemist in South Africa
+  named Graham Wulff. He chose the name of the brand as X, based on Lanolin, a key
+  ingredient of the product. It was unique in the early days because it was a pink
+  fluid rather than a cream, packaged in a heavy glass bottle. Wulff and his marketing
+  partner, Jack Lowe, a former copywriter, had tested the product on their wives and
+  friends and were confident in its uniqueness and quality. X is an 'ageless' brand
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 2 - Question 5
+themes:
+- Business and Economics
+- Fashion and Style
+variable_specific_rationale:
+  X: Olay was formulated by Unilever and is now owned by P&G. It was unique since
+    it was a pink fluid and not a cream. It is also referred to as an 'ageless' brand.
+    Its initial testing was done by Wulff and his marketing partner, Jack Lowe, a
+    former copywriter on their wives and friends after Wulff formulated it in South
+    Africa.
+variable_to_answer:
+  X: Olay
+variables:
+- X

@@ -1,0 +1,23 @@
+metadata: ''
+question: The term X was coined by Neil deGrasse Tyson, a native New Yorker and renowned
+  astrophysicist. As a teenager, Tyson visited the iconic Stonehenge monument and
+  was inspired by the alignment of the solstice rays at its center. This experience
+  sparked his imagination, leading him to draw a comparison between the sun's perfect
+  setting between the high-rises of a city and the captivating alignment observed
+  at Stonehenge. In this city specifically, the event takes place around the months
+  of May and July, typically for two nights on each occasion. It occurs approximately
+  three weeks before and three weeks after the summer solstice, marking the longest
+  day of the year.
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 11
+themes:
+- Geography
+- Pop Culture
+variable_specific_rationale:
+  X: Manhattanhenge refers to the Stonehenge and was coined by Neil deGrasse Tyson.
+    It's a comparison between the sun's perfect setting between the high-rises of
+    Manhattan and the captivating alignment observed at Stonehenge.
+variable_to_answer:
+  X: Manhattanhenge
+variables:
+- X

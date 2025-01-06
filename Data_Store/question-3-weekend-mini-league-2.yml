@@ -1,0 +1,29 @@
+metadata: ''
+question: "The primary protagonist of X, one of China\u2019s classic epics, derived\
+  \ his literary name from items he carried and shared it with a rather famous mudra\
+  \ gesture. However, he is less well-known than Y, a secondary protagonist in the\
+  \ original text who was an allegory for the restless human mind. Z is the protagonist\
+  \ of one of the most famous manga ever, adapted to over 20 movies and spawned many\
+  \ memes thanks to its unique transformations. Z shares his name and characterisation\
+  \ with Y."
+question_source: https://donquizote.wordpress.com/2023/07/09/question-3-weekend-mini-league-2/
+question_title: question-3-weekend-mini-league-2
+themes:
+- Literature
+- Pop Culture
+variable_specific_rationale:
+  X: X is Journey to the West, which features the protagonist Sun Wukong, who is known
+    as the Monkey King. He carries a staff and is associated with the mudra gesture.
+  Y: Y is Sun Wukong, who is the Monkey King and secondary protagonist in Journey
+    to the West. He represents the restless human mind.
+  Z: Z is Son Goku from the Dragon Ball series. He shares his name and monkey-like
+    characterization with Sun Wukong, the Monkey King from Journey to the West. Dragon
+    Ball has spawned over 20 movies and many memes.
+variable_to_answer:
+  X: Journey to the west
+  Y: Sun Wukong
+  Z: Son Goku
+variables:
+- X
+- Y
+- Z

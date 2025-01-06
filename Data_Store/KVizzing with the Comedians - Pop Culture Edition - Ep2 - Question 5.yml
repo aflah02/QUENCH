@@ -1,0 +1,21 @@
+metadata: ''
+question: The pilot of the show opens in the 1950s, which required a healthy amount
+  of research, but the creator had an inside track. Her father was Don Sherman, who
+  started his career in the Greenwich Village. "I grew up with comics hanging out
+  in my house," the creator told. "They either work a lot or they have a lot of time
+  on their hands to hang around with each other eating deli and making each other
+  laugh." She also dedicated an episode to her father. The series premiered in 2017
+question_source: https://www.youtube.com/watch?v=_PnezMNAJgY
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  5
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: The Marvelous Mrs. Maisel is set in the 1950s and came out in 2017. The creator
+    of the show Amy Sherman-Palladino daughter of Don Sherman dedicated an episode
+    to him and gained lots of insights for the show due to her upbringing with comics.
+variable_to_answer:
+  X: The Marvelous Mrs. Maisel
+variables:
+- X

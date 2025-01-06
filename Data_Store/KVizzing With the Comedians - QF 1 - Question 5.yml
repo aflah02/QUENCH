@@ -1,0 +1,34 @@
+metadata: ''
+question: "The origins of the word X lie in Ancient Rome, where it meant a red or\
+  \ purple shoe worn by the three highest magistrates. The contemporary appropriation\
+  \ refers to a shoe that is backless and usually closed-toed. Originally worn within\
+  \ the bedroom, this style of shoe has a storied history and when Comtesse d'OIonne,\
+  \ the risqu\xE9 society beauty, wore a soft red pair of X to church in 1694, it\
+  \ paved the way for the style. They went on to become popular within the French\
+  \ Court, both Madame de Pompadour and Marie Antoinette donning variations throughout\
+  \ the eighteenth century, inspiring Manolo Blahnik to ask \"When you walk in X,\
+  \ you walk a bit differently. It's very sexy to me; you have to get your balance...\
+  \ Madame de Pompadour in her Xs, walking around Versailles, click click click...\
+  \ Can you think of anything more exquisite?\""
+question_source: https://www.youtube.com/watch?v=VSc6V6sXL-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6
+question_title: KVizzing With the Comedians - QF 1 - Question 5
+themes:
+- History
+- Fashion and Style
+variable_specific_rationale:
+  X: The term "mules" originated in Ancient Rome, where it referred to a red or purple
+    shoe worn by the highest magistrates. Over time, the style evolved into a backless
+    and usually closed-toed shoe. The historical significance of mules in fashion
+    is exemplified by the daring choice of Comtesse d'OIonne, who wore a red pair
+    to church in 1694, ultimately influencing their popularity in the French Court
+    during the eighteenth century. The designer Manolo Blahnik emphasized the unique
+    allure of mules, noting that walking in them imparts a distinctive and sexy quality.
+    Inspired by historical figures like Madame de Pompadour and Marie Antoinette,
+    who adorned variations of mules in the French Court, Blahnik highlights the elegance
+    and exquisite charm associated with this style of footwear, particularly evident
+    in the iconic click-click sound echoing through Versailles as Madame de Pompadour
+    strolled in her mules.
+variable_to_answer:
+  X: Mules
+variables:
+- X

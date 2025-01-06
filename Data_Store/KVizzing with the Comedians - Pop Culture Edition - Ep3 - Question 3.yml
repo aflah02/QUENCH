@@ -1,0 +1,22 @@
+metadata: ''
+question: The premise of The X Effect is that individuals can significantly outperform
+  his or her counterparts no matter what their circumstance, if they simply decide
+  to do so. Just like the protagonist of this eponymous work from 1925, who through
+  sheer determination and motivation for the love of a woman, was able to completely
+  change his life, gain riches, and become a well spoken gentleman.
+question_source: https://www.youtube.com/watch?v=WX2z4VTY8Yo
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  15
+themes:
+- Literature
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Gatsby Effect is an effect which says that individuals can significantly outperform
+    their counterparts no matter what their circumstance, if they simply decide to
+    do so. The question references to the famous work The Great Gatsby by F. Scott
+    Fitzgerald whose protagonist Gatsby showcases the same.
+variable_to_answer:
+  X: Gatsby
+variables:
+- X

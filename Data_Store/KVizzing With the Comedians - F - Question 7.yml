@@ -1,0 +1,26 @@
+metadata: ''
+question: X was a close friend of Beatles guitarist George Harrison and the two are
+  said to have contributed to each other's work. However, X fell in love with model
+  Pattie Boyd, who had married Harrison in 1966. X's friend Ian Dallas, who had converted
+  to Islam and taken the name Shaykh Abdalqadir, gave X a book by the Persian writer
+  Nizami. It tells an ancient story about a poet who falls in mad love with a beautiful
+  girl whom he is forbidden to marry. The story struck a deep chord with X, who got
+  inspired to write a song about it, Y, titled after one of the protagonists of the
+  love story.
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 7
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Eric Clapton fell in love with model Pattie Boyd, who was married to Harrison
+    his close friend.
+  Y: Eric Clapton wrote the song Layla based on the book by the Persian writer Nizami.
+    It tells a story about a poet who falls in mad love with a beautiful girl whom
+    he is not allowed to marry.
+variable_to_answer:
+  X: Eric Clapton
+  Y: Layla
+variables:
+- X
+- Y

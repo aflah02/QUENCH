@@ -1,0 +1,25 @@
+metadata: ''
+question: The term (X) was originally used by the French military to refer to a small
+  group that scouted ahead of the main force. It also became associated with left-wing
+  French radicals in the 19th century who were agitating for political reform. At
+  some point in that century the term was linked to art through the idea that art
+  is an instrument for social change. Soon, it became applicable to all art that pushes
+  boundaries of ideas and creativity.
+question_source: https://www.youtube.com/watch?v=OsNiTh7rf-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=2
+question_title: KVizzing With the Comedians - QF 2 - Question 14
+themes:
+- Art and Music
+- History
+- Politics and Government
+- Social Issues
+variable_specific_rationale:
+  X: Avant-garde is a term originally used by the French military to refer to a small
+    group that scouted ahead of the main force, but it later became associated with
+    left-wing French radicals in the 19th century who were agitating for political
+    reform. The term was then linked to art through the idea that art can be an instrument
+    for social change, and it soon became applicable to all art that pushes the boundaries
+    of ideas and creativity.
+variable_to_answer:
+  X: Avant-garde
+variables:
+- X

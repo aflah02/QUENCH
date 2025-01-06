@@ -1,0 +1,18 @@
+metadata: ''
+question: This instrument (X) belongs to the brass family and its name is a harmonious
+  fusion of the Italian word for a particular musical instrument and a suffix denoting
+  largeness. Unlike its brass counterparts, it doesn't rely on valves to alter pitch;
+  instead, it employs a telescoping slide mechanism. Beyond music, a quirky linguistic
+  connection can be found in the French language, where the word for "paperclip" is
+  the same as the name of this resonant instrument.
+question_source: https://www.youtube.com/watch?v=lhMV08ZPDfo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=4
+question_title: Mega KVizzing Tournament - QF4 -  Q3
+themes:
+- Art and Music
+variable_specific_rationale:
+  X: Trombones have telescoping slide mechanism and resemble paperclips in their look.
+    It does not rely on alter pitch and belongs to the brass family.
+variable_to_answer:
+  X: Trombone
+variables:
+- X

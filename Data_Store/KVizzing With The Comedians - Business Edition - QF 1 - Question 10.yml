@@ -1,0 +1,16 @@
+metadata: ''
+question: "Invented by Karl Drais in 1817, the dandy horse (also called v\xE9locip\xE9\
+  de, hobby horse, etc) is the forerunner of a (relatively) modern device (X)."
+question_source: https://www.youtube.com/watch?v=FQNzfDMGqZY&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB
+question_title: KVizzing With The Comedians - Business Edition - QF 1 - Question 10
+themes:
+- Business and Economics
+- History
+variable_specific_rationale:
+  X: "On 12 June 1817, the earliest form of bicycle, the dandy horse, was driven by\
+    \ inventor and baron Karl von Drais. Dandy horse is actually a derogatory term\
+    \ for what Drais initially called the Laufmaschine or \u201Crunning machine.\u201D"
+variable_to_answer:
+  X: Bicycle
+variables:
+- X

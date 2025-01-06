@@ -1,0 +1,18 @@
+metadata: ''
+question: The Authors X Club is a wandering amateur English X club founded in 1892
+  and revived most recently in 2012. Prominent British writers including Arthur Conan
+  Doyle, P.G. Wodehouse, A.A. Milne, and J.M. Barrie have been featured as members
+  of the club.
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 4
+themes:
+- History
+- Literature
+variable_specific_rationale:
+  X: The original Authors Cricket Club was an offshoot of the Authors' Club, which
+    had been founded in 1891 as a place for British authors to gather and talk. The
+    aforementioned authors were also featured on the club's team, the Authors XI.
+variable_to_answer:
+  X: Cricket
+variables:
+- X

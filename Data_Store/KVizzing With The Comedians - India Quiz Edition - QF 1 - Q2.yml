@@ -1,0 +1,17 @@
+metadata: ''
+question: It (X) was built by the eminent British architect Sir Edwin Lutyens as the
+  residence for Osama Ali Khan, the last Nizam. It is used by the Government of India
+  for banquets and meetings with visiting foreign dignitaries.
+question_source: https://www.youtube.com/watch?v=AYkYqmgf2M4&list=PLwXllhq0F5MlHT_R6ITogkjEqGHj1d6ha&index=2
+question_title: KVizzing With The Comedians - India Quiz Edition - QF 1 - Q2
+themes:
+- Architecture
+- History
+variable_specific_rationale:
+  X: The last nizam hints to the link to Hyderabad House and it is now frequently
+    used to host banquets and meetings with visiting foreign dignitaries. It was designed
+    by Sir Edwin Lutyens.
+variable_to_answer:
+  X: Hyderabad House
+variables:
+- X

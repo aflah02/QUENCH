@@ -1,0 +1,17 @@
+metadata: ''
+question: Hardcore Henry is a 2015 science fiction action film written and directed
+  by Ilya Naishullerand produced by Timur Bekmambetov, Naishuller, Inga Vainshtein
+  Smith and Ekaterina Kononenko. Will Stewart provided additional writing for the
+  film. The film is notable for being shot entirely from the first- person perspective
+  of its lead character. It was shot in a distinct way X.
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q5
+themes:
+- Movies and Entertainment
+variable_specific_rationale:
+  X: Usually, GoPros are used for first person shooting and also the film is famous
+    for being the first film shot entirely using GoPro
+variable_to_answer:
+  X: First film shot entirely using GoPro
+variables:
+- X

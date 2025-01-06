@@ -1,0 +1,15 @@
+metadata: ''
+question: The logo features a black cat jumping through the loop of the number 9.
+  The 9 was a nod to a product of the company (X) as well as a subtle hint that the
+  product has a long life by associating with the "cats have nine lives" myth.
+question_source: https://www.youtube.com/watch?v=tCA4WD6VeWw&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 4 - Question 6
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Eveready is a battery brand which has a cat jumping through the 9 loop as its
+    logo to symbolize its long battery life.
+variable_to_answer:
+  X: Eveready
+variables:
+- X

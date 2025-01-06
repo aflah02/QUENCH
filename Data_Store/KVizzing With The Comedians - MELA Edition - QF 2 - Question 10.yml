@@ -1,0 +1,27 @@
+metadata: ''
+question: 'X''s rivalry with fellow existentialist of occupied France Y is well known.
+  When X was 24 and writing for journals and periodicals, he read the novel Nausea
+  by Y, praising the author''s "limitless gifts." But X, in true "you missed a spot"
+  fashion, took the space to assert his own vision of art against Y''s, who created
+  a book in which "remarkable fictional gifts and the play of the toughest and the
+  most lucid mind are both lavished and squandered." Y would hit back at the young
+  and audacious writer, reviewing his Myth of Sisyphus with the remark: "X has the
+  affectation of quoting the works of Jaspers, Heidegger, Kierkegaard, without, however,
+  fully understanding them."'
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=7
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 10
+themes:
+- Books
+- Literature
+variable_specific_rationale:
+  X: Albert Camus was the author of "The Myth of Sisyphus."
+  Y: Sartre and Camus when Camus returned to Paris in 1943. Sartre was also the author
+    of the famous novel Nausea, published in 1938. The rivalry between the two was
+    very famous in terms of their very conflicting views of existentialism, USSR,
+    and communism.
+variable_to_answer:
+  X: Albert Camus
+  Y: Jean-Paul Sartre
+variables:
+- X
+- Y

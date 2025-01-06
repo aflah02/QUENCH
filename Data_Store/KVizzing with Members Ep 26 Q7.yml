@@ -1,0 +1,17 @@
+metadata: ''
+question: What is considered to be the most nightmarish vegetable for Indian politicians,
+  with Indira Gandhi even calling the X 1980 general election, the election. Another
+  headline reads - History Shows Why No Politician Wants to Mess With the X
+question_source: https://www.youtube.com/watch?v=TJAHWyYRnTo
+question_title: KVizzing with Members Ep 26 Q7
+themes:
+- Politics and Government
+variable_specific_rationale:
+  X: Indira Gandhi called the 1980 elections the onion elections due to huge impact
+    onion prices have on people's perception of the government. This is also why politicians
+    do not want to mess with it as it is a daily use commodity whose price fluctuations
+    immediately affect their voter banks.
+variable_to_answer:
+  X: Onions
+variables:
+- X

@@ -1,0 +1,20 @@
+metadata: ''
+question: Prem Vihari Narain Raizada was born in December 1901 to a family of calligraphers.
+  Raizada would go on to study at St. Stephen's College in Delhi, where he continued
+  to refine his skills. When he was first asked to write this (X) in the middle of
+  the last century, he was asked how much he would like to charge for it. The reply
+  was not a single penny but at the end along with his name his grandfather's name
+  should also be mentioned.
+question_source: https://www.youtube.com/watch?v=xeAYBOR2On0&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 4 - Question 6
+themes:
+- History
+- Politics and Government
+variable_specific_rationale:
+  X: Prem Vihari Narain Raizada famously hand-wrote the Constitution of India and
+    did not charge for it. He only asked for his grandfather's name to be featured
+    along with his name at the end
+variable_to_answer:
+  X: Constitution of India
+variables:
+- X

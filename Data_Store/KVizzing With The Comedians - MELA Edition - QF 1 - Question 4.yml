@@ -1,0 +1,19 @@
+metadata: ''
+question: Faisal Khan is a Bollywood actor. He is the son of producer Tahir Hussain
+  and brother of Aamir Khan. In his very short career, he made his film debut as an
+  adult in 1988, playing a minor role as a villain in his brother Aamir's film Qayamat
+  Se Qayamat Tak. He played another part as a college student (uncredited) in his
+  brother's 1992 film Jo Jeeta Wohi Sikandar. The third movie where he acted alongside
+  his brother is X.
+question_source: https://www.youtube.com/watch?v=1qxJy0OpbUI&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=2
+question_title: KVizzing With The Comedians - MELA Edition - QF 1 - Question 4
+themes:
+- Movies and Entertainment
+variable_specific_rationale:
+  X: Faisal Khan got his first leading role in the 1994 film Madhosh, which was produced
+    by his father and directed by Vikram Bhatt. In 2000, he made a comeback starring
+    alongside his brother, Aamir Khan, in Mela.
+variable_to_answer:
+  X: Mela
+variables:
+- X

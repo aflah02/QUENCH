@@ -1,0 +1,17 @@
+metadata: ''
+question: Blackened is an American whiskey produced by a collaboration between Sweet
+  Amber Distilling Company and Metallica. It is a blend of sourced bourbon and rye
+  aged for about eight years in black brandy casks. These casks undergo a special
+  "treatment" (X) that gives this whiskey its unique character
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 1 - Question 6
+themes:
+- Business and Economics
+- Food and Cooking
+variable_specific_rationale:
+  X: The casks are blasted with Metallica's music as the brand believes the music
+    increases the interaction  between the whiskey and the wood.
+variable_to_answer:
+  X: The casks are blasted with Metallica's music
+variables:
+- X

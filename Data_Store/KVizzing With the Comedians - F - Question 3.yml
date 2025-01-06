@@ -1,0 +1,22 @@
+metadata: ''
+question: "While its accuracy is still being debated, Adolf Hitler is believed to\
+  \ have concluded his Obersalzberg Speech (1939) as follows \u2014 \"....Accordingly,\
+  \ I have placed my death-head formation in readiness \u2014 for the present only\
+  \ in the East \u2014 with orders to them to send to death mercilessly and without\
+  \ compassion, men, women, and children of Polish derivation and language. Only thus\
+  \ shall we gain the living space (lebensraum) which we need. Who, after all, speaks\
+  \ today of the annihilation of the X?\" X which refers to an ethnic group that suffered\
+  \ genocide in the Ottoman Empire during World War 1."
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 3
+themes:
+- History
+- Politics and Government
+variable_specific_rationale:
+  X: Hitler refers to the Armenian genocide to say that no one will remember their
+    doings just like no one remembers the Armenian genocide by the Ottoman Empire
+    during World War 1.
+variable_to_answer:
+  X: Armenians
+variables:
+- X

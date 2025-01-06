@@ -1,0 +1,25 @@
+metadata: ''
+question: "X is the most famous work of Y, a popular American poet. Y was part of\
+  \ a literary subculture that was also the subject of a famous movie on the set of\
+  \ which the lead actor happened to find his long-time partner. X also shares its\
+  \ name with the titular character of a movie from one of Japan\u2019s most famous\
+  \ animation studios. The studio, whose name is based on the \u2018Mediterranean\
+  \ Wind\u2018, won an Oscar for its 2001 film."
+question_source: https://donquizote.wordpress.com/2023/07/08/question-2-weekend-mini-league-2/
+question_title: question-2-weekend-mini-league-2
+themes:
+- Art and Music
+- Literature
+- Movies and Entertainment
+variable_specific_rationale:
+  X: "Howl is the name of the titular character in Howl\u2019s Moving Castle, a movie\
+    \ by Studio Ghibli, which also created Spirited Away that won Oscar in 2001."
+  Y: "Allen Ginsberg was a part of Beat Generation, Upon which the movie \u2018Kill\
+    \ your darlings\u2019 is based on. On the set of this movie, Daniel Radcliffe\
+    \ met his partner Erin Darke."
+variable_to_answer:
+  X: Howl
+  Y: Allen Ginsberg
+variables:
+- X
+- Y

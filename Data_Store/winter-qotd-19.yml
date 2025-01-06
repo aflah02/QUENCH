@@ -1,0 +1,23 @@
+metadata: ''
+question: What word (X), deriving from the name of a suitcase that would open into
+  two equal compartments, was first used in its present meaning by Humpty Dumpty in
+  Through the Looking Glass, as he explains the linguistics of certain words to Alice?
+question_source: https://donquizote.wordpress.com/2021/12/19/winter-qotd-19/
+question_title: winter-qotd-19
+themes:
+- Literature
+- Movies and Entertainment
+variable_specific_rationale:
+  X: "The word \u201Cportmanteau\u201D originally referred to a type of large suitcase\
+    \ or \u201Ctraveling bag\u201D composed of two parts, and its use in this sense\
+    \ dates back to the 16th century. Lewis Carroll, the author of Alice's Adventures\
+    \ in Wonderland (1865) and its sequel Through the Looking-Glass (1871), created\
+    \ the term \u201Cportmanteau word\u201D to describe many of the words he had made\
+    \ up for \u201CJabberwocky\u201D \u2014 Humpty Dumpty explains to Alice that they\
+    \ are \u201Ctwo meanings packed up into one word.\u201D In linguistics, these\
+    \ words are also known by their technical term \u201Cblend,\u201D and some examples\
+    \ are \u201Csmog,\u201D \u201Cbrunch,\u201D \u201Changry,\u201D and \u201Cbromance.\u201D"
+variable_to_answer:
+  X: Portmanteau
+variables:
+- X

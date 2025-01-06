@@ -1,0 +1,17 @@
+metadata: ''
+question: Romanesco broccoli is an edible flower bud from the species which also includes
+  regular broccoli and cauliflower. The bud is self-similar in character, each bud
+  is composed of a series of smaller buds, all arranged in yet another self-similar
+  spiral. This self- similar pattern continues at smaller levels.
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 13
+themes:
+- Mathematics
+- Plants and Vegetation
+variable_specific_rationale:
+  X: A fractal is a self-similar pattern which continues at smaller levels. A Romanesco
+    broccoli also exhibits this pattern.
+variable_to_answer:
+  X: Fractal
+variables:
+- X

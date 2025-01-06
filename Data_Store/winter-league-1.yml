@@ -1,0 +1,27 @@
+metadata: ''
+question: 'These stone throats were inspired by a European dragon folk tale encouraging
+  conversion to Christianity. These were often spotted on church pillars and cleverly
+  served a two-found purpose for the clergy: 1) to inspire a visual fear of the horrors
+  of hell in the largely illiterate Medieval European populace and portray the safety
+  from them that their faith provides 2) to encourage conversion to Christianity as
+  they were often shaped in the form of pagan gods to make the churches seem more
+  familiar and welcoming to pagan worshippers Name this Gothic architectural concept
+  designed to protect the work of men from the wrath of heaven (X).'
+question_source: https://donquizote.wordpress.com/2021/12/26/winter-league-1/
+question_title: winter-league-1
+themes:
+- History
+- Mythology and Folklore
+variable_specific_rationale:
+  X: Gargoyles are stone carvings of grotesque creatures that were often placed on
+    church pillars and other architectural features of Gothic churches. They were
+    intended to inspire a sense of fear in the largely illiterate Medieval European
+    population, reminding them of the horrors of hell and the need for salvation through
+    Christianity. They were often shaped in the form of pagan gods or other mythological
+    creatures, making the churches seem more familiar and welcoming to pagan worshippers.
+    They were also seen as protecting the work of men (the church building) from the
+    wrath of heaven.
+variable_to_answer:
+  X: Gargoyle
+variables:
+- X

@@ -1,0 +1,25 @@
+metadata: ''
+question: The 'X Y' was likely developed in Australia or New Zealand - or both - in
+  the 1980s. (Both countries take credit.) It's possible it was a case of communal
+  thinking, with coffee enthusiasts each working toward a similar end result. One
+  possibly apocryphal story has a New Zealand barista apologizing to a customer after
+  a cappuccino failed to foam up properly, leading to a "X Y" drink. The X Y subsequently
+  made its way to the States in the early 2010s, and it's now a common sight on coffee
+  menus. There's some debate whether larger chains can prepare a proper X Y, as some
+  coffee purists advocate for a premium espresso bean that makes for a creamier texture
+  and milk that's heated but not steamed. Australian actor Hugh Jackman, who operated
+  cafes in downtown Manhattan in 2015, said that Starbucks offering a X Y was a "compliment"
+  but suggested customers try a presumably more authentic version from his shop.
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q10
+themes:
+- Business and Economics
+- Food and Cooking
+variable_specific_rationale:
+  X: Flat White was developed both in Australia and New Zealand in the 1980s. There
+    is debate about whether large chains do justice to the taste and Hugh Jackman
+    said that people should try out a more authentic version at his coffee shop.
+variable_to_answer:
+  X: Flat White
+variables:
+- X

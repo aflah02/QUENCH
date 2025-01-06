@@ -1,0 +1,23 @@
+metadata: ''
+question: "Born in Bombay in 1865, X spent much of his childhood in India, and knowledge\
+  \ of Indian culture and the country's various languages can be found in his work.\
+  \ The earliest known use of 'cushy' in a work written in English appears \u2014\
+  \ as khushi \u2014 in a piece published by a young X in 1887. He used it to mean\
+  \ 'relaxed,' but it later came to mean 'comfortable and undemanding.'"
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=7
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 13
+themes:
+- Books
+- History
+- Literature
+variable_specific_rationale:
+  X: Rudyard Kipling was an English novelist, short-story writer, poet, and journalist,
+    born in British India, which inspired much of his work. He is actually responsible
+    for introducing the word 'cushy' into the English language. As he spent a lot
+    of his childhood in Bombay, the various languages of India can be found throughout
+    his work. This is the case with the word 'cushy,' which Kipling originally wrote
+    as 'khushi' in one of his early published works.
+variable_to_answer:
+  X: Rudyard Kipling
+variables:
+- X

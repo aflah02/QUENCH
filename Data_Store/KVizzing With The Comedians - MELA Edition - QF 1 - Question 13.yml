@@ -1,0 +1,23 @@
+metadata: ''
+question: 'The .mkv extension is used for video files that adhere to the X Multimedia
+  Container file format. It is a container format that can hold an unlimited number
+  of video, audio, or subtitle tracks in one file. It is intended to serve as a universal
+  format for storing common multimedia content, like movies or TV shows. The name
+  X is derived from something in Russian that is famous the world over and was chosen
+  mainly because the format was a container format and, as Wikipedia puts it: "to
+  appeal to open source computer programmers, who need concepts like container and
+  nesting."'
+question_source: https://www.youtube.com/watch?v=1qxJy0OpbUI&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 1 - Question 13
+themes:
+- Science and Technology
+variable_specific_rationale:
+  X: Matroska is a project to create a container format that can hold an unlimited
+    number of video, audio, picture, or subtitle tracks in one file. The Matroska
+    Multimedia Container is similar in concept to other containers like AVI, MP4,
+    or Advanced Systems Format (ASF) but is an open standard. "Matroska" is derived
+    from matryoshka, the Russian word for hollow wooden dolls.
+variable_to_answer:
+  X: Matroska
+variables:
+- X

@@ -1,0 +1,20 @@
+metadata: ''
+question: '- X was released along with Sholay on 15 August 1975 - During the run of
+  the film, people would come from distant villages on bullock carts to cities to
+  watch X and would crowd outside the theatre - After the success of X, people would
+  go to the house of Anita Guha to seek her blessings, and if she was spotted on the
+  road- people would go and touch her feet X remains one of the biggest hits of Indian
+  cinema'
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q4
+themes:
+- Movies and Entertainment
+variable_specific_rationale:
+  X: 'Jai Santoshi Maa released alongside Sholay. Since it was related to religion
+    people were more tempted to go watch it and hence would come from far away too.
+    The clue that people seeked Anita Guha''s blessings also points towards it being
+    something related to religion. '
+variable_to_answer:
+  X: Jai Santoshi Maa
+variables:
+- X

@@ -1,0 +1,44 @@
+metadata: ''
+question: "Rebels have existed for time immemorial, with the country of China, in\
+  \ particular, raising regime change into a legitimate art form with their colourful\
+  \ rebellion, from the yellow turban rebellion to the red communist revolution. The\
+  \ etymology associated with uprisings is a fascinating exercise in symbology and\
+  \ the peculiarity of the human mind. For instance, a prominent Soviet revolutionary\
+  \ and later political leader chose the pseudonym X when he was but a teenager as\
+  \ it had a \u2018proletarian\u2019 ring. The name X has lived on in the form of\
+  \ an improvised weapon, Y, associated with violent riots. Interestingly, the name\
+  \ Y derives from propaganda broadcast by X during a war, coined by belligerents\
+  \ as a tongue-in-cheek bit of fervid wordplay."
+question_source: https://donquizote.wordpress.com/2023/07/15/question-1-weekend-mini-league-3/
+question_title: question-1-weekend-mini-league-3
+themes:
+- History
+- Politics and Government
+- Social Issues
+variable_specific_rationale:
+  X: "Molotov was born Vyacheslav Mikhailovich Skryabin and was educated at a secondary\
+    \ school in Kazan, where he became friends with fellow revolutionary Aleksandr\
+    \ Arosev.[4] Molotov joined the Russian Social Democratic Labour Party (RSDLP)\
+    \ in 1906, and soon gravitated toward the organisation\u2019s radical Bolshevik\
+    \ faction, which was led by Vladimir Lenin. He took the pseudonym \u201CMolotov\u201D\
+    , derived from the Russian word molot (sledge hammer) since he believed that the\
+    \ name had an \u201Cindustrial\u201D and \u201Cproletarian\u201D ring to it. Molotov\
+    \ was one of the architects of the Molotov\u2013Ribbentrop Pact on the eve of\
+    \ World War II."
+  Y: "The name \u201CMolotov cocktail\u201D was coined by the Finns during the Winter\
+    \ War (Finnish: Molotovin cocktail) in 1939. The name\u2019s origin came from\
+    \ the propaganda Molotov produced during the Winter War, mainly his declaration\
+    \ on Soviet state radio that incendiary bombing missions over Finland were actually\
+    \ \u201Cairborne humanitarian food deliveries\u201D for their \u201Cstarving\u201D\
+    \ neighbours. As a result, the Finns sarcastically dubbed the Soviet incendiary\
+    \ cluster bombs \u201CMolotov bread baskets\u201D (Finnish: Molotovin leip\xE4\
+    kori) in reference to Molotov\u2019s propaganda broadcasts.[14][10] When the hand-held\
+    \ bottle firebomb was developed to attack and destroy Soviet tanks, the Finns\
+    \ called it the \u201CMolotov cocktail\u201D, as \u201Ca drink to go with his\
+    \ food parcels\u201D."
+variable_to_answer:
+  X: Molotov
+  Y: Molotov Cocktail
+variables:
+- X
+- Y

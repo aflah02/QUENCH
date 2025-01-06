@@ -1,0 +1,19 @@
+metadata: ''
+question: According to Wikipedia, there were a few reasons why the company chose the
+  name X for its product. First, they wanted a name that was memorable, short, and
+  easy to spell. They also wanted a name that would stand out from the competition,
+  and that could potentially become a verb. Plus the word would remind people of the
+  sound made during "the moment of discovery and decision making".
+question_source: https://www.youtube.com/watch?v=OsNiTh7rf-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=2
+question_title: KVizzing With the Comedians - QF 2 - Question 4
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Microsoft chose the name "Bing" for its search engine because it is a memorable
+    and easy-to-spell name that stands out from the competition. The name also evokes
+    the sound made during the moment of discovery and decision making, making it a
+    fitting choice for a search engine.
+variable_to_answer:
+  X: Bing
+variables:
+- X

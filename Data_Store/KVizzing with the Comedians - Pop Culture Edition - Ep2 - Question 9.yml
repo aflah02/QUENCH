@@ -1,0 +1,21 @@
+metadata: ''
+question: Win A Date With Tad Hamilton (2004) is a romantic comedy film directed by
+  Robert Luketic that stars Kate Bosworth, Topher Grace, and Josh Duhamel. The movie
+  is supposedly inspired from a Hindi movie (X) that was a major commercial and critical
+  success. Both the films are about a lovable loser who can't compete with a famous
+  actor when it comes to winning the affections of a certain girl. Only the climax
+  of the films differ from each other.
+question_source: https://www.youtube.com/watch?v=_PnezMNAJgY
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  9
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Win A Date With Tad Hamilton is supposedly inspired from the famous and successful
+    Hindi movie Rangeela. In both movies a loveable loser is unable to compete with
+    a famous actor to win the affection of a girl.
+variable_to_answer:
+  X: Rangeela
+variables:
+- X

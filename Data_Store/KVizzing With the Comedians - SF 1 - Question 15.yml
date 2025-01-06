@@ -1,0 +1,22 @@
+metadata: ''
+question: The Egg and Wine Diet is a fad diet that was popularized in 1964 and revived
+  in 2018 on social media platforms. The diet has experienced a viral resurgence and
+  turned heads not because of its health benefits or results, but because of its ridiculous
+  parameters. The diet advocates the consumption of 3-5 eggs per day plus a bottle
+  of wine. In 1977 this diet was published in a magazine that made it so popular that
+  it is also known as the X Egg and Wine Diet. X is an American monthly fashion and
+  lifestyle magazine. It was first published in 1892 as a weekly newspaper that slowly
+  turned into an iconic fashion magazine.
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 15
+themes:
+- Fashion and Style
+- Food and Cooking
+- Health and Wellness
+variable_specific_rationale:
+  X: The diet is called the Vogue Egg and Wine Diet after the magazine Vogue which
+    popularized it.
+variable_to_answer:
+  X: Vogue
+variables:
+- X

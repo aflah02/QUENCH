@@ -1,0 +1,18 @@
+metadata: ''
+question: The Rooster of Barcelos is a common symbol of Portugal. The folk tale of
+  the rooster of Barcelos, tells the story of a dead rooster's miraculous intervention
+  in proving the innocence of a man who had been falsely convicted and sentenced to
+  death. The rooster of Barcelos is used in the logo (and also seen as a sort of mascot)
+  of a Johannesburg-based restaurant chain (X).
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 2 - Question 9
+themes:
+- Food and Cooking
+- Pop Culture
+variable_specific_rationale:
+  X: Founded in Johannesburg in 1987, Nando's operates over 1,200 outlets in 30 countries.
+    Their logo depicts the Rooster of Barcelos, one of Portugal's most common symbols.
+variable_to_answer:
+  X: Nando's
+variables:
+- X

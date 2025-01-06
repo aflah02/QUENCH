@@ -1,0 +1,21 @@
+metadata: ''
+question: Anthony T. Rossi immigrated to the United States in 1921. In 1952, Rossi
+  purchased the Grapefruit Canning Company in Bradenton. The company developed a trademarked
+  cartoon mascot for their flagship brand named X, a barefoot young girl carrying
+  oranges on her head and wearing clothing that resembles a Hawaiian grass skirt.
+  In 1957, the company changed its name to the flagship brand (Y)
+question_source: https://www.youtube.com/watch?v=xeAYBOR2On0&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 4 - Question 12
+themes:
+- Business and Economics
+- History
+variable_specific_rationale:
+  X: The mascot was named Tropic-Ana and the company name eventually changed to Tropicana
+  Y: Anthony T. Rossi purchased the Grapefruit Canning Company in Bradenton which
+    designed the mascot Tropic-Ana and eventually changed its name to Tropicana
+variable_to_answer:
+  X: Tropic-Ana
+  Y: Tropicana
+variables:
+- X
+- Y

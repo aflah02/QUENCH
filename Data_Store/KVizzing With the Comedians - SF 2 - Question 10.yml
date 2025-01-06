@@ -1,0 +1,20 @@
+metadata: ''
+question: 'The instructions provided below outline the steps to draw something (X):
+  1. On the lower portion of a crimson cloth draw a line AB of the required length
+  from left to right. 2. From A draw a line AC perpendicular to AB making AC equal
+  to AB plus one third AB. From AC mark off D making line AD equal to line AB. Join
+  BD. 3. From BD mark off E making BE equal to AB. 4. Touching E draw a line FG, starting
+  from the point F on line AC, parallel to AB to the right hand-side. Mark off FG
+  equal to AB. 5. Join CO. The next few instructions detail the process of drawing
+  the sun, the moon, and the border.'
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 10
+themes:
+- Geography
+variable_specific_rationale:
+  X: These are the steps to construct the Flag of Nepal which is the only non-quadrilateral
+    flag.
+variable_to_answer:
+  X: Flag of Nepal
+variables:
+- X

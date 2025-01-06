@@ -1,0 +1,21 @@
+metadata: ''
+question: The X shorts are a series of animated short films that aired as a recurring
+  segment on Fox variety television series The Tracey Ullman Show for three seasons,
+  before the characters spun off into X, their own half-hour prime-time show. X received
+  widespread acclaim throughout its early seasons in the 1990s, which are generally
+  considered its "golden age".
+question_source: https://www.youtube.com/watch?v=JtvCSZdMzAI&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF3 -  Q9
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: 'The Simpsons initially were initially a recurring segment on Fox variety television
+    series The Tracey Ullman Show and known as the Simpsons Shorts. They had their
+    peaks in the 90s after they got their
+
+    own half-hour prime-time show.'
+variable_to_answer:
+  X: The Simpsons
+variables:
+- X

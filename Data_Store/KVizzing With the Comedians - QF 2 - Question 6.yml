@@ -1,0 +1,22 @@
+metadata: ''
+question: A X is a type of Chinese dumpling commonly found across regional styles
+  of Chinese cuisine. Yang Xiong from the western Han Dynasty mentioned "bing wei
+  zhi tun," which means X are a type of bread. The difference is that X have fillings
+  inside and are eaten after being steamed or boiled. The Ancient Chinese thought
+  they were a sealed bun, lacking "qi qiao" ('seven orifices'). So it was called "hun
+  dun" which means 'turbidity' or 'chaos.' From the time of the Tang dynasty, people
+  began to differentiate the names of dumplings and X.
+question_source: https://www.youtube.com/watch?v=OsNiTh7rf-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=2
+question_title: KVizzing With the Comedians - QF 2 - Question 6
+themes:
+- Food and Cooking
+- History
+variable_specific_rationale:
+  X: Wontons are a type of Chinese dumpling that originated in the Han Dynasty and
+    are commonly found across regional styles of Chinese cuisine. They are filled
+    with various ingredients, such as meat or vegetables, and are typically steamed
+    or boiled before being eaten.
+variable_to_answer:
+  X: Wontons
+variables:
+- X

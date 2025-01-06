@@ -1,0 +1,29 @@
+metadata: ''
+question: According to the author (X), she was born in New Jersey in 1858. She had
+  a career in opera as a contralto, performing at La Scala in Milan, Italy, and a
+  term as prima donna in the Imperial Opera of Warsaw, Poland, indicating that she
+  was a talented singer. It was there that she became the lover of Wilhelm Gottsreich
+  Sigismond von Ormstein, Grand Duke of Cassel-Felstein, and King of Bohemia (then
+  only the Crown Prince), who was staying in Warsaw for a period. The King describes
+  her as "a well-known adventuress." In derivative works, she is frequently used as
+  a romantic interest for the protagonist, a departure from the actual story where
+  he only admired her for her wit and cunning.
+question_source: https://www.youtube.com/watch?v=1qxJy0OpbUI&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=2
+question_title: KVizzing With The Comedians - MELA Edition - QF 1 - Question 1
+themes:
+- Literature
+variable_specific_rationale:
+  X: 'Irene Adler is a fictional character in the Sherlock Holmes stories written
+    by Sir Arthur Conan Doyle. A former opera singer and actress, she was featured
+    in the short story "A Scandal in Bohemia," published in July 1891. While not technically
+    a criminal and bearing no malice towards Holmes, she outsmarts him and evades
+    his traps. Sherlock Holmes refers to her afterward respectfully as "the Woman."
+
+    In derivative works, she is frequently used as a romantic interest for Holmes,
+    a departure from Doyle''s story, where he only admired her for her wit and cunning.
+
+    '
+variable_to_answer:
+  X: Irene Adler
+variables:
+- X

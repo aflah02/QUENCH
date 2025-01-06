@@ -1,0 +1,20 @@
+metadata: ''
+question: Released on 1st January, 2023, X is an American television series created
+  by Eric Garcia. It is an eight-part series which revolves around the exploits of
+  master thief Leo Pap and his crew as they embark on a high-stakes heist. The series
+  is unique for its shuffled order, where each episode is named after a color and
+  tells the story of a specific timeframe related to the heist. Viewers can watch
+  the episodes in any order which allows them to piece together the story in their
+  own way creating a sense of mystery and suspense. X is named after an optical instrument.
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 6
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: Kaleidoscope is a TV series where you can watch the show's episodes in any order
+    which pieces together the story in its own way. It is named after the optical
+    instrument kaleidoscope.
+variable_to_answer:
+  X: Kaleidoscope
+variables:
+- X

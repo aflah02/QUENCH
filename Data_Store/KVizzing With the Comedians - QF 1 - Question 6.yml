@@ -1,0 +1,21 @@
+metadata: ''
+question: Surprisingly, the word X is not etymologically related to the two words
+  it is made up of. Instead, it has an entirely different root. The word stems from
+  the Late Latin word that means 'beyond' and thus, X is an act that is beyond what
+  is considered acceptable. A noun and a verb, X is triggered by a serious offence
+  which causes an intense reaction of indignation, disbelief, and anger.
+question_source: https://www.youtube.com/watch?v=VSc6V6sXL-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6
+question_title: KVizzing With the Comedians - QF 1 - Question 6
+themes:
+- Language and Linguistics
+variable_specific_rationale:
+  X: "\u201COutrage\u201D derives from the Latin word ultraticum, which meant \u201C\
+    excessive.\u201D The root is ultra, which in Latin means \u201Cbeyond\u201D or\
+    \ \u201Cextremely,\u201D just like it does in English. Ultra shares a Proto-Indo-European\
+    \ root with the English word \u201Cother,\u201D but not with the word \u201Cout.\u201D\
+    \ When the Latin word ultraticum entered Old French, it became oltrage, and then\
+    \ evolved into outrage."
+variable_to_answer:
+  X: Outrage
+variables:
+- X

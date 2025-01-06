@@ -1,0 +1,21 @@
+metadata: ''
+question: 'What is the title of this famous book written by a former Booz Allen Hamilton
+  consultant Martin Kihn - X Y Z : How Management Consultants Steal Your Watch and
+  Then Tell You the Time? An American comedy-drama television series on the book was
+  later created by Matthew Carnahan.'
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 1 - Question 7
+themes:
+- Books
+- Business and Economics
+- Literature
+- Pop Culture
+variable_specific_rationale:
+  X Y Z: 'The book is "House of Lies: How Management Consultants Steal Your Watch
+    and Then Tell You the Time?" which was written by former Booz Allen Hamilton consultant
+    Martin Kihn. The book was also adapted as an American comedy-drama by Matthew
+    Carahan.'
+variable_to_answer:
+  X Y Z: House of Lies
+variables:
+- X Y Z

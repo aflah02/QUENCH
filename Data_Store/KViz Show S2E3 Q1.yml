@@ -1,0 +1,20 @@
+metadata: ''
+question: The Berkeley Spring X Tasting Awards is the most prestigious and the largest
+  X tasting awards in the world. It is an annual award ceremony that invites X from
+  more than a dozen country and awards them in various categories. In this event,
+  the judges' job is crucial and so is their training. All judges are presented with
+  a diploma designating them as a Certified X Taster. In the 33rd edition that took
+  place in Feb 2023 Taifer Group 100% Deep Ocean X from Taiwan and Yes Alkaline Minerals
+  Deep Ocean X tied in the 1st place in one of the categories.
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E3 Q1
+themes:
+- Food and Cooking
+variable_specific_rationale:
+  X: The Berkeley Spring Water Tasting Awards is the most prestigious and the largest
+    Water tasting awards in the world. The other hints also help bridge it as alkaline
+    water or deep ocean water make sense.
+variable_to_answer:
+  X: Water
+variables:
+- X

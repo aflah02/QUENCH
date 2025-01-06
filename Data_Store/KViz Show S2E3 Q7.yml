@@ -1,0 +1,27 @@
+metadata: ''
+question: X's origin wasn't in the industry we know it from, and it initially bore
+  the name Y. Founded in 1926 by Sakichi Y, the company, known as Y Automatic Loom
+  Works, specialized in manufacturing looms. In 1933, Sakichi's son, Kiichiro, established
+  a separate division, paving the way for the company's venture into the sector. The
+  transition from "Y" to "X" occurred in 1936 during a competition to design a new
+  logo. The winning design retained the three Japanese characters representing the
+  Y name. However, after careful consideration, the Y family opted for the modified
+  "X." The change was motivated by the fact that writing "Y" required nine brush strokes,
+  while "X" needed only eight, a fortunate number in Japanese culture. Additionally,
+  the altered name was deemed more appealing, leading to the evolution from Y to X.
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E3 Q7
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Toyoda required nine brush strokes, while Toyota needed only eight, a fortunate
+    number in Japanese culture and hence during the selection of a new logo the name
+    was also changed.
+  Y: Sakichi Toyoda founded Toyoda Automatic Loom Works which later became today's
+    Toyota
+variable_to_answer:
+  X: Toyota
+  Y: Toyoda
+variables:
+- X
+- Y

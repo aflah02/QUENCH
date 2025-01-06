@@ -1,0 +1,21 @@
+metadata: ''
+question: This company X was founded in 1945, just a few weeks after the end of World
+  War 2 by Fritz X and seven fellow engineers of the University of Hannover in a laboratory
+  called Laboratorium Wennebostel (shortened, "Labor W"). Its first product was a
+  voltmeter. By 1955, the company had begun production of many products, including
+  geophysical equipment, noise-compensated microphones, microphone transformers, mixers,
+  and miniature magnetic headphones. Labor W was renamed X in 1958.
+question_source: https://www.youtube.com/watch?v=eNX9FH5XXKo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF2 -  Q1
+themes:
+- Business and Economics
+- Science and Technology
+variable_specific_rationale:
+  X: Sennheiser was started by Fritz X and seven fellow engineers of the University
+    of Hannover and was initially named Labor W. It was started just a few weeks post
+    WW2. The sound equipments mentioned also hint towards the company being an audio
+    one.
+variable_to_answer:
+  X: Sennheiser
+variables:
+- X

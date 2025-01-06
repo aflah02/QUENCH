@@ -1,0 +1,20 @@
+metadata: ''
+question: The X was first served on the long distance train between Bombay to Calcutta,
+  and in the Refreshment Rooms on Victoria Terminus Station in Mumbai. X was prepared
+  with tender pieces of Iamb or mutton, potatoes and other condiments along with the
+  addition of either vinegar, tamarind juice or yogurt. The vinegar or tamarind juice
+  used in its preparation ensured that X would last for quite a few days and was an
+  ideal accompaniment with rice as well.
+question_source: https://www.youtube.com/watch?v=lhMV08ZPDfo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=4
+question_title: Mega KVizzing Tournament - QF4 -  Q7
+themes:
+- Food and Cooking
+variable_specific_rationale:
+  X: Railway Mutton Curry is a famous dish served the long distance train between
+    Bombay to Calcutta, and in the Refreshment Rooms on Victoria Terminus Station
+    in Mumbai. The recipe also outlines the same and the vinegar and tamarind ensure
+    it stays healthy for consumption for a few days.
+variable_to_answer:
+  X: Railway Mutton Curry
+variables:
+- X

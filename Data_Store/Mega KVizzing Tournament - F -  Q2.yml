@@ -1,0 +1,22 @@
+metadata: ''
+question: If you're tired of going to places to admire priceless masterpieces, make
+  a trip to the MOBA in Massachusetts. MOBA is dedicated to celebrating the tacky,
+  amateur creations that usually end up in second-hand stores and trash bins. Collection
+  titles include "Poor Traits," "Oozing My Religion," and "In the Nood." According
+  to their website, "our collection includes sincere works in which something has
+  gone wrong in a way that results in compelling, interesting image. " MOBA was founded
+  in the fall of 1993 and presented its first show in March 1994 . The response was
+  overwhelming. Since then, MOBA's collection and ambitions have grown exponentially.
+  X is the full form of MOBA.
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q2
+themes:
+- Art and Music
+variable_specific_rationale:
+  X: MOBA stand for Museum of Bad Art. It is a famous museum and name can also be
+    deduced by the fact that the art stored here would have otherwise been thrown
+    out in the thrash if not for being in this museum.
+variable_to_answer:
+  X: Museum of Bad Art
+variables:
+- X

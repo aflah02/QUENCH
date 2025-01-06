@@ -1,0 +1,19 @@
+metadata: ''
+question: X's dad had an interesting career path. Born in 1879, Theodor Robert Geisel
+  was a brewmaster and a competitive marksman of international renown. When Prohibition
+  went into effect in 1920, Geisel entered a new line of work and became the superintendent
+  of Forest Park in Springfield, Massachusetts. Among his responsibilities, the elder
+  Geisel oversaw the park's onsite zoo. "That zoo," his famous son later remarked,
+  "is where I learned whatever I know about animals."
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q17
+themes:
+- Literature
+variable_specific_rationale:
+  X: Dr. Seuss grew up near Forest Park in Springfield, Massachusetts, where he claimed
+    he learned everything he knows about animals. Theodor Robert Geisel is also a
+    hint as Dr. Seuss was known as Theodor Seuss Geisel.
+variable_to_answer:
+  X: Dr. Seuss
+variables:
+- X

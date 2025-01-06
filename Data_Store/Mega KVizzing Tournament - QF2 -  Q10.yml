@@ -1,0 +1,22 @@
+metadata: ''
+question: In recent times, a peculiar and unsightly phenomenon has emerged, turning
+  trees into rather unconventional repositories. Certain individuals, prompted by
+  a heightened awareness of hygiene during the pandemic, have contributed to the proliferation.
+  These trees, adorned with small bags have become a common sight. Despite the availability
+  of bins, the bags (containing X) are suspended from branches, often leaving onlookers
+  bewildered. The increase in this curious practice has prompted concerns not only
+  about cleanliness but also about its environmental impact. Environmental advocates
+  have urged everyone to adopt a more responsible approach, emphasizing the potential
+  harm to wildlife, ecosystems, and waterways.
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF2 -  Q10
+themes:
+- Social Issues
+variable_specific_rationale:
+  X: Dog parents have started to hang the Dog Poo bags on trees leaving onlookers
+    bewildered. People have raised concerns about this, and this only harms the environment.
+    It began to become more common post the pandemic.
+variable_to_answer:
+  X: Dog Poo
+variables:
+- X

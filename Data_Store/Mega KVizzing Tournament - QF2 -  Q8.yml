@@ -1,0 +1,24 @@
+metadata: ''
+question: Over nearly 9 years, Hannah and Lauren Luckey cultivated a daily ritual
+  that began casually and evolved into an indispensable routine. This digital interaction
+  (X), more than a mere habit, became a lifeline for their friendship, offering tangible
+  proof that someone special was in each other's thoughts daily. This unique connection
+  transcended distance, providing comfort and companionship amid life's challenges.
+  Despite time differences and long-distance hurdles, they discovered an ideal medium
+  to maintain this ritual, as traditional methods proved impractical. Through this,
+  they shared the intimate aspects of their lives, fostering a lasting sense of closeness
+  even during moments of silence. X is an enduring activity, marked by an unbroken
+  chain of daily interactions and shared moments, and is at the heart of this lasting
+  and meaningful connection
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF2 -  Q8
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: Hannah and Lauren Luckey share the longest Snapchat streak. It can be deduced
+    using the digital interaction hint alongside the things about intimate aspects
+    of life and unbroken chain of daily interactions and shared moments.
+variable_to_answer:
+  X: Longest Snapchat Streak
+variables:
+- X

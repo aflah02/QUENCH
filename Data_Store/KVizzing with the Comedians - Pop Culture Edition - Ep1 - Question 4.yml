@@ -1,0 +1,24 @@
+metadata: ''
+question: '* The film (X) was released in 115 theaters in the USA, making it the biggest
+  American release ever for a Hindi film as of 2008. * During the making of Mangal
+  Pandey, A. R. Rahman had declared that he will never compose music again for a period
+  drama, but changed his mind later to compose for this film. * The district administration
+  imposed a ban on the screening of the movie in Ambala following protests by members
+  of a certain community who alleged that historical facts had been distorted in the
+  film. They believe that someone who was a daughter-in-law to someone was incorrectly
+  depicted to be his wife. Identify the movie.'
+question_source: https://www.youtube.com/watch?v=BOOHPDcz7Zs&list=PLwXllhq0F5MlDWa52D8-w2-4AQ7H5W2SI
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep1 - Question
+  4
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: The movie Jodha Akbar had the biggest American release ever for a Hindi film
+    as of 2008. A. R. Rahman also made a return to make music for the film after previously
+    vowing to never make music again for a period drama. There were protests claiming
+    that Jodha was Akbar's daughter-in-law and not his wife.
+variable_to_answer:
+  X: Jodha Akbar
+variables:
+- X

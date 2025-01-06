@@ -1,0 +1,22 @@
+metadata: ''
+question: A Norman X, named after design expert Don Norman, refers to a X that is
+  unclear and confusing in its usability. These often display visual cues that lead
+  users to make incorrect assumptions about how to operate them, requiring additional
+  signage for clarification. It can be frustrating for individuals who encounter these
+  as they need to rely on trial and error or observation of others to determine whether
+  to do one thing or the other the X, resulting in awkward situations. Ideally, a
+  well-designed X should be intuitive and require no second-guessing from users. It
+  should eliminate the need for signage and effortlessly guide individuals on how
+  to operate it correctly.
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 6
+themes:
+- Design
+variable_specific_rationale:
+  X: Norman Door is a door that is confusing to use as people get confused between
+    pushing or pulling it and end up relying on trial and error to figure out the
+    correct action.
+variable_to_answer:
+  X: Door
+variables:
+- X

@@ -1,0 +1,20 @@
+metadata: ''
+question: In 1907, two teenagers, Claude Ryan and Jim Casey, got a $100 loan from
+  a friend and set up a company (X) known as America Messenger Company. In 1919, they
+  adopted a logo which portrayed a dark brown eagle with some package tied in its
+  talons. In the backdrop, there was the shape of a bronze shield with a gold boundary.
+  The package had lettering written "safe, swift, sure".
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 2 - Question 10
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: 'Claude Ryan and Jim Casey started UPS in 1907. In 1919, they adopted a dark
+    brown eagle logo with some package tied in its talons. In the backdrop, there
+    was the shape of a bronze shield with a gold
+
+    boundary. The package had lettering written "safe, swift, sure".'
+variable_to_answer:
+  X: UPS
+variables:
+- X

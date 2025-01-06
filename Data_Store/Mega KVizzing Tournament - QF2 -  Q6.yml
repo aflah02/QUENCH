@@ -1,0 +1,25 @@
+metadata: ''
+question: 'Upon author X''s death in 1928, it was deemed fitting to bury him at Westminster
+  Abbey due to his literary success. Despite this, X''s strong connection to Dorset
+  led him to express a desire for burial in the small Stinsford church graveyard,
+  a place he cherished since childhood. A compromise was reached: X''s body was interred
+  at Westminster Abbey, while his heart was to be buried in Dorset as per his wish.
+  The village doctor delicately removed the heart, placing it on a table wrapped in
+  cloth. Upon the doctor''s return, he found the heart missing, consumed by a cat.
+  Consequently, the doctor euthanized the cat, burying it, and photos of X''s heart
+  funeral reveal a container seemingly too large for a heart but just right for a
+  cat.'
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF2 -  Q6
+themes:
+- Literature
+variable_specific_rationale:
+  X: Thomas Hardy dies in 1928 and it was decided that his heart will be buried at
+    Dorset a place he cherished while his body be buried at Westminster Abbey due
+    to his literary success. It is believed that while the doctor who performed the
+    heart removal was not looking a cat consumed the heart and hence the doctor euthanized
+    the cat and had it buried it.
+variable_to_answer:
+  X: Thomas Hardy
+variables:
+- X

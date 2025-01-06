@@ -1,0 +1,26 @@
+metadata: ''
+question: The X is a device used to detect certain destructive events by its signature
+  visual double pulse, and it was also used to detect the most famous event of its
+  kind. Named as a tongue-in-cheek reference to Y, a Hindi word that is quite closely
+  related to spring festivals like Holi, having been used in some context from 1000
+  BC.
+question_source: https://donquizote.wordpress.com/2023/07/16/question-3-weekend-mini-league-3/
+question_title: question-3-weekend-mini-league-3
+themes:
+- History
+- Mythology and Folklore
+- Pop Culture
+variable_specific_rationale:
+  X: The bhangmeter was invented, and the first proof-of-concept device was built,
+    in 1948 to measure the nuclear test detonations of Operation Sandstone, a series
+    of nuclear weapons tests in 1948!
+  Y: "The name is derived from the Hindi word \u201Cbhang\u201D, a locally grown variety\
+    \ of cannabis which is smoked or drunk to induce intoxicating effects during spring\
+    \ festivals like Holi, the joke being that one would have to be on drugs to believe\
+    \ the bhangmeter detectors would work properly."
+variable_to_answer:
+  X: Bhangmeter
+  Y: Bhang
+variables:
+- X
+- Y

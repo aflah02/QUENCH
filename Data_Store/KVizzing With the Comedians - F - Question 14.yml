@@ -1,0 +1,21 @@
+metadata: ''
+question: In the 1928 edition of the Oxford English Dictionary(OED), X held the record
+  for the entry with most meanings. The print edition of the OED still encompasses
+  around 200 definitions for the word X. However, the editors of the OED recently
+  disclosed that in the third edition (which will be completed in 2037), "Run" has
+  now surpassed X and has become the English word with the most potential meanings.
+  According to British author Simon Winchester, this shift reflects the dynamic and
+  fast-paced nature of our modern era, rendering words like X as dull and passive
+  in comparison. Interestingly, X is also a 3 letter word.
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 14
+themes:
+- Language and Linguistics
+- Literature
+variable_specific_rationale:
+  X: The word Set holds the record for the most number of meanings however in the
+    next edition the word Run will take over this title.
+variable_to_answer:
+  X: Set
+variables:
+- X

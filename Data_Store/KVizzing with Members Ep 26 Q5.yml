@@ -1,0 +1,20 @@
+metadata: ''
+question: 'A remarkable collaboration is on the horizon for the Indian film "Ramayana,"
+  featuring Ranbir Kapoor. This upcoming epic is set to unite two globally renowned
+  composers: one being AR Rahman, and the other (X), known for his iconic scores in
+  films such as "Pirates of the Caribbean," "Inception," and "Man of Steel." Sharing
+  a fascination with the story of Lord Ram, this composer is poised to make his mark
+  in the Indian film industry.'
+question_source: https://www.youtube.com/watch?v=TJAHWyYRnTo
+question_title: KVizzing with Members Ep 26 Q5
+themes:
+- Art and Music
+- Pop Culture
+- Movies and Entertainment
+variable_specific_rationale:
+  X: Hans Zimmer is collaborating with AR Rahman for the Ramayana. He has previously
+    composed for "Pirates of the Caribbean," "Inception," and "Man of Steel."
+variable_to_answer:
+  X: Hans Zimmer
+variables:
+- X

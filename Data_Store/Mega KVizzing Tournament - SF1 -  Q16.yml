@@ -1,0 +1,23 @@
+metadata: ''
+question: Lana Del Rey recently announced her upcoming album, which takes a surprising
+  turn towards the country genre. Collaborating with acclaimed producer Jack Antonoff,
+  Lana shared her excitement about their creative journey across various southern
+  U.S. locations, including Muscle Shoals, Nashville, and Mississippi. Antonoff, a
+  Grammy-winning artist known for his work with Taylor Swift and Lorde, has been a
+  consistent creative force for Lana since their serendipitous meeting in 2018. X,
+  a common term, associated with cowboys and a comic book character's iconic weapon,
+  is also the title of Lana Del Rey's upcoming album
+question_source: https://www.youtube.com/watch?v=0rZIH2hSl54&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF1 -  Q16
+themes:
+- Art and Music
+- Current Events
+- Pop Culture
+variable_specific_rationale:
+  X: Lana Del Rey's upcoming album is titled Lasso. The lasso is related to cowboys
+    while also being one of Wonder Woman's iconic weapons. It also related to the
+    country genre.
+variable_to_answer:
+  X: Lasso
+variables:
+- X

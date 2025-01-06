@@ -1,0 +1,18 @@
+metadata: ''
+question: Tinder has recognized the importance of certain romantic decisions and is
+  now offering a unique service. According to their research, a significant percentage
+  of young singles' tattoos carry a special meaning related to a specific relationship.
+  The dating app believes that your body is like a "walking canvas of commitment".
+  Hence, they partnered with a tattoo company for this unique service (X).
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E2 Q12
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: Tinder offers the service to allow people to get tattoo Removal of ex's name.
+    The "walking canvas of commitment" reference also helps as it alludes to the fact
+    that the canvas can be cleared.
+variable_to_answer:
+  X: Tattoo Removal of Ex's Name
+variables:
+- X

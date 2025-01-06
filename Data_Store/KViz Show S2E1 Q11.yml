@@ -1,0 +1,27 @@
+metadata: ''
+question: In the world of cricket, sentiments run high, and players often hold deep
+  emotional connections to certain symbols. Former Australian captain Mark Taylor
+  once remarked, "The moment you get a X is the moment you have made it," emphasizing
+  the prestige attached to this iconic item. Western Australian batsman Michael Hussey
+  echoed similar sentiments, describing X as more than just an article of clothing;
+  it transcends being a mere piece of fabric. However, there's one cricketing legend
+  (Y) who stood in contrast to these emotional attachments. He dismissed X as "a load
+  of rubbish" and challenged the notion that wearing it is a prerequisite to expressing
+  love for playing cricket for Australia. This individual even criticized former captain
+  Steve Waugh for enforcing the use of this item.
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q11
+themes:
+- Cricket
+- Sports
+variable_specific_rationale:
+  X: 'Baggy Green is a cap worn by Australian test cricketers and holds high value
+    amongst the players as can be noted by the comments. '
+  Y: Shane Warne opposed this and called it "a load of rubbish" even criticizing the
+    former captain Steve Waugh for enforcing the use of this item.
+variable_to_answer:
+  X: Baggy Green
+  Y: Shane Warne
+variables:
+- X
+- Y

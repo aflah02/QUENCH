@@ -1,0 +1,19 @@
+metadata: ''
+question: While this dessert (X) was originally associated with Southern United States
+  cuisine, the dish is enjoyed throughout the USA and beyond. It contains a gooey
+  chocolate sauce, brownie and chocolate custard on top of a crumbly chocolate crust.
+  The name is derived from the fact that it resembles the banks of a particular river.
+  The dessert also has a flavour of ice cream named after it
+question_source: https://www.youtube.com/watch?v=OsNiTh7rf-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=2
+question_title: KVizzing With the Comedians - QF 2 - Question 7
+themes:
+- Food and Cooking
+variable_specific_rationale:
+  X: Mississippi Mud Pie is a decadent dessert that originated in the Southern United
+    States, but has gained popularity throughout the country and beyond. It features
+    a gooey chocolate sauce, brownie, and chocolate custard atop a crumbly chocolate
+    crust, with a flavor of ice cream named after it.
+variable_to_answer:
+  X: Mississippi mud pie
+variables:
+- X

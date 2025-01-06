@@ -1,0 +1,26 @@
+metadata: ''
+question: '* The film (X) was dubbed in English as ''When Love Calls''. It was the
+  biggest hit in the Caribbean market at Guyana and Trinidad and Tobago.lt was also
+  dubbed as Te Amo in Spanish. * It was one of the first Hindi films where costumes
+  and props used in the films became so popular that they went on sale as merchandise.
+  * Deepak Tijori, Vindu Dara Singh, Deep Raja Rana, Piyush Mishra, were apparently
+  considered to play the lead in the movie. * At the 35th Filmfare Awards , it received
+  six Filmfare Awards including wins for Best Film, Best Male Debut, Best Female Debut,
+  Best Music Director, Best Male Playback Singer and Best Lyricist. Which movie are
+  we talking about?'
+question_source: https://www.youtube.com/watch?v=BOOHPDcz7Zs&list=PLwXllhq0F5MlDWa52D8-w2-4AQ7H5W2SI
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep1 - Question
+  8
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Maine Pyar Kiya won six Filmfare awards at the 35th Filmfare Awards. Several
+    props and costumes went on sale as merchandise, and it was supped in many languages
+    as well becoming a hit in the Caribbean market at Guyana and Trinidad and Tobago.
+    Several others actors were considered before settling on Salman Khan to play the
+    lead in the movie.
+variable_to_answer:
+  X: Maine Pyaar Kiya
+variables:
+- X

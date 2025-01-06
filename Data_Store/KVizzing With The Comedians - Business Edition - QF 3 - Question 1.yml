@@ -1,0 +1,18 @@
+metadata: ''
+question: This company (X) was started by Lee Byung-chul in 1938. It started out as
+  a small trading company with forty employees located in Su- dong (now Ingyo-dong).
+  It dealt in dried-fish, locally-grown groceries and noodles. The company name means
+  'three stars' in the native tongue representing 'big, numerous and powerful'.
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 3 - Question 1
+themes:
+- Business and Economics
+- History
+variable_specific_rationale:
+  X: Samsung was started by Lee Byung-chul in 1938. It was a small trading company
+    which traded in dried-fish, locally-grown groceries and noodles. The name Samsung
+    means 'three stars'.
+variable_to_answer:
+  X: Samsung
+variables:
+- X

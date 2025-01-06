@@ -1,0 +1,22 @@
+metadata: ''
+question: "According to its writer, the name (X) is derived from 'Heuristically programmed\
+  \ algorithmic computer'. After fans started to notice there was a one-letter shift\
+  \ from the name IBM, he had to clarify \u2014 is one letter '....about once a week\
+  \ some character spots the fact that ahead of IBM, and promptly assumes that Stanley\
+  \ and I were taking a crack at the estimable institution... As it happened, IBM\
+  \ had given us a good deal of help, so we were quite embarrassed by this, and would\
+  \ have changed the name had we spotted the coincidence.' Some of the other names\
+  \ that had been considered were Autonomous Mobile Explorer-6, Socrates and Athena."
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 1
+themes:
+- Pop Culture
+- Science and Technology
+variable_specific_rationale:
+  X: HAL in HAL 9000 was a one-letter shift from the name IBM and prompted fans to
+    think that the writers took a dig at IBM which they refuted and claimed that IBM
+    helped them a lot and this was a mistake.
+variable_to_answer:
+  X: HAL 9000
+variables:
+- X

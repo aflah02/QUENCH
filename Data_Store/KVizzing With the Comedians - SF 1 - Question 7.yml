@@ -1,0 +1,19 @@
+metadata: ''
+question: Pierre Gasly, who in 2023 joined Alpine, the French Formula One team, revealed
+  in an interview that his choice of driver number (Y) in Formula 1 was influenced,
+  at least in part, by X. This came after X was appointed as the ambassador for Alpine
+  in 2023.
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 7
+themes:
+- Sports
+variable_specific_rationale:
+  X: Pierre Gasly is a big fan of Zinedine Zidane who became the ambassador for Alpine
+    in 2023.
+  Y: Zinedine Zidane wore the jersey number 10 for the French national football team.
+variable_to_answer:
+  X: Zinedine Zidane
+  Y: '10'
+variables:
+- X
+- Y

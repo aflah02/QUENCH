@@ -1,0 +1,19 @@
+metadata: ''
+question: In 1994, a team led by Masahiro Hara from the Japanese company Denso Wave
+  invented X. The initial design was inspired by the black and white pieces on a Go
+  Board. They discovered a position detection pattern, which relied on the least used
+  ratio in black and white areas on printed materials, effectively avoiding misidentification.
+  This ratio was 1:1:3:1:1. To extract the required data, patterns present in both
+  the horizontal and vertical components of the image are utilized.
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 3
+themes:
+- Science and Technology
+variable_specific_rationale:
+  X: The team led by Masahiro Hara at Denso Wave created the QR Code. The black and
+    white color are seen in the QR code and the ratios are used to avoid misidentification
+    of the QR code.
+variable_to_answer:
+  X: QR Code
+variables:
+- X

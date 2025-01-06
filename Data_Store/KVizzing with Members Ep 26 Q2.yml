@@ -1,0 +1,19 @@
+metadata: ''
+question: Hemwati Nandan Bahuguna was an Indian National Congress leader and former
+  Chief Minister of Uttar Pradesh; he later joined Bharatiya Lok Dal and worked with
+  Charan Singh. He contested against the Congress candidate, X, in 1984 Parliamentary
+  elections from Allahabad constituency. X won the election by approximately 1,87,000
+  votes.
+question_source: https://www.youtube.com/watch?v=TJAHWyYRnTo
+question_title: KVizzing with Members Ep 26 Q2
+themes:
+- Politics and Government
+- Movies and Entertainment
+variable_specific_rationale:
+  X: This election is famous as a famous Bollywood celebrity was a candidate. Amitabh
+    Bachchan fought for Congress against Hemwati Nandan Bahuguna and won the Allahabad
+    constituency by approximately 1,87,000 votes
+variable_to_answer:
+  X: Amitabh Bachchan
+variables:
+- X

@@ -1,0 +1,20 @@
+metadata: ''
+question: Mahesh Bhatt's breakout film X was partly autobiographical, giving it a
+  sense of intimacy still rare in Hindi cinema. Pooja finds the bubble of her happy
+  marriage starting to burst when she discovers that her filmmaker husband, Inder,
+  is having an affair with Kavita. Pooja's search for her own identity leads her to
+  many revelations, while Inder is ultimately left alone
+question_source: https://www.youtube.com/watch?v=_PnezMNAJgY
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  10
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Arth was Mahesh Bhatt's breakout film. The plot involved Pooja discovering her
+    film-maker husband cheating on her and getting engrossed in a search for her own
+    identity.
+variable_to_answer:
+  X: Arth
+variables:
+- X

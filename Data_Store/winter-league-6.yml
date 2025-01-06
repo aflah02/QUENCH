@@ -1,0 +1,18 @@
+metadata: ''
+question: X were used by the Germans before World War 2 mainly for practice, which
+  was later pioneered by the British as a deception tactic, making their debut in
+  the North African frontier. They played an important role prior to the landings
+  at Normandy, making it appear that the invasion would take place at Pas-de-Calais
+  rather than at Normandy.
+question_source: https://donquizote.wordpress.com/2021/12/27/winter-league-6/
+question_title: winter-league-6
+themes:
+- History
+variable_specific_rationale:
+  X: 'Dummy tanks superficially resemble real tanks and are often deployed as a means
+    of military deception in the absence of real tanks. They were used in both world
+    wars. In WW1: Allied, and by WW2: both Allied and Axis powers adopted their use.'
+variable_to_answer:
+  X: Dummy Tanks
+variables:
+- X

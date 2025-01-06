@@ -1,0 +1,17 @@
+metadata: ''
+question: "The Garden of Life is a beautifully illustrated and practical guide to\
+  \ the use of plants in a range of applications\u2014sacred, medicinal, culinary,\
+  \ cosmetic and aromatic, written by X a chief minister of India, known for his rich\
+  \ taste in sports and literature."
+question_source: https://www.youtube.com/watch?v=01WxO1MZNHI&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 3 - Question 9
+themes:
+- Books
+- Politics and Government
+variable_specific_rationale:
+  X: Naveen Patnaik, Chief Minister of Odisha wrote the book The Garden of Life which
+    talks about usage of plants in a variety of applications
+variable_to_answer:
+  X: Naveen Patnaik
+variables:
+- X

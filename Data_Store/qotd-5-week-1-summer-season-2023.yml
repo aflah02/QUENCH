@@ -1,0 +1,28 @@
+metadata: ''
+question: X and Y are two classics, ten years apart. They depict reflections on a
+  broken connection by the two parties involved. The same actress, who has been the
+  highest-paid actress in the world before, plays a leading role in each of the two
+  masterpieces. They are inspired by the lives of people who have each won an Oscar
+  for Best Original Screenplay. The theme of X and Y is also related to that of a
+  famous British memoir from 2016.
+question_source: https://donquizote.wordpress.com/2023/06/30/qotd-5-week-1-summer-season-2023/
+question_title: qotd-5-week-1-summer-season-2023
+themes:
+- Movies and Entertainment
+variable_specific_rationale:
+  X: Directed by Sofia Coppola, who is also the wife of Spike Jonze (the director
+    of Y - Her). Released in 2003, 10 years before the release of Y - Her. Stars Scarlett
+    Johansson as the leading actress. Inspired by the lives of people who have won
+    an Oscar for Best Original Screenplay (Sofia Coppola won an Oscar for Best Original
+    Screenplay for Lost in Translation)
+  Y: Directed by Spike Jonze, who is also the husband of Sofia Coppola (the director
+    of X - Lost in Translation). Released in 2013, 10 years after the release of X
+    - Lost in Translation. Stars Scarlett Johansson as the leading actress. Inspired
+    by the lives of people who have won an Oscar for Best Original Screenplay (Spike
+    Jonze won an Oscar for Best Original Screenplay for Her).
+variable_to_answer:
+  X: Lost in Translation
+  Y: Her
+variables:
+- X
+- Y

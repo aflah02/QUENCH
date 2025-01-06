@@ -1,0 +1,19 @@
+metadata: ''
+question: Stephen Fleming is the longest serving coach in the IPL, coaching Chennai
+  Super Kings from 2009 to the present edition. He is considered one of the most successful
+  coaches in the league and the team has reached playoffs in every season except 2020,
+  and has won the title 3 times, as of now. The only season CSK had a different coach
+  (X) was the very first edition, where Stephen Fleming was a player. X was the coach
+  of CSK in the first edition, who took the team till the finals, and ended the edition
+  as Runner ups?
+question_source: https://www.youtube.com/watch?v=VSc6V6sXL-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6
+question_title: KVizzing With the Comedians - QF 1 - Question 7
+themes:
+- Cricket
+variable_specific_rationale:
+  X: Kepler Wessels was the coach of CSK in the first IPL and took the team to the
+    finals where they ended as the runner ups.
+variable_to_answer:
+  X: Kepler Wessels
+variables:
+- X

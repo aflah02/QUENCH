@@ -1,0 +1,21 @@
+metadata: ''
+question: X is a Rishi mentioned in the Rigveda, where he is described as an aged
+  and feeble person whose youth and strength was restored by the twin Ashvini Kumar
+  brothers, who were the Rajya Vaids or 'State Doctors'. He first prepared this herbal
+  mixture (Y), which is today sold as a rejuvenating recipe and a dietary supplement.
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 1 - Question 5
+themes:
+- Business and Economics
+- Mythology and Folklore
+variable_specific_rationale:
+  X: Rishi Chyavan is mentioned in the Rigveda where his youth and strength was restored
+    Ashvini Kumar brothers, who were the Rajya Vaids or 'State Doctors'.
+  Y: Chyawanprash a dietrary supplement and herbal mixture is said to have first been
+    prepared by Rishi Chyavan
+variable_to_answer:
+  X: Rishi Chyavan
+  Y: Chyawanprash
+variables:
+- X
+- Y

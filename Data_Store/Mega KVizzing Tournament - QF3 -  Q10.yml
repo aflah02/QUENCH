@@ -1,0 +1,22 @@
+metadata: ''
+question: Almost 32 years ago, on March 20, 1992, X introduced viewers to Catherine
+  Tramell, a novelist suspected of being a serial killer who uses an ice pick in unusual
+  situations. Michael Douglas, portrayed her love interest, Nick Curran, a detective
+  in San Francisco. Directed by Paul Verhoeven and written by Joe Eszterhas , X earned
+  $352,927,224 globally, surpassing its $49 million budget. It ranked as the ninth
+  highest- grossing film in the United States in 1992. However, the 2006 sequel, delayed
+  for years, performed poorly at the box office.
+question_source: https://www.youtube.com/watch?v=JtvCSZdMzAI&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF3 -  Q10
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Chatherine Tramell, Michael Douglas and Nick Curran are characters from Basic
+    Instinct. It came out in 1992 and was directed by Paul Verhoeven and written by
+    Joe Eszterhas. However, the sequel was significantly delayed and performed very
+    poorly.
+variable_to_answer:
+  X: Basic Instinct
+variables:
+- X

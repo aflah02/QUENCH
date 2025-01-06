@@ -1,0 +1,29 @@
+metadata: ''
+question: "Though equally inspired by fairy tales, westerns, and 1930s sci-fi serials,\
+  \ Y based the framework of the story for the original X around the theories of Joseph\
+  \ Campbell's book, The Hero with a Thousand Faces. The book tracked common mythological\
+  \ motifs and argued that myths from around the world that have been passed down\
+  \ through generations\u2014like Beowulf or King Arthur\u2014share a basic structure.\
+  \ According to Campbell, \"A hero ventures forth from the world of common day into\
+  \ a region of supernatural wonder: fabulous forces are there encountered and a decisive\
+  \ victory is won; the hero comes back from this mysterious adventure with the power\
+  \ to bestow boons on his fellow man.\""
+question_source: https://www.youtube.com/watch?v=_PnezMNAJgY
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  3
+themes:
+- Literature
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: George Lucas created Star Wars. Sci-fi serials also offers a hint alongside the
+    fact that the creator was inspired by Joseph Campbell's book, The Hero with a
+    Thousand Faces
+  Y: George Lucas was inspired by Joseph Campbell's book, The Hero with a Thousand
+    Faces amongst other things to create Star Wars
+variable_to_answer:
+  X: Star Wars
+  Y: George Lucas
+variables:
+- X
+- Y

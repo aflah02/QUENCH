@@ -1,0 +1,21 @@
+metadata: ''
+question: It is believed in the fall of 1982, X got a phone call from his friend and
+  science fiction writer, Arthur C. Clarke, after Clarke watched the film E.T. by
+  Steven Spielberg. Watching the film, Clarke was struck by the similarities between
+  E.T. and 'The Alien,' a script by X written in 1967. In that script, an alien landed
+  in a village and befriended a young boy. Some people till today want to believe
+  that E.T. was a plagiarised story from 'The Alien'.
+question_source: https://www.youtube.com/watch?v=1qxJy0OpbUI&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 1 - Question 11
+themes:
+- Literature
+- Movies and Entertainment
+variable_specific_rationale:
+  X: Satyajit Ray said that Steven Spielberg's film "would not have been possible
+    without my script of 'The Alien' being available throughout America in mimeographed
+    copies." Spielberg denied any plagiarism by saying, "I was a kid in high school
+    when this script was circulating in Hollywood."
+variable_to_answer:
+  X: Satyajit Ray
+variables:
+- X

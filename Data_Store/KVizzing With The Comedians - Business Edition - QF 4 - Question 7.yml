@@ -1,0 +1,20 @@
+metadata: ''
+question: The label on the product (X) features a glowing Christian cross seen between
+  the antlers of a stag. This image is a reference to the two Christian patron saints
+  of hunters, Saint Hubertus and Saint Eustace, both of whom converted to Christianity
+  after experiencing a vision in which they saw a Christian cross between the antlers
+  of a stag. In the product name on the label is one of the few surviving examples
+  of the use of the long s in print. X is made with 56 herbs and spices
+question_source: https://www.youtube.com/watch?v=tCA4WD6VeWw&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 4 - Question 7
+themes:
+- Business and Economics
+- Food and Cooking
+variable_specific_rationale:
+  X: "J\xE4germeister is made with 56 herbs and spices. The logo features a glowing\
+    \ Christian cross seen between the antlers of a stag which references the two\
+    \ Christian patron saints of hunters, Saint Hubertus and Saint Eustace."
+variable_to_answer:
+  X: "J\xE4germeister"
+variables:
+- X

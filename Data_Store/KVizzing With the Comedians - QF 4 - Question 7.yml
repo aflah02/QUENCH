@@ -1,0 +1,19 @@
+metadata: ''
+question: "In baseball, a X is a ticket issued to spectators which admits them to\
+  \ the ballpark at a later date at no additional cost to its holder. It is issued\
+  \ if a game is cancelled due to a particular reason. The practice has been recorded\
+  \ since the 1870s \u2014 though it did not become generally established until the\
+  \ 20th century - and today the term is used to refuse an offer politely, but imply\
+  \ that it can be taken up later."
+question_source: https://www.youtube.com/watch?v=xeAYBOR2On0&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 4 - Question 7
+themes:
+- Sports
+variable_specific_rationale:
+  X: A Rain-Check is a ticket issued to spectators to reuse on a later date if a game
+    is stopped due to weather conditions. It is also nowadays used to refuse an offer
+    politely and propose it for a later date
+variable_to_answer:
+  X: Rain-Check
+variables:
+- X

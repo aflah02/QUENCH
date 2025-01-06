@@ -1,0 +1,22 @@
+metadata: ''
+question: "A volcano on the northern side of the Caribbean island of St. Vincent named\
+  \ La Soufri\xE9re began exploding on April 9, 2021 but the eruption itself actually\
+  \ began in December, when lava started oozing out of the volcano's summit. According\
+  \ to one volcanologist, \"the volcanoes of the eastern Caribbean are known for quickly\
+  \ and dangerously shifting from calm, burbling eruptions to remarkably violent outbursts.\"\
+  \ This volcanologist used a term (X) from literature to describe such eruptions\
+  \ which begin as benign but become explosive in a short time essentially alternately\
+  \ displaying two different sides to its character/nature?"
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=7
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 11
+themes:
+- Geology
+- Literature
+variable_specific_rationale:
+  X: The term "Jekyll and Hyde" is used to refer to the two sides of the same person
+    or the duality of someone's personality. This term is very apt in this context
+    as well due to the very variable nature of the aforementioned volcanoes.
+variable_to_answer:
+  X: Jekyll and Hyde
+variables:
+- X

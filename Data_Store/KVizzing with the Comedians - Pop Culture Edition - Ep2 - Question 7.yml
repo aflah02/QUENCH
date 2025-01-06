@@ -1,0 +1,20 @@
+metadata: ''
+question: "X is one of the most profitable films of all time, grossing \u20B9965 crore\
+  \ ($154 million) worldwide on a limited budget of crore (US$2.3 million), with over\
+  \ 6,000% return on investment (ROI). The film is also the highest-grossing Indian\
+  \ film featuring a female protagonist, the highest- grossing 2017 Hindi film, the\
+  \ sixth highest- grossing Indian film worldwide, and the second highest-grossing\
+  \ Indian film overseas."
+question_source: https://www.youtube.com/watch?v=_PnezMNAJgY
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  7
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: 'Secret Superstar is a 2017 Hindi film had significant international success
+    especially in China and featured a female protagonist. '
+variable_to_answer:
+  X: Secret Superstar
+variables:
+- X

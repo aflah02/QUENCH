@@ -1,0 +1,25 @@
+metadata: ''
+question: X's first and only major press conference was held in Killinochchi in 2002
+  in which he was introduced as the "President and Prime Minister of Y." Repeated
+  questions about his involvement in a certain event were only answered in a sober
+  note by him, calling it a "tragic incident" ("Thunbiyal Chambavam", as quoted in
+  Tamil) and requesting the press "not to dig into an incident that happened 10 years
+  ago." Among other titles, he was called "Karikalan" for his bravery and his administration
+  (in reference to Karikala Chola, a famous Chola king).
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 4
+themes:
+- History
+- Politics and Government
+variable_specific_rationale:
+  X: Velupillai Prabhakaran was introduced as the "President and Prime Minister of
+    Tamil Eelam." In the press conference he was repeatedly question about Rajiv Gandhi's
+    assassination by the LTTE
+  Y: Velupillai Prabhakaran was an LTTE leader and was introduced as the "President
+    and Prime Minister of Tamil Eelam."
+variable_to_answer:
+  X: Velupillai Prabhakaran
+  Y: Tamil Eelam
+variables:
+- X
+- Y

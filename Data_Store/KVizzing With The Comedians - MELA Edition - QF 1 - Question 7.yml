@@ -1,0 +1,25 @@
+metadata: ''
+question: 'X is an Italian protest folk song that originated in the hardships of the
+  mondina women, the paddy field workers in the late 19th century who sang it to protest
+  against harsh working conditions in the paddy fields of North Italy. The song was
+  adopted as an anthem of the anti-fascist resistance: 1943 and 1945 during the Italian
+  Resistance. Versions of this are sung worldwide as an anti-fascist hymn of freedom
+  and resistance.'
+question_source: https://www.youtube.com/watch?v=1qxJy0OpbUI&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF1 - Question  7
+themes:
+- Art and Music
+- History
+- Politics and Government
+variable_specific_rationale:
+  X: '"Bella ciao" is an Italian protest folk song from the late 19th century, originally
+    sung by the mondina workers in protest against the harsh working conditions in
+    the paddy fields of Northern Italy. It is widely assumed that this song was modified
+    and adopted as an anthem of the Italian partisans who opposed Nazism and fascism
+    and fought against the occupying forces of Nazi Germany, who were allied with
+    the fascist and collaborationist Italian Social Republic between 1943 and 1945
+    during the Italian resistance and the liberation of Italy.'
+variable_to_answer:
+  X: Bella Ciao
+variables:
+- X

@@ -1,0 +1,21 @@
+metadata: ''
+question: The idea for X stemmed from the negative reception of Scott Cawthon's previous
+  game, the family-friendly Chipper & Sons Lumber Co. Players said that the main character
+  (a young beaver) looked like "a scary animatronic animal" and reviewer James Sterling
+  called the game "unintentionally terrifying". Initially discouraged by the criticism,
+  Cawthon (who had previously primarily developed Christian-oriented games) eventually
+  used the feedback to make something intentionally scarier. A video game series got
+  created after that, which also inspired a 2023 movie of the same name which garnered
+  negative reviews from critics but was a commercial success.
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q9
+themes:
+- Movies and Entertainment
+variable_specific_rationale:
+  X: 'Five Nights at Freddy''s is a scary game which was created by Scott Cawthon
+    intentionally as his older game was called scary in certain aspects. It also has
+    a movie and a game based on top of it. '
+variable_to_answer:
+  X: Five Nights at Freddy's
+variables:
+- X

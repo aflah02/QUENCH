@@ -1,0 +1,17 @@
+metadata: ''
+question: According to the company, in 2014, the founder happened to meet Ajay Bijli,
+  owner of PVR in an elevator and they finally got their big break with funding from
+  PVR in 2015. The name (X) comes from the fact that the oldest evidence of their
+  primary product was found in the ancient caves of Peru, nearly 6700 years ago.
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 3 - Question 6
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: 4700BC Popcorn was initially funded by PVR and sells gourmet popcorn. The name
+    comes from the fact that the oldest evidence of popcorn was found in the ancient
+    caves of Peru.
+variable_to_answer:
+  X: 4700BC Popcorn
+variables:
+- X

@@ -1,6 +1,6 @@
 # Annotation Tool
 
-This repository contains a simple annotation tool implemented as a Streamlit web application. The tool is designed for annotating questions as part of a multi-stage annotation process.
+This folder contains a simple annotation tool implemented as a Streamlit web application. The tool is designed for annotating questions as part of a multi-stage annotation process.
 
 ## Installation
 

@@ -1,0 +1,21 @@
+metadata: ''
+question: A famous quotation (X) from baseball player and manager Yogi Berra. Berra
+  used it in 1973, while managing the New York Mets, to mean a team is not out of
+  the pennant race until they are mathematically eliminated. In sports, it is usually
+  used to mean that a game is not officially over until time expires or the final
+  out is registered, and that the players need to stay mentally focused until that
+  point, particularly when their team has a large lead but there is sufficient time
+  for the opposing team to come back and win.
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 1
+themes:
+- Pop Culture
+- Sports
+variable_specific_rationale:
+  X: The popular phrase "It ain't over till it's over" was first used by Berra to
+    motivate his team to continue playing for a win until the game is officially declared
+    over to motivate them to comeback against all odds.
+variable_to_answer:
+  X: It ain't over till it's over
+variables:
+- X

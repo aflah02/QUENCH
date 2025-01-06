@@ -1,0 +1,18 @@
+metadata: ''
+question: Anthropic, an Al startup and public benefit corporation, was co-founded
+  by former OpenAI members, gaining recognition for their generative Al assistant
+  'Claude.' This AI, rivaling ChatGPT, is designed to be helpful and harmless. The
+  name 'Claude' was strategically chosen as either a nerdy tribute to the 20th-century
+  polymath Claude Shannon or a deliberate decision to counterbalance a certain much-
+  discussed pattern (X) when it comes to names of AIs.
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF2 -  Q5
+themes:
+- Science and Technology
+variable_specific_rationale:
+  X: Most AI assistants have female names while Claude breaks this pattern as Claude
+    is a male name.
+variable_to_answer:
+  X: A Male Name
+variables:
+- X

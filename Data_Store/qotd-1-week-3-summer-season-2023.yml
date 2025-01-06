@@ -1,0 +1,29 @@
+metadata: ''
+question: "Named after a \u201Cgreat\u201D Greek king, X is a less-known and very\
+  \ rarely followed practice that supposedly protects the practicer from Y, by being\
+  \ slowly exposed to it. A plot device in fiction and on screen, it is present most\
+  \ famously in \u201CThe Count of Monte Cristo\u201D. While its real-world effectiveness\
+  \ is much lesser than how much it is shown in fiction, it nevertheless has been\
+  \ shown to work in a limited capacity. Some believe that Rasputin\u2019s survival\
+  \ of his assassination attempt was due to X, although this has been highly contested."
+question_source: https://donquizote.wordpress.com/2023/07/10/qotd-1-week-3-summer-season-2023/
+question_title: qotd-1-week-3-summer-season-2023
+themes: []
+variable_specific_rationale:
+  X: X in this context refers to the practice of mithridatism, named after Mithridates
+    VI of Pontus, a notable king in ancient Greek history. Mithridatism is the process
+    of gradually ingesting small amounts of a substance, such as poison, to build
+    immunity or tolerance to it. The idea is that by exposing oneself slowly to a
+    toxic substance, the body can develop defenses against its harmful effects.
+  Y: Y, in this case, is poison or a toxic substance. The practice of mithridatism
+    is believed to protect the individual from the harmful effects of the poison by
+    conditioning the body to withstand it. This concept has been portrayed in various
+    works of fiction, including Alexandre Dumas' "The Count of Monte Cristo," where
+    the protagonist uses a similar method to build immunity to poison as part of his
+    revenge plot.
+variable_to_answer:
+  X: Mithridatism
+  Y: Poison
+variables:
+- X
+- Y

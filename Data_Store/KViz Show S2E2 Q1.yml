@@ -1,0 +1,19 @@
+metadata: ''
+question: In the 1950s, brothers Mervin and Jesse Levine, started the M & J Levine
+  Advertising company. In 1956 they hired Lawrence Herbert, who used his chemistry
+  knowledge to systematize and simplify the company's stock of pigments and production
+  of colored ink. By 1962 the ink division was doing well while the advertising division
+  was in debt. Herbert purchased the company's assets from the brothers and named
+  the company X. The name X translates to 'all colors'
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E2 Q1
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Pantone came out form the ink division of M & J Levine Advertising company. Herbert
+    purchased the company's assets from the brothers and named the company Pantone.
+    The etymology of Pantone also helps confirm the answer with the help of the clues.
+variable_to_answer:
+  X: Pantone
+variables:
+- X

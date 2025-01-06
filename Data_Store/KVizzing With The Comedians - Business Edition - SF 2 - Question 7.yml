@@ -1,0 +1,17 @@
+metadata: ''
+question: Quetzals are strikingly colored birds found in humid highlands. In ancient
+  Mayan culture, the quetzal feathers were considered so precious that they were even
+  used as a medium of exchange. The quetzal is the national bird, features on the
+  flag and gives its name to the currency of a Central American country (X)
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 2 - Question 7
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Quetzal is the national bird of Guatemala, features on the flag and gives its
+    name to the currency. In ancient Mayan culture its feathers were also used as
+    a currency.
+variable_to_answer:
+  X: Guatemala
+variables:
+- X

@@ -1,0 +1,24 @@
+metadata: ''
+question: The book " A C B C" is written in the style of a set of parables, ostensibly
+  based on the author's life. The titular "A C" is someone from his network who accumulated
+  wealth from entrepreneurship and investing, while the "B C" is someone, claimed
+  to be his own, who worked hard all his life but never obtained financial security.
+  The book has sold over 32 million copies in more than 51 languages. Oprah Winfrey
+  endorsed the book on her show. Will Smith said he taught his son about the financial
+  responsibility by reading the book.
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 1 - Question 1
+themes:
+- Books
+- Business and Economics
+- Literature
+variable_specific_rationale:
+  A C B C: 'Rich Dad Poor Dad is an international bestseller. Rich Dad refers to someone
+    who has the obtained wealth from his investments while Poor Dad refers to someone
+    who worked hard all his life but was unable to obtain financial security. The
+    book was promoted by Oprah and even Will Smith said he used it to teach his kids
+    about financial responsibility. '
+variable_to_answer:
+  A C B C: Rich Dad Poor Dad
+variables:
+- A C B C

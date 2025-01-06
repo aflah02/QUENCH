@@ -1,0 +1,19 @@
+metadata: ''
+question: In 1831, the Royal Navy sent a ship to map the coasts of South America as
+  part of their efforts to assert British dominion over the continent. The ship's
+  captain, who was an amateur scientist, decided to add a geologist to the expedition
+  and offered the job to a twenty-two-year-old Cambridge graduate X. X jumped at the
+  opportunity, and the rest is history.
+question_source: https://www.youtube.com/watch?v=01WxO1MZNHI&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 3 - Question 6
+themes:
+- Geology
+- History
+variable_specific_rationale:
+  X: Charles Darwin a twenty-two-year-old Cambridge graduate joined the Royal Navy
+    in their efforts to map the coast of South America. It is during this trip he
+    made several of his key research observations.
+variable_to_answer:
+  X: Charles Darwin
+variables:
+- X

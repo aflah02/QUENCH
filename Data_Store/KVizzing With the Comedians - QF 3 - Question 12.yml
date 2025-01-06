@@ -1,0 +1,20 @@
+metadata: ''
+question: '''X Y'' is a dish consisting of finely chopped roasted eggplant, olive
+  oil, lemon juice, various seasonings, and tahini. X is an Arabic word that means
+  ''father'' and is also a term of endearment, while Y could be a personal name. The
+  word combination is also interpreted as "father of coquetry" or "indulged/pampered/flirtatious
+  daddy" or "spoiled old daddy". It is not certain whether the word X refers to the
+  eggplant, or to an actual person indulged by the dish.'
+question_source: https://www.youtube.com/watch?v=01WxO1MZNHI&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 3 - Question 12
+themes:
+- Food and Cooking
+variable_specific_rationale:
+  X Y: Baba Ganoush is made up of 2 words Baba and Ganoush. The word Baba is an Arabic
+    word that means 'father' and is also a term of endearment while Ganoush can be
+    a personal name. It is made using finely chopped roasted eggplant, olive oil,
+    lemon juice, various seasonings, and tahini
+variable_to_answer:
+  X Y: Baba Ganoush
+variables:
+- X Y

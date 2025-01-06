@@ -1,0 +1,27 @@
+metadata: ''
+question: "One theory suggests that this was not just a book (X) for the author, it\
+  \ was a revenge fantasy he wrote on behalf of his father, a Black general who fought\
+  \ in the French Revolution and was ultimately betrayed by Napoleon. There is another\
+  \ theory which tells that a character of the book - a mad-genius of a scientist\
+  \ who wrote his greatest work in prison, a wrongfully imprisoned man was actually\
+  \ based on a real life person - a geologist, who examined, and explained, how volcanoes\
+  \ and waters had changed the world over time. The author was buried in the famous\
+  \ Panth\xE9on next to other authors like Victor Hugo and \xC9mile Zola."
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 5
+themes:
+- Books
+- History
+variable_specific_rationale:
+  X: "The success of The Count of Monte Cristo coincides with France's Second Empire.\
+    \ In the novel, Dumas tells of the 1815 return of Napoleon I and resembles contemporary\
+    \ events when the governor at the Ch\xE2teau d'If is promoted to a position at\
+    \ the castle of Ham. His father, a Haitian of mixed descent, became a successful\
+    \ general during the French Revolution.\nFrench President Jacques Chirac acknowledged\
+    \ the racism that had existed in France and said that the re-interment in the\
+    \ Pantheon had been a way of correcting that wrong, as Alexandre Dumas was enshrined\
+    \ alongside fellow great authors Victor Hugo and \xC9mile Zola."
+variable_to_answer:
+  X: The Count of Monte Cristo
+variables:
+- X

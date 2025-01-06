@@ -1,0 +1,25 @@
+metadata: ''
+question: "There is a myth that Walt Disney's last words were \"X\" (A Name). Nope.\
+  \ The actor's name was one of the last things he wrote in his office, but the note\
+  \ is undated\u2014it could have been up to a month old at the time Walt died in\
+  \ a hospital. X has a connection with Disney, though: He has appeared in a Disney-\
+  \ produced or -distributed film every decade since the 1960s, including 1969's The\
+  \ Computer Wore Tennis Shoes, 1971's The Barefoot Executive, 1981's The Fox and\
+  \ the Hound, 1993's Tombstone(which was distributed by Disney), and 2005's Sky High.\
+  \ Disney also owns Marvel, so 2017's Guardians of the Galaxy Vol. 2 should count,\
+  \ right?"
+question_source: https://www.youtube.com/watch?v=BOOHPDcz7Zs&list=PLwXllhq0F5MlDWa52D8-w2-4AQ7H5W2SI
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep1 - Question
+  1
+themes:
+- Movies and Entertainment
+- Pop Culture
+- Literature
+variable_specific_rationale:
+  X: Kurt Russel featured in all these films and his name was amongst one of the last
+    things written by Walt Disney before he passed away. Urban legends also said that
+    his name was the last thing that he uttered but that has proven to be false.
+variable_to_answer:
+  X: Kurt Russel
+variables:
+- X

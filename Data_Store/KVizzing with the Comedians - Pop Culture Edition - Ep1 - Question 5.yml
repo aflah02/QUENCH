@@ -1,0 +1,21 @@
+metadata: ''
+question: X pays tribute to queer history and culture. A great example of this is
+  when a queen gets eliminated from the show and leaves a farewell message in red
+  lipstick on the mirror. This is a reference to the film Butterfield 8, starring
+  the original gay icon Elizabeth Taylor. In what is considered an iconic scene, Taylor
+  scrawls a message on the mirror saying "No sale" when a lover leaves money for her.
+  It had a humble beginning on Logo TV and went on to win 19 Emmy Awards (and counting)
+question_source: https://www.youtube.com/watch?v=BOOHPDcz7Zs&list=PLwXllhq0F5MlDWa52D8-w2-4AQ7H5W2SI
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep1 - Question
+  5
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: RuPaul's Drag Race has won 19 Emmys (and counting). It also pays tribute to queer
+    history and culture. One example being when they reference to the film Butterfield
+    8, starring the original gay icon Elizabeth Taylor
+variable_to_answer:
+  X: RuPaul's Drag Race
+variables:
+- X

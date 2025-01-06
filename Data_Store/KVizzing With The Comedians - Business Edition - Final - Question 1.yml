@@ -1,0 +1,22 @@
+metadata: ''
+question: X is a 1942 American musical film starring Bing Crosby. The film received
+  a 1943 Academy Award for Best Original Song. The movie lends its name to a business
+  founded by Kemmons Wilson who was inspired to set up the business after being disappointed
+  by the poor quality of roadside accommodations during a family road trip to Washington,
+  D.C.
+question_source: https://www.youtube.com/watch?v=YHCB9sUoqNM&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=8
+question_title: KVizzing With The Comedians - Business Edition - Final - Question
+  1
+themes:
+- Business and Economics
+- Pop Culture
+variable_specific_rationale:
+  X: 'Holiday Inn is a 1942 American musical film starring Bing Crosby. It is also
+    the name of the brand  started by Kemmons Wilson due to his poor experience with
+    roadside accommodations during a
+
+    family road trip to Washington, D.C.'
+variable_to_answer:
+  X: Holiday Inn
+variables:
+- X

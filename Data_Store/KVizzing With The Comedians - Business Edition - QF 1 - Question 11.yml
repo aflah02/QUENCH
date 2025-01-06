@@ -1,0 +1,21 @@
+metadata: ''
+question: Founded in 1888, this company (X) is India's largest manufacturer of pumps
+  and valves and exports to over 70 countries over most of Africa, Southeast Asia,
+  and Europe. The group is also known for setting up one of the first industrial townships
+  in India.
+question_source: https://www.youtube.com/watch?v=FQNzfDMGqZY&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB
+question_title: KVizzing With The Comedians - Business Edition - QF 1 - Question 11
+themes:
+- Business and Economics
+- History
+variable_specific_rationale:
+  X: The Kirloskar group of companies was one of the earliest industrial groups in
+    the engineering industry in India. The group produces centrifugal pumps, engines,
+    compressors, screw & centrifugal chillers, lathes, and electrical equipments like
+    electric motors, transformers, and generators. The Kirloskar Group also set up
+    India's second oldest township Kirloskarwadi, Palus, which celebrated its centennial
+    in 2010.
+variable_to_answer:
+  X: Kirloskar
+variables:
+- X

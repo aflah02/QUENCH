@@ -1,0 +1,19 @@
+metadata: ''
+question: All roads lead to his door, for he lords over everything from two-faced
+  time to two twisting trails. A beginning and an end and the tumultuous path between,
+  he stands for the middle ground, like earth amidst heaven and hell. He claims the
+  first invocation and all such temporal beginnings lay dear to him, be it the day,
+  month, or year. While many of his peers trace older roots, he stands apart, a first
+  in that too. To this day, the world honors his grace. What is the honor (X)?
+question_source: https://donquizote.wordpress.com/2021/12/28/winter-league-9/
+question_title: winter-league-9
+themes:
+- Mythology and Folklore
+- Pop Culture
+variable_specific_rationale:
+  X: We honor the Roman god Janus (he has no Greek roots, unlike most of his compatriots)
+    by naming the first month of the year after him.
+variable_to_answer:
+  X: January
+variables:
+- X

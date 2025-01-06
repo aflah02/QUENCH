@@ -1,0 +1,19 @@
+metadata: ''
+question: Mizaru, Kikazaru, Iwazaru are a Japanese pictorial maxim (X), embodying
+  a proverbial principle. The phrase is often used to refer to those who deal with
+  impropriety by turning a blind eye. The source that popularized this maxim is a
+  17th-century carving on a door of a shrine in Japan. The carvings are believed to
+  have incorporated Confucius's Code of Conduct.
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E2 Q10
+themes:
+- Language and Linguistics
+- Religion and Philosophy
+variable_specific_rationale:
+  X: Mizaru, Kikazaru  and Iwazaru are The Three Wise Monkeys. The principle they
+    portray is "see no evil, hear no evil, speak no evil". It is also believed to
+    have come from Confucius's Code of Conduct.
+variable_to_answer:
+  X: The Three Wise Monkeys
+variables:
+- X

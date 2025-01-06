@@ -1,0 +1,19 @@
+metadata: ''
+question: X was the chief designer of the flood protection system for the city of
+  Hyderabad. He was the president of the 1923 session of the Indian Science Congress.
+  The Government Sandalwood Oil Factory which manufactures Mysore Sandal was established
+  by X when he was the Dewan of Mysore.
+question_source: https://www.youtube.com/watch?v=AYkYqmgf2M4&list=PLwXllhq0F5MlHT_R6ITogkjEqGHj1d6ha&index=2
+question_title: KVizzing With The Comedians - India Quiz Edition - QF 1 - Q3
+themes:
+- Architecture
+- History
+variable_specific_rationale:
+  X: Mokshagundam Visvesvaraya was the chief designer of the flood protection system
+    for the city of Hyderabad. He also established the Government Sandalwood Oil Factory
+    as the Dewan of Mysore. He was also the president of the 1923 session of the Indian
+    Science Congress.
+variable_to_answer:
+  X: Mokshagundam Visvesvaraya
+variables:
+- X

@@ -1,0 +1,22 @@
+metadata: ''
+question: In a unique culinary event hosted by former White House chef Sam Kass, a
+  new concept was brought to life, not as a feast of obscure foods but as a warning
+  about the potential impact of climate change on our daily meals. The dinner featured
+  dishes like Norwegian salmon, oysters, Iamb, fingerling potatoes. These seemingly
+  ordinary items are at risk of drastic change or disappearance due to climate warming.
+  The dinner aims not only to raise awareness about the immediate threats to our food
+  supply but also to inspire action. X is a thought-provoking 3-word title that was
+  given to this event (alluding to a famous reference), symbolizing the potential
+  loss of cherished foods and the need for climate-conscious choices in our daily
+  lives
+question_source: https://www.youtube.com/watch?v=0rZIH2hSl54&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF1 -  Q5
+themes:
+- Food and Cooking
+variable_specific_rationale:
+  X: The Last Supper alludes to the famous biblical reference as well as the fact
+    that food is increasingly becoming scarcer and the need to take action.
+variable_to_answer:
+  X: The Last Supper
+variables:
+- X

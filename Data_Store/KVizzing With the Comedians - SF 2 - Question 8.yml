@@ -1,0 +1,23 @@
+metadata: ''
+question: "This problem (X) was so intense that New York Mayor George E. Waring Jr.\
+  \ organized the first international congress on urban planning in 1898 (the first\
+  \ environmental summit in history), to develop ideas on how to resolve the issue.\
+  \ Although the event was majorly a failure due to lack of ideas, measures were put\
+  \ in place \u2014 the typical distinctive elevated staircases to the houses in New\
+  \ York were born in order to avoid this problem. However, the real solution arrived\
+  \ only in 1908 and by 1912, this seemingly insurmountable problem had been resolved\
+  \ for good. What problem are we talking about?"
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 8
+themes:
+- History
+- Politics and Government
+variable_specific_rationale:
+  X: There was an intense problem caused by the manure produced by horses used to
+    drive carriages. New York Mayor George E. Waring Jr. also organized a congress
+    to tackle this problem. Eventually cars made their way into the city reducing
+    dependence on animals thereby solving the crisis
+variable_to_answer:
+  X: Manure produced by horses used to drive carriages
+variables:
+- X

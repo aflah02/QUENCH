@@ -1,0 +1,28 @@
+metadata: ''
+question: 'The word X is based on a character in a famous novel. The character was
+  created to describe someone who is, "foolishly impractical especially in the pursuit
+  of ideals; especially: marked by rash lofty romantic ideas or extravagantly chivalrous
+  action." The novel is regarded as one of the best literary works of all time and
+  was first published in 1615. The story is of a man who takes the name Y and sets
+  off in a fit of obsession over romantic novels about chivalry to revive the custom
+  and become a hero himself.'
+question_source: https://www.youtube.com/watch?v=OsNiTh7rf-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=2
+question_title: KVizzing With the Comedians - QF 2 - Question 2
+themes:
+- History
+- Language and Linguistics
+- Literature
+variable_specific_rationale:
+  X: Quixotic is the word based on a character in a famous novel. The character, Don
+    Quixote, is known for his foolishly impractical and romantic ideas, and his obsessive
+    pursuit of chivalry.
+  Y: Don Quixote de la Mancha is the name of the main character in the novel, who
+    sets off on a fit of obsession over romantic novels about chivalry to become a
+    hero himself. The story is regarded as one of the best literary works of all time
+    and was first published in 1615.
+variable_to_answer:
+  X: Quixotic
+  Y: Don Quixote de la Mancha
+variables:
+- X
+- Y

@@ -1,0 +1,18 @@
+metadata: ''
+question: These stocks can appear in any business and are named after the celebration
+  vibe they bring. To succeed with them, you need to be a bit of a market detective,
+  figuring out the perfect time to join the fun and when to step back before things
+  get tricky. A prime example would be the stock of American Airlines group, which
+  dramatically increased between September 2013 and the end of 2014 by more than a
+  staggering 233%. Stocks that skyrocket in value are called X
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E3 Q5
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: 'Champagne stocks are stocks that skyrocket in value and hence the celebration
+    reference. '
+variable_to_answer:
+  X: Champagne Stocks
+variables:
+- X

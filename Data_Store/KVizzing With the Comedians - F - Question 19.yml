@@ -1,0 +1,20 @@
+metadata: ''
+question: In 2004 Monaco GP, Jaguar Formula 1 team raced with diamonds embedded in
+  the nose cones of their cars as part of a promotion for the film X. However, on
+  the opening lap of the Monaco Grand Prix, Christian Klien crashed his car and the
+  diamond from his nose cone went missing. There are a few theories about what happened
+  to the diamond. Some believe that it was lost in the crash, while others believe
+  that it was stolen. There is also a theory that the diamond was never real to begin
+  with and was just a publicity stunt. But the mystery of the missing diamond has
+  never been solved.
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 19
+themes:
+- Movies and Entertainment
+variable_specific_rationale:
+  X: Ocean's Twelve was setup in Europe and the diamonds are indicative of a heist
+    related film. Some of the cast was also present at the race.
+variable_to_answer:
+  X: Ocean's Twelve
+variables:
+- X

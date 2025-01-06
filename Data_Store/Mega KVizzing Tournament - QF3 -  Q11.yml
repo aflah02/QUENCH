@@ -1,0 +1,19 @@
+metadata: ''
+question: This capital city (X), known as the "Jerusalem of the East" among missionaries
+  during the early 20th century, has a name borrowed from Korean, meaning "flat land"
+  in Sino-Korean reading. It became the capital of the Protectorate General established
+  by the Tang dynasty, later taken by Silla in 676 AD.
+question_source: https://www.youtube.com/watch?v=JtvCSZdMzAI&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF3 -  Q11
+themes:
+- Geography
+- History
+variable_specific_rationale:
+  X: Pyongyang was known as the "Jerusalem of the East" among missionaries during
+    the early 20th century. It has a Korean name which means "flat land" in Sino-Korean
+    reading. It became the capital of the Protectorate General established by the
+    Tang dynasty, later taken by Silla in 676 AD.
+variable_to_answer:
+  X: Pyongyang
+variables:
+- X

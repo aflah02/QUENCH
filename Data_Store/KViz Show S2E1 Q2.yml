@@ -1,0 +1,20 @@
+metadata: ''
+question: John Alexander Brodie, an engineer involved in the planning and design of
+  New Delhi and serving as the chief engineer for the Mersey Tunnel, was also a devoted
+  Everton fan. His frustration over a disallowed goal against Accrington Stanley,
+  attributed to crowd interference, led him to devise a solution to address such issues.
+  In 1889, he implemented this solution (X) in Stanley Park and subsequently secured
+  a patent for it in the following year. This innovation, introduced by Brodie, remains
+  an integral part of the game to this day.
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q2
+themes:
+- Sports
+variable_specific_rationale:
+  X: John Alexander Brodie introduced nets in goal post as earlier some goals could
+    be missed as the referee might not catch the goal as the ball would just go past
+    the posts without any indication of the path it took.
+variable_to_answer:
+  X: Goal Net
+variables:
+- X

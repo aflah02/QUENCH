@@ -1,0 +1,24 @@
+metadata: ''
+question: "A peculiar debate has emerged surrounding a traditional beverage (X) that\
+  \ has become the latest obsession on social media platforms like Tiktok. This beverage\
+  \ is gaining popularity and sparking discussions between influencers, farmers, and\
+  \ doctors. Enthusiasts argue that it's a nutrient powerhouse, providing an ideal\
+  \ mix of protein and fat for instant energy. It's not something you'd find at your\
+  \ local grocery store, as acquiring it involves a direct transaction with farmers\
+  \ or markets. Despite its growing fan base, there's a catch\u2014selling it is illegal\
+  \ in many places due to concerns about harmful bacteria like E. coli and Salmonella.\
+  \ It also has a dedicated hashtag with over 195 million views on TikTok."
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF2 -  Q4
+themes:
+- Pharmaceuticals & Medicine
+- Pop Culture
+variable_specific_rationale:
+  X: Raw Milk has been trending lately on social media platforms like TikTok. Milk
+    provides an ideal mix of protein and fat for instant energy however there are
+    concerns about harmful bacteria like E. coli and Salmonella putting both enthusiasts
+    and doctors at odds with each other.
+variable_to_answer:
+  X: Raw Milk
+variables:
+- X

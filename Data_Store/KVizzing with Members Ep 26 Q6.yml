@@ -1,0 +1,20 @@
+metadata: ''
+question: X known for fervent dedication to education reform and political activism,
+  was born in Delhi in 1981. Graduating from the University of Delhi, X later pursued
+  higher education in the United States. Returning to India, X became deeply involved
+  in grassroots politics, advocating for educational improvements and social justice.
+  X's unconventional surname/second-name, which X dropped in 2018, combines the name
+  of a prominent 20th-century foreign leader known for socialist ideologies with that
+  of an early 21st-century foreign leader synonymous with socialist values.
+question_source: https://www.youtube.com/watch?v=TJAHWyYRnTo
+question_title: KVizzing with Members Ep 26 Q6
+themes:
+- Politics and Government
+variable_specific_rationale:
+  X: Atishi Marlena graduated from University of Delhi before pursuing higher studies
+    in the U.S. Marlena is a portmanteau of Marx and Lenin which she eventually dropped
+    when filling the election forms. She was frequently on debate over this surname.
+variable_to_answer:
+  X: Atishi Marlena
+variables:
+- X

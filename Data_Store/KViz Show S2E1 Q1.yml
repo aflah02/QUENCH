@@ -1,0 +1,22 @@
+metadata: ''
+question: The phrase X (a 4 word pharse) is believed to have originated in the 18th
+  century in England, where it was used to describe the most beautiful and popular
+  young woman at a dance. The first word is a French word meaning "beautiful," and
+  it was commonly used in English to describe an attractive and charming woman. The
+  phrase gained popularity in the 19th century and was commonly used in Victorian
+  society to refer to a woman who was the center of attention and admiration at a
+  social gathering. Today, it is still used to describe a woman who is the most beautiful
+  and admired person at an event or gathering.
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q1
+themes:
+- Fashion and Style
+variable_specific_rationale:
+  X: The phrase "Belle of the Ball" is said to have originated in 18th century in
+    England, where it was used to describe the most beautiful and popular young woman
+    at a dance. The dance clue narrows it down as well as it related to a ball. Belle
+    is also the French word for beautiful and hence the exact phrase can be deduced.
+variable_to_answer:
+  X: Belle of the Ball
+variables:
+- X

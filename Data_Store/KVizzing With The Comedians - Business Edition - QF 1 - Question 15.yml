@@ -1,0 +1,20 @@
+metadata: ''
+question: 'The title of the book "X: A Brief History of the Globalized World in the
+  21st Century" is a metaphor for viewing the world as a level playing field in terms
+  of commerce, wherein all competitors have an equal opportunity. X is a 4-word phrase
+  derived from a statement by Nandan Nilekani, former CEO of Infosys, which is the
+  title.'
+question_source: https://www.youtube.com/watch?v=FQNzfDMGqZY&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB
+question_title: KVizzing With The Comedians - Business Edition - QF 1 - Question 15
+themes:
+- Business and Economics
+- History
+variable_specific_rationale:
+  X: '"The World Is Flat: A Brief History of the Twenty-first Century" is a book by
+    Thomas L. Friedman that analyzes globalization, primarily in the early 21st century.
+    In an interview, Nandan once mentioned "the playing field being leveled," which
+    is a play on words to mean "the world is becoming flat."'
+variable_to_answer:
+  X: The World is Flat
+variables:
+- X

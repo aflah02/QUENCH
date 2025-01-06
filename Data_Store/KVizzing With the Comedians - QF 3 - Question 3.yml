@@ -1,0 +1,22 @@
+metadata: ''
+question: X's first album was released in 1996 and stayed on the MTV Asia Charts for
+  60 weeks. All the lyrics were written by his childhood friend Syed Aslam Noor. After
+  many record labels rejected the album as the genre was not popular at that time,
+  X went to Amitabh Bachchan Corporation, where the songs were unused for about 6
+  months. Then he went to BMG Crescendo which agreed to release the album but asked
+  the singer to make the music video, which led him to another childhood friend Mahesh
+  Mathai, who directed the iconic video in an ancient African site.
+question_source: https://www.youtube.com/watch?v=01WxO1MZNHI&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 3 - Question 3
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: Lucky Ali's first album which was released in 1966 stayed on the MTV Asia Charts
+    for 60 weeks whose lyrics were written by Syed Alam Noor. Amitabh Bachchan Corporation
+    did not make use of the songs and he eventually went to BMG Crescendo which made
+    the music release on the condition that a music video was made. Mahesh Mathai
+    helped in making the music video.
+variable_to_answer:
+  X: Lucky Ali
+variables:
+- X

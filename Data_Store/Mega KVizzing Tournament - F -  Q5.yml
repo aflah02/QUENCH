@@ -1,0 +1,24 @@
+metadata: ''
+question: "While the First World War involved a lot of futile activity, fighting at\
+  \ night was especially unproductive because there was no way to see where you were\
+  \ shooting. Night combat was made somewhat easier by the British invention of X\
+  \ Ys\u2014rounds which emitted small amounts of flammable material that left a phosphorescent\
+  \ trail. The first attempt, in 1915, wasn't actually that useful, as the trail was\
+  \ \"erratic\" and limited to 100 meters, but the second X model developed in 1916,\
+  \ the .303 SPG Mark VIIG, emitted a regular bright green- white trail and was a\
+  \ real hit. Its popularity was due in part to an unexpected side-benefit: the flammable\
+  \ agent could ignite hydrogen, which made it perfect for \"balloon-busting\" the\
+  \ German zeppelins then terrorizing England."
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q5
+themes:
+- History
+- Science and Technology
+variable_specific_rationale:
+  X Y: Tracer bullet left trails due to the florescent material emitted by them. This
+    made night combat easier. It was brought into prominence when the second version
+    was developed which has better florescence capabilities.
+variable_to_answer:
+  X Y: Tracer bullet
+variables:
+- X Y

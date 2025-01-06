@@ -1,0 +1,21 @@
+metadata: ''
+question: '''X Y'' is a two-word term that became popular during late 80s and early
+  90s when Soviet Union was on the brink of being dissolved. It refers to the potential
+  long- term economic boost a country will get from the X that follows a war as government
+  can reduce defence spending and reallocate the money to domestic policy priorities.
+  Y is a financial term that can take various forms, such as cash payments or share
+  repurchase. This term has returned into public discourse due to the Russia-Ukraine
+  War.'
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 9
+themes:
+- History
+- Politics and Government
+variable_specific_rationale:
+  X Y: "Peace Dividend is a term used to describe the economic benefit of a decrease\
+    \ in defense spending. It was popularized in the light of the 1988\u20131991 dissolution\
+    \ of the Soviet Union and has recently resurged due to the Russia-Ukraine War"
+variable_to_answer:
+  X Y: Peace Dividend
+variables:
+- X Y

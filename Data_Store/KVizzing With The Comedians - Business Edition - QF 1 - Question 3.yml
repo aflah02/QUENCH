@@ -1,0 +1,24 @@
+metadata: ''
+question: In 2006, Drew Houston got on a bus from Boston heading to New York. He planned
+  to use the three-hour ride to get some work done, so he opened his laptop, and realized
+  he had left his thumb drive with all of his work files at home. Drew decided he
+  never wanted to have that problem again. On that bus ride, he started something
+  and fourteen years later it became a public company (X) worth close to $8 billion.
+question_source: https://www.youtube.com/watch?v=FQNzfDMGqZY&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB
+question_title: KVizzing With The Comedians - Business Edition - QF 1 - Question 3
+themes:
+- Business and Economics
+- Science and Technology
+variable_specific_rationale:
+  X: 'Dropbox is a file hosting service operated by the American company Dropbox,
+    Inc., headquartered in San Francisco, California, U.S., that offers cloud storage,
+    file synchronization, personal cloud, and client software. Dropbox was founded
+    in 2007 by MIT students Drew Houston and Arash Ferdowsi as a startup company,
+    with initial funding from seed accelerator Y Combinator.
+
+    It is said that on that bus ride, Drew started writing the code to build a cloud-based
+    file storage and sharing service called Dropbox.'
+variable_to_answer:
+  X: Dropbox
+variables:
+- X

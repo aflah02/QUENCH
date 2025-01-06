@@ -1,0 +1,18 @@
+metadata: ''
+question: In 1974, Alan Abelson was responsible with coining this law (X), owing to
+  his dissatisfaction with wildly exaggerated predictions about impending financial
+  doom. The name of this law was deliberately chosen because of its "opposite" nature
+  to a famous pessimistic law and to reverse the view created by that law.
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 2 - Question 6
+themes:
+- Business and Economics
+- Pop Culture
+variable_specific_rationale:
+  X: Alan Abelson coined Yhprum's Law as a opponent to Murphy's law which is a famous
+    pessimistic law. The characters in the word are an Yhprum are just reverse of
+    the word Murphy.
+variable_to_answer:
+  X: Yhprum's Law
+variables:
+- X

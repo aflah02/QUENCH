@@ -1,0 +1,31 @@
+metadata: ''
+question: The term X is used to describe concepts and situations in which bureaucracies
+  overpower people, often in a surreal, nightmarish milieu that evokes feelings of
+  senselessness, disorientation, and helplessness. Characters in such a setting often
+  lack a clear course of action to escape a labyrinthine situation. Y is an adjective
+  describing a situation, idea, or societal condition that is identified as being
+  destructive to the welfare of a free and open society. It denotes an attitude and
+  a brutal policy of draconian control by propaganda, surveillance, disinformation,
+  denial of truth, and manipulation of the past. The New York Times has said the term
+  is "the most widely used adjective derived from the name of a modern writer." Both
+  X and Y are famous writers.
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=7
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 8
+themes:
+- History
+- Literature
+- Politics and Government
+variable_specific_rationale:
+  X: A Kafkaesque situation is when a situation becomes horrifying, like a nightmare,
+    and there is suffering with no possibility of escape, which is figuratively similar
+    to the situation of bureaucracies overpowering people. It is named after Franz
+    Kafka.
+  Y: Orwellian is used to describe a political system in which the government tries
+    to control every part of people's lives, similar to that described in the novel
+    "Nineteen Eighty-Four," by George Orwell. It is named after George Orwell.
+variable_to_answer:
+  X: Kafkaesque
+  Y: Orwellian
+variables:
+- X
+- Y

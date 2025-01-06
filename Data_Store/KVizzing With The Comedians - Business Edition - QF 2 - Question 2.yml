@@ -1,0 +1,20 @@
+metadata: ''
+question: It is believed that one of the earlier introductions of Y happened in 1887
+  by Edward Bellamy in his utopian novel "Looking Backward." Bellamy used the two-word
+  term Y eleven times in this novel, although this referred to an object for spending
+  a citizen's dividend from the government rather than borrowing.
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=3
+question_title: KVizzing With The Comedians - Business Edition - QF 2 - Question 2
+themes:
+- Business and Economics
+- Literature
+variable_specific_rationale:
+  Y: "In the novel \"Looking Backward,\" Edward Bellamy used the term credit card\
+    \ eleven times\u2014the first description of the use of a card for purchases.\
+    \ The protagonist in the book wakes up 113 years later, in the year 2000, and\
+    \ society is now booming with new concepts such as cards that can be used to borrow\
+    \ money, also called a credit card."
+variable_to_answer:
+  Y: credit card
+variables:
+- Y

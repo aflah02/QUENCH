@@ -1,0 +1,20 @@
+metadata: ''
+question: 'Identify this English word (X): - This 3 letter word has the most number
+  of meanings, 645 of the verb alone - It will have almost 75 columns of type in the
+  upcoming edition of the Oxford English Dictionary - It appears to have earned some
+  major lift during the boom of the Industrial Revolution, when all manner of mechanized
+  innovation adopted it as their verb of choice - Some of the meanings are: to travel
+  along a usual route, to test or check something or someone, to cost an amount, to
+  direct the business or activities of etc.'
+question_source: https://www.youtube.com/watch?v=xeAYBOR2On0&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 4 - Question 1
+themes:
+- History
+- Language and Linguistics
+variable_specific_rationale:
+  X: The 3 letter word Run has several meanings and types. Some examples are running
+    a fever, the tap is running, to run a race etc.
+variable_to_answer:
+  X: Run
+variables:
+- X

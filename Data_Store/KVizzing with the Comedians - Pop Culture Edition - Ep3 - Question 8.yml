@@ -1,0 +1,22 @@
+metadata: ''
+question: In the mid-1990s, writer Kevin Williamson and director Wes Craven teamed
+  up for a movie (X) about a string of murders in a small California town, and in
+  the process reinvented the slasher genre for a cynical audience who thought they
+  could see everything coming. Funny, scary, and full of wonderful stylistic flourishes
+  from its writer, director, and cast, X is a modern horror classic that changed a
+  subgenre forever. X is a 1996 cult-classic.
+question_source: https://www.youtube.com/watch?v=WX2z4VTY8Yo
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep3 - Question
+  8
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: 'Scream came out in 1996 and changed the genre forever. Writer Kevin Williamson
+    and director Wes Craven came together to work on the movie about a string of murders
+    in a small California town, and in the process reinvented the slasher genre for
+    a cynical audience who thought they could see everything coming. '
+variable_to_answer:
+  X: Scream
+variables:
+- X

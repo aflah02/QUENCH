@@ -1,0 +1,22 @@
+metadata: ''
+question: In 1997, this company, X, created the Ruby campaign which challenged the
+  belief that beauty is directly related to size. Ruby, the size 16 campaign doll,
+  challenged the stereotypes of the ideal woman for she looked like a Barbie doll
+  of an average woman. "Ruby is the fruit of our long- established practice of challenging
+  the way the cosmetic industry talks to women. The Ruby campaign is designed to promote
+  the idea that X creates products designed to enhance features, moisturize, cleanse,
+  and polish, not to correct 'flaws.'.."
+question_source: https://www.youtube.com/watch?v=YHCB9sUoqNM&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=8
+question_title: KVizzing With The Comedians - Business Edition - Final - Question
+  3
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: The Body Shop created the Ruby campaign which challenged the belief that beauty
+    is directly related to size. They created a size 16 doll to promote the same.
+    It was meant to advertize that the company creates products designed to enhance
+    features, moisturize, cleanse, and polish, not to correct 'flaws.'.."
+variable_to_answer:
+  X: The Body Shop
+variables:
+- X

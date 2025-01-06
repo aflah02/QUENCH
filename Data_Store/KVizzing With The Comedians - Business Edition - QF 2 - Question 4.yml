@@ -1,0 +1,22 @@
+metadata: ''
+question: LANPAR (LANguage for Programming Arrays at Random), available in 1969, was
+  the first of this kind of software (X) on mainframe, whereas VisiCalc (1979) was
+  the first on a microcomputer. LANPAR's uniqueness was its incorporation of forward
+  referencing/natural order calculation, without which the user had to refresh until
+  the values remained unchanged to get a result.
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=3
+question_title: KVizzing With The Comedians - Business Edition - QF 2 - Question 4
+themes:
+- Science and Technology
+variable_specific_rationale:
+  X: A spreadsheet is a computer application for computing, organizing, analyzing,
+    and storing data in tabular form. LANPAR was the first electronic spreadsheet
+    on mainframe and time-sharing computers. VisiCalc (1979) was the first electronic
+    spreadsheet on a microcomputer, and it helped turn the Apple II computer into
+    a popular and widely used personal computer. LANPAR innovated forward referencing/natural
+    order calculation, which didn't re-appear until Lotus 123 and Microsoft's MultiPlan
+    Version 2.
+variable_to_answer:
+  X: Spreadsheet
+variables:
+- X

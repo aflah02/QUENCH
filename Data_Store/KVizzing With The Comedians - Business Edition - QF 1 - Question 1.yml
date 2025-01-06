@@ -1,0 +1,20 @@
+metadata: ''
+question: Nageswara Rao Pantulu was an Indian journalist, politician, and businessman
+  who participated in the Indian independence movement, including Mahatma Gandhi's
+  Civil disobedience movement. He was involved in the salt satyagraha and spent six
+  months in prison for this. X is a product he invented that he popularized by distributing
+  it free-of-cost at music concerts.
+question_source: https://www.youtube.com/watch?v=FQNzfDMGqZY&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=2
+question_title: KVizzing With The Comedians - Business Edition - QF 1 - Question 1
+themes:
+- Art and Music
+- History
+variable_specific_rationale:
+  X: Amrutanjan was founded in 1893 by journalist and freedom fighter Kasinathuni
+    Nageswara Rao. He popularized the balm by distributing it free-of-cost at music
+    concerts. Even today, the words "Bombay" are inscribed along with Amrutanjan on
+    the lid of its most well-known product, the pain balm.
+variable_to_answer:
+  X: Amrutanjan
+variables:
+- X

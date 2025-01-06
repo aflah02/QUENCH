@@ -1,0 +1,23 @@
+metadata: ''
+question: The original ending of the movie X involved Neil Young. In 2015, Cameron
+  Crowe told Vanity Fair that he intended for X to end on Elaine Miller (Frances McDormand)
+  playing the family Neil Young's "On the Way Home." "In the end, we decided not to
+  hear that song or her dialogue, and to let the sequence live in a montage as the
+  Stillwater tour bus drives away to the sound of Led Zeppelin's 'Tangerine.' That
+  song was more eloquent in its summary of the movie than any spoken words," Crowe
+  said This Cameron Crowe's semi-autobiographical film from the year 2000 won Crowe
+  an Oscar (for Best Original Screenplay).
+question_source: https://www.youtube.com/watch?v=BOOHPDcz7Zs&list=PLwXllhq0F5MlDWa52D8-w2-4AQ7H5W2SI
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep1 - Question
+  7
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Almost Famous won an Oscar for best screenplay and was directed by Cameron Crowe.
+    He revealed in later interviews that the ending was supposed to use Neil Young's
+    "On the Way Home" but they eventually dropped the idea.
+variable_to_answer:
+  X: Almost Famous
+variables:
+- X

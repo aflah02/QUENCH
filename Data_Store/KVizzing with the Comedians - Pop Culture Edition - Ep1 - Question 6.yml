@@ -1,0 +1,23 @@
+metadata: ''
+question: 'Inspired by the Hollywood weepie ''No Man of Her Own'' (1950), Shakti Samanta''s
+  1970 film X addresses the still-taboo theme of widows remarrying. The film goes
+  out of its way to proclaim the untainted virgin status of its female lead, as Madhu
+  only pretends to be a widow in order to assume a new identity. Complications follow
+  when she is attracted to her ''dead'' husband''s best mate. The real superstar of
+  this melodramatic film is RD Burman''s classic score: every track remains popular
+  to this day'
+question_source: https://www.youtube.com/watch?v=BOOHPDcz7Zs&list=PLwXllhq0F5MlDWa52D8-w2-4AQ7H5W2SI
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep1 - Question
+  6
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Shakti Samanta directed the 1970 film Kati Patang which was inspired by Hollywood
+    weepie 'No Man of Her Own' (1950). RD Burman provided songs for the same and Madhu
+    the lead actress falls into complications in the story as she is attracted to
+    her 'dead' husband's best mate.
+variable_to_answer:
+  X: Kati Patang
+variables:
+- X

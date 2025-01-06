@@ -1,0 +1,21 @@
+metadata: ''
+question: When choosing a ticker symbol, NYSE requires that companies submit their
+  requests before they mail out notification to shareholders and that they list a
+  first, second, and third choice. The exchange rarely gives a thumbs-down to the
+  preferred option. One notable rejection occurred in 1992 and involved Furr's/Bishop's,
+  a Texas-based cafeteria operator that wanted to disassociate itself from its floundering
+  holding company, Cavalcade Holdings Inc. But the NYSE denied the company's application,
+  on the grounds that it might cause confusion with a well-known entity. The company
+  had proposed a symbol (X)
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 1 - Question 8
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Furr's/Bishop's had proposed FBI as their ticker symbol which was rejected on
+    the grounds that people might be mislead into thinking that it is related to the
+    investigation agency FBI.
+variable_to_answer:
+  X: FBI
+variables:
+- X

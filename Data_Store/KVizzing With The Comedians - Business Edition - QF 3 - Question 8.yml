@@ -1,0 +1,20 @@
+metadata: ''
+question: It (X) began in collaboration with The Wall Street Journal on 1 February
+  2007, with the Journal's former deputy managing editor, Raju Narisetti as its founding
+  editor. Right now it is published by a Delhi-based media group which is controlled
+  by the K. K. Birla family. It is India's first newspaper to be published in the
+  Berliner format.
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 3 - Question 8
+themes:
+- Business and Economics
+- History
+- Literature
+variable_specific_rationale:
+  X: Mint is India's first newspaper published in the Berliner format. It began in
+    collaboration with The Wall Street Journal on 1 February 2007. It is published
+    by a Delhi-based media group which is owned by the K. K. Birla family.
+variable_to_answer:
+  X: Mint
+variables:
+- X

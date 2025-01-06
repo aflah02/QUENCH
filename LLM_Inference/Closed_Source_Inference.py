@@ -45,7 +45,6 @@ exp_types = ['normal', 'cot']
 parser = ArgumentParser()
 parser.add_argument('--endpoint', type=str, default='openai')
 parser.add_argument('--exp_type', type=str, default='normal')
-parser.add_argument('--model_type', type=str, default='gpt3.5')
 parser.add_argument('--model_name', type=str, default='gpt-3.5-turbo')
 
 def run_exp(endpoint, model_name, exp_type='normal'):

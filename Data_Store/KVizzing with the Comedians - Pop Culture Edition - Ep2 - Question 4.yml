@@ -1,0 +1,21 @@
+metadata: ''
+question: "X has been at the center of many body image controversies over the years\
+  \ due to her ridiculously svelte-yet-busty figure. Various outlets and organizations\
+  \ have pointed out how X's proportions (38-18-28) make her more than just an unrealistic\
+  \ standard\u2014they would make a human physically incapable of walking, holding\
+  \ up one's head, or having fully functioning internal organs."
+question_source: https://www.youtube.com/watch?v=_PnezMNAJgY
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  4
+themes:
+- Fashion and Style
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Barbie has often been criticized for portraying unrealistic body standards. Barbie's
+    proportions (38-18-28) would leave room for physically functioning internal organs
+    or even allow the person to walk.
+variable_to_answer:
+  X: Barbie
+variables:
+- X

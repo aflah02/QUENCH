@@ -1,0 +1,27 @@
+metadata: ''
+question: "The 'X Y Islands' were originally inhabited by the Ciboney and Arawaks,\
+  \ with some scholars thinking that the islands were inhabited from as early as 1000\
+  \ BC. The Caribs arrived around the mid-15th century AD. Columbus, on his second\
+  \ voyage in 1493, is thought to have been the first European to see the islands,\
+  \ giving them their current name after the legend of Saint Ursula, who was said\
+  \ to be the leader of 11,000 Ys. Denmark\u2014Norway also took an interest in the\
+  \ islands, and the Danish West India Company settled there. The islands became royal\
+  \ Danish colonies in 1754, named the Danish West Indian islands. During the submarine\
+  \ warfare phases of World War l, X, fearing that the islands might be seized by\
+  \ Germany as a submarine base, approached Denmark about buying them. After renewed\
+  \ attempts by X to purchase the islands, Denmark agreed to sell them in 1916 for\
+  \ $25 million."
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 8
+themes:
+- Geography
+- History
+variable_specific_rationale:
+  X Y: United States bought the Islands from Denmark naming them the United States
+    Virgin Islands. These islands used to be royal Danish colonies and were originally
+    inhabited by the Ciboney and Arawaks, with some scholars thinking that the islands
+    were inhabited from as early as 1000 BC.
+variable_to_answer:
+  X Y: United States Virgin Islands
+variables:
+- X Y

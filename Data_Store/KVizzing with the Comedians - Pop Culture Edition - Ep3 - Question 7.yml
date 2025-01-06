@@ -1,0 +1,26 @@
+metadata: ''
+question: As well as being hugely successful as a comedian and a chat show host, X
+  is also an award-winning author, having been awarded the Sunday Times Bestseller
+  and winner of the Irish Post Popular Fiction Award for his third novel, Home Stretch
+  which was first published in 2020. His first novel, Holding, was published in 2017
+  and his second, A Keeper, also a Sunday Time Best Seller, was published in 2019.
+  X also has two autobiographies. The first is called So Me and was published in 2004,
+  while his second, titled The Life and Loves of a He Devil first came out in 2014.
+  In 2010 he also had his columns from his Daily Telegraph advice pages printed into
+  a book called Ask X
+question_source: https://www.youtube.com/watch?v=WX2z4VTY8Yo
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep3 - Question
+  7
+themes:
+- Literature
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Graham Norton's first novel was Holding and his second novel was A Keeper. He
+    is also a successful comedian, chat show host and writer. His autobiographies
+    are called So Me and The Life and Loves of a He Devil. He also had a column in
+    the Daily Telegraph which were later published as a book.
+variable_to_answer:
+  X: Graham Norton
+variables:
+- X

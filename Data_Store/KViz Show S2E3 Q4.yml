@@ -1,0 +1,18 @@
+metadata: ''
+question: X, which normally costs nothing, is now being bottled and sold in China.
+  There are different qualities and brands which come from both Chine and abroad.
+  It has become a thriving business which started as a response to China's worsening
+  environmental crisis. A bottle of X from East China is priced 5 yuan whereas imported
+  X is more expensive. X from Canada costs 108 yuan for a bottle, and X from New Zealand
+  costs 219 yuan for a bottle.
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E3 Q4
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: 'Due to poor air quality, fresh air is now being sold in China. Imported air
+    costs more due to obvious reasons as also pointed out in the question. '
+variable_to_answer:
+  X: Fresh Air
+variables:
+- X

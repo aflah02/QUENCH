@@ -1,0 +1,25 @@
+metadata: ''
+question: Amidst his bustling schedule of creating documentaries, producing films
+  for others, and upholding the legacy of Hollywood, this individual (X) has surprisingly
+  embraced social media, particularly TikTok, under the influence of his daughter
+  Francesca. While navigating through TikTok trends, guessing the purpose of various
+  items, and even attempting to grasp Gen-Z slang, he showcases a side rarely seen
+  by his audience. This unexpected venture into social media stardom culminated in
+  a Super Bowl ad collaboration with Squarespace, showcasing the charming bond between
+  father and daughter.
+question_source: https://www.youtube.com/watch?v=0rZIH2hSl54&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF1 -  Q11
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Martin Scorsese has been trending on TikTok due to his series where he learns
+    GenZ slangs, guesses uses of items and TikTok trends. Creating documentaries and
+    producing films already hints to the person being a director. The inclusion of
+    daughter further narrows it down as his daughter also appears in several of the
+    TikToks while the Super Bowl ad collaboration with Squarespace to showcase the
+    father-daughter bond provides additional information.
+variable_to_answer:
+  X: Martin Scorsese
+variables:
+- X

@@ -1,0 +1,17 @@
+metadata: ''
+question: Inverting the Pyramid is a book by British sports journalist Jonathan Wilson
+  that traces the history of football tactics. Nominated for the William Hill Sports
+  Book of the Year award in 2008, it provides a detailed study of the game's evolution
+  from its Victorian roots to the modern version. This book made repeated appearances
+  over the last few years at X, which has made it even more popular.
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 8
+themes:
+- Sports
+variable_specific_rationale:
+  X: The book Inverting the Pyramid has been frequently features in the show Ted Lasso
+    which has renewed its popularity
+variable_to_answer:
+  X: Ted Lasso
+variables:
+- X

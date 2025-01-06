@@ -1,0 +1,19 @@
+metadata: ''
+question: '''Teen Darwaza'' was built by Ahmad Shah I immediately after the foundation
+  of the city X and completed in 1415. The gateway has three arches which led into
+  a large enclosure, forming the outer courtyard of the palace called Maidan Shah
+  in past, with a fountain and raised terrace in the centre. The gates are featured
+  in the logo of the city''s Municipal Corporation.'
+question_source: https://www.youtube.com/watch?v=AYkYqmgf2M4&list=PLwXllhq0F5MlHT_R6ITogkjEqGHj1d6ha&index=2
+question_title: KVizzing With The Comedians - India Quiz Edition - QF 1 - Q7
+themes:
+- Architecture
+- History
+variable_specific_rationale:
+  X: Ahmedabad is named after Ahmad Shah I who built the 'Teen Darwaza' after the
+    foundations of the city were completed. It is also features in Ahmedabad's Municipal
+    Corporation logo.
+variable_to_answer:
+  X: Ahmedabad
+variables:
+- X

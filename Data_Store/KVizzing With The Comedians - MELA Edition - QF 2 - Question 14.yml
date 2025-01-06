@@ -1,0 +1,23 @@
+metadata: ''
+question: The day started early for all of the fans, most of whom were wearing gold
+  and black like Pittsburgh Steelers as all were excited for this match. The fans
+  had to battle an early morning traffic jam, rain and extreme heat, but most would
+  agree it was worth it for the once-in-a-lifetime opportunity. Till 12pm of the day,
+  the match was peaceful with fans getting wild waving handkerchiefs. But soon, the
+  mood of the crowd changed following a horrific never seen before incident (X). Some
+  made a run for it, others screamed, some cowered in their seats in utter disbelief.
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=7
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 14
+themes:
+- History
+- Social Issues
+variable_specific_rationale:
+  X: It is said that during the shooting of "The Dark Knight Rises," a fictional football
+    game between the Rogues and Rapid City Monuments was going on. The football game
+    was violently interrupted with an explosion, the presence of three tumblers, and
+    the arrival of Bane. This was very terrifying for the crowd because most of them
+    were oblivious of the "incident" that was about to happen.
+variable_to_answer:
+  X: Football field explosion in "The Dark Knight Rises"
+variables:
+- X

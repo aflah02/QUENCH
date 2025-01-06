@@ -1,0 +1,17 @@
+metadata: ''
+question: Originating from an immigrant in Saigon, this fiery condiment (X) has become
+  a global sensation. This condiment, often referred to as the "rooster sauce," embodies
+  a perfect fusion of tangy sweetness and intense heat, leaving taste buds craving
+  for more. Its iconic packaging, adorned with a vibrant rooster, is a beacon of its
+  bold flavor profile.
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q16
+themes:
+- Food and Cooking
+variable_specific_rationale:
+  X: Sriracha sauce originated in Saigon. It has tangy sweetness and intense heat.
+    It is also known as rooster sauce. The packaging also confirms the same.
+variable_to_answer:
+  X: Sriracha sauce
+variables:
+- X

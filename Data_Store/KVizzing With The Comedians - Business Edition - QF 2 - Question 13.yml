@@ -1,0 +1,19 @@
+metadata: ''
+question: Founded in 1944 as Kyungsung Precision Industry, a manufacturer of steel
+  tubing and bicycle parts, the company also eventually produced its home country's
+  first domestic bicycle, the Samchully, in 1951. According to the company, the name
+  "X" derives from the characters that stand for 'to arise' and 'Asia'; it is roughly
+  translated as "Rising from (East) Asia."
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 2 - Question 13
+themes:
+- Business and Economics
+- History
+variable_specific_rationale:
+  X: Kia was founded in 1944 as Kyungsung Precision Industry and manufactured steel
+    tubing and bicycle parts. Kia is derived from characters that stand for 'to arise'
+    and 'Asia'.
+variable_to_answer:
+  X: Kia
+variables:
+- X

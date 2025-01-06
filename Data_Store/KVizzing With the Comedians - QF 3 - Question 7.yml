@@ -1,0 +1,19 @@
+metadata: ''
+question: This act was mentioned by Marcus Minucius Felix in his dialogue Octavius,
+  in which he described children playing this game (X) on the beach. Among the first
+  documented evidence of X as a sport was in England, where it was described as "Ducks
+  and Drakes" in 1583. The world record in this sport, according to the Guinness Book
+  of Records is 88.
+question_source: https://www.youtube.com/watch?v=01WxO1MZNHI&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 3 - Question 7
+themes:
+- History
+- Sports
+variable_specific_rationale:
+  X: Stone skipping used to be described as Ducks and Drakes in England in 1583. The
+    world record for most number of skips stands at 88 and this act was mentioned
+    by Marcus Minucius Felix in his dialogue Octavius
+variable_to_answer:
+  X: Stone skipping
+variables:
+- X

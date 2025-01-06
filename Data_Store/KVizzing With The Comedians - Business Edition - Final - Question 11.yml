@@ -1,0 +1,22 @@
+metadata: ''
+question: Paul Carl Beiersdorf established the company on 28 March 1882. The brand
+  name (X) comes from the Latin adjective meaning "snow-white". During the 1930s,
+  Beiersdorf produced various products such as tanning oils, shaving creams, shampoo,
+  facial cleanser, and toners. In World War 2, the trademark was expropriated in many
+  countries. After the war, Beiersdorf bought the rights back. During the 1980s, the
+  brand (X) expanded into a wider global market.
+question_source: https://www.youtube.com/watch?v=YHCB9sUoqNM&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=8
+question_title: KVizzing With The Comedians - Business Edition - Final - Question
+  11
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Paul Carl Beiersdorf established Nivea which is a German company. It produced
+    several products like tanning oils, shaving creams, shampoo, facial cleanser,
+    and toners. In World War 2, the trademark was expropriated in many countries,
+    however, after the war, Beiersdorf bought the rights back. Nivea also expanded
+    to other countries in 1980s.
+variable_to_answer:
+  X: Nivea
+variables:
+- X

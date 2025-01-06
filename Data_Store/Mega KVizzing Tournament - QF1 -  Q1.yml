@@ -1,0 +1,14 @@
+metadata: ''
+question: '- The Swan - The Rat Catcher - Poison - The Wonderful Story of Henry Sugar
+  - Fantastic Mr. Fox X connects these 5 films'
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF1 -  Q1
+themes:
+- Literature
+- Movies and Entertainment
+variable_specific_rationale:
+  X: All of these movies are adaptions of Roald Dahl's works by Wes Anderson
+variable_to_answer:
+  X: Roald Dahl's works adapted by Wes Anderson
+variables:
+- X

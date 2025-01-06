@@ -1,0 +1,18 @@
+metadata: ''
+question: Kodak, AMC, and Nokia were the lesser popular stocks, while Gamestop stock
+  took all the limelight a few years back. What term describes stocks like these,
+  that gain popularity due to online communities and heavy short interest. The term
+  X stocks essentially describes the shares of companies that have gained a cult-like
+  following on social media, which can influence share prices.
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q13
+themes:
+- Business and Economics
+- Pop Culture
+variable_specific_rationale:
+  X: 'Meme stocks are stocks of companies that have cult-like following on social
+    media which influence the share prices. '
+variable_to_answer:
+  X: Meme stocks
+variables:
+- X

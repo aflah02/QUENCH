@@ -1,0 +1,25 @@
+metadata: ''
+question: '* As per one story of Greek mythology, Zeus had announced that whoever
+  could devise the most interesting and original dish for his wedding, would be granted
+  any favour they pleased. One gooey dish called X was declared the winner and since
+  then has been one of the foods of Gods. * At the Olympic Games in ancient Greece,
+  this was used as a natural doping agent: the athletes used X in order to regain
+  their strength. * X was appreciated as a means of beauty by the ancient civilizations
+  and also used for medicinal purposes. * In feudal times in medieval Europe, X was
+  used as a source of revenue in the form of a tax, and was gathered by the lords.
+  * X comes in different colours, from transparent to almost black. Darker Xs have
+  higher antioxidant levels.'
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 11
+themes:
+- History
+- Mythology and Folklore
+variable_specific_rationale:
+  X: Honey is gooey dish often called the food of gods. It was used as a doping agent
+    as well as for beauty purposes. In feudal times it was also sometimes used as
+    a form of a tax and it comes in different shades with the darker one being more
+    antioxidant rich
+variable_to_answer:
+  X: Honey
+variables:
+- X

@@ -1,0 +1,22 @@
+metadata: ''
+question: In a hypothetical scenario discussed by a Reddit user, Major League Baseball
+  teams consider rebranding with names inspired by the most abundantly populated animal
+  in their regions. The AL East sees Tampa Bay, Boston, New York, Toronto, and Baltimore
+  adopting this approach, as does the AL Central with Chicago, Cleveland, Detroit,
+  Kansas City, and Minnesota. The AL West teams, including Houston, Seattle, Oakland,
+  Los Angeles of Anaheim, and Texas, follow suit. The NL East, NL Central, and NL
+  West undergo similar transformations, exploring new identities based on the most
+  populous creatures in each region. X could be the most dominant animal mascot in
+  this imaginative takeover.
+question_source: https://www.youtube.com/watch?v=lhMV08ZPDfo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=4
+question_title: Mega KVizzing Tournament - QF4 -  Q2
+themes:
+- Wildlife and Nature
+variable_specific_rationale:
+  X: Ants are the most abundantly populated animal in all these regions and hence
+    their names would change to reflect the same. Some names would be Boston Ants,
+    Detroit Ants etc.
+variable_to_answer:
+  X: Ants
+variables:
+- X

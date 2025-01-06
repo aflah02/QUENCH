@@ -1,0 +1,24 @@
+metadata: ''
+question: In the world of advertising, the use of celebrity endorsements can vary
+  depending on the product being promoted. Nestle, known for its inclusive approach,
+  often opts not to rely on celebrity endorsements. Instead, they prioritize relatable
+  narratives that resonate with everyday consumers. Take, for instance, their Nescafe
+  campaign targeted at the Southern region. They enlisted the help of a well-known
+  figure (X) from the cricketing world, someone recognized for his versatility and
+  adaptability. Despite the stereotype, this individual wasn't a typical Mumbaikar;
+  rather, his roots traced back to Bangalore. In the ad, he proudly declares, 'l am
+  from Bombay, my family is from Bangalore and we understand coffee.' Through this
+  campaign, Nestle effectively demonstrated the universality of their product while
+  celebrating regional diversity.
+question_source: https://www.youtube.com/watch?v=eNX9FH5XXKo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF2 -  Q12
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Ravi Shastri was chosen by Nestle for their advertisement. People usually associate
+    Ravi with Bombay but he's actually from Bangalore. This aimed to promote the universality
+    of their product while celebrating regional diversity.
+variable_to_answer:
+  X: Ravi Shastri
+variables:
+- X

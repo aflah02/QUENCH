@@ -1,0 +1,22 @@
+metadata: ''
+question: In 1995, founder Tulsi Tanti was managing a 20-employee textile company.
+  Due to the erratic availability of power locally, and its rising costs, the highest
+  business expenditure after the raw materials was electricity. The cost of electricity
+  also offset any profits made by the company. After providing electricity for his
+  own company, Tanti moved into wind energy production as a way to secure the textile
+  company's energy needs, and founded the current company. The new company that Tanti
+  founded was formerly ranked by MAKE as the world's fifth largest wind turbine supplier.
+  This Pune based company (X) is helping India in its journey towards achieving sustainable
+  renewable
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 2 - Question 11
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Suzlon Energy Limited was founded by Tulsi Tanti after facing electricity issues
+    in his textile business. It is a Pune based company and was formerly ranked by
+    MAKE as the world's fifth largest wind turbine supplier.
+variable_to_answer:
+  X: Suzlon Energy Limited
+variables:
+- X

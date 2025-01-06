@@ -1,0 +1,21 @@
+metadata: ''
+question: X was a prominent figure in Greek mythology and an important character in
+  the Trojan War. Born to Telamon, the king of Salamis, and Periboea, he was renowned
+  for his remarkable strength, unwavering courage, and exceptional combat skills.
+  His story exemplifies the themes of honor, rivalry, and the consequences of pride
+  and loss in ancient Greek literature and culture. Interestingly, the name X has
+  also inspired a professional football club, which proudly bears his name. The club's
+  emblem prominently features the portrait of X, artfully depicted with a mere 11
+  lines, symbolizing the 11 players constituting a football team.
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 17
+themes:
+- Mythology and Folklore
+- Sports
+variable_specific_rationale:
+  X: Ajax is the name of a prominent figure in Greek mythology. It is also present
+    in the name of a football club which has a portrait of Ajax on its emblem
+variable_to_answer:
+  X: Ajax
+variables:
+- X

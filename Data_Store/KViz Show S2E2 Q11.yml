@@ -1,0 +1,18 @@
+metadata: ''
+question: In the Royal National Park near Bundeena, Sydney, there's a mesmerizing
+  sandstone formation (X) suspended 25 meters above sea levels. Named for its uncanny
+  resemblance to a specific celebratory dessert, this formation stands out with its
+  perfectly cuboid shape and white appearance. Despite its charm, recent surveys indicate
+  instability, and the landmark is predicted to collapse into the Tasman Sea within
+  the next decade.
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E2 Q11
+themes:
+- Geology
+variable_specific_rationale:
+  X: The dessert reference narrows it down to a few choices while the cuboid shape
+    and other traits such as short time left fits in with Wedding Cake Rock.
+variable_to_answer:
+  X: Wedding Cake Rock
+variables:
+- X

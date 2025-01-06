@@ -1,0 +1,20 @@
+metadata: ''
+question: This plant's seeds have been found in Egyptian tombs dating back to 4000
+  BC; the slow-burning oil was mostly used to fuel lamps. In India, it has been documented
+  since 200 BC and Ayurveda considers its oil the king of medicines for curing arthritic
+  diseases. The oil is also an effective motor lubricant and has been used in internal
+  combustion engines. The plant gives its name to a company (X) (owned by BP) which
+  uses the seeds as a raw material.
+question_source: https://www.youtube.com/watch?v=YHCB9sUoqNM&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=8
+question_title: KVizzing With The Comedians - Business Edition - Final - Question
+  10
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Castrol gets its name from Castor Oil. Castor Oil has been used for several medicinal
+    purposes as well as for fuel lamps in old times. Castrol uses Castor Oil as a
+    raw material and hence the name.
+variable_to_answer:
+  X: Castrol
+variables:
+- X

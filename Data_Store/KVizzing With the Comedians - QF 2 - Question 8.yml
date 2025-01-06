@@ -1,0 +1,33 @@
+metadata: ''
+question: X is the second longest Z in the world and got its name by Sir Mountstuart
+  Elphinstone Grant Duff, the Governor of Y in the year 1881. Before this, it was
+  just a big strip of sand. When he visited X, he fell in love with what he saw, and
+  ordered that a promenade be immediately constructed. Since then, many significant
+  buildings, statues, and other attractions have been added to the promenade. Recently
+  the government of the state proposed a statue of a pen- shaped monument within X
+  to mark the literary contributions of the state's ex-CM.
+question_source: https://www.youtube.com/watch?v=OsNiTh7rf-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=2
+question_title: KVizzing With the Comedians - QF 2 - Question 8
+themes:
+- History
+- Travel and Tourism
+variable_specific_rationale:
+  X: Marina Beach is the second longest beach in the world, stretching along the Bay
+    of Bengal in Chennai, India. It was named by Sir Mountstuart Elphinstone Grant
+    Duff, the Governor of Chennai, in 1881, and has since undergone significant development
+    with the construction of a promenade and various attractions.
+  Y: Chennai is a city in southern India that is known for its rich cultural heritage
+    and historical landmarks. It is the capital of the state of Tamil Nadu and is
+    home to Marina Beach, the second longest beach in the world.
+  Z: A beach is a stretch of land along a body of water, typically the sea or an ocean,
+    that is characterized by sand or pebbles and is used for recreation and relaxation.
+    Marina Beach in Chennai, India, is an example of a beach that has been developed
+    with a promenade and other attractions.
+variable_to_answer:
+  X: Marina Beach
+  Y: Chennai
+  Z: Beach
+variables:
+- X
+- Y
+- Z

@@ -1,0 +1,19 @@
+metadata: ''
+question: The Marina Bay Street Circuit is a Fl street circuit in Singapore. Turn
+  10 of the circuit used to be a quick sequence of left, right, and left corners which
+  used to be pretty challenging for drivers. The turn was removed and replaced with
+  a simple left turn after 2012 due to safety concerns. The original turn known as
+  popularly X which is also the name of a cocktail associated with Singapore
+question_source: https://www.youtube.com/watch?v=0rZIH2hSl54&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF1 -  Q9
+themes:
+- Pop Culture
+- Sports
+variable_specific_rationale:
+  X: Singapore Sling is a popular cocktail associated with Singapore as well as the
+    name of turn 10 of the Marina Bay Street Circuit which required careful maneuvering
+    and posed a risk and hence was later changed.
+variable_to_answer:
+  X: Singapore Sling
+variables:
+- X

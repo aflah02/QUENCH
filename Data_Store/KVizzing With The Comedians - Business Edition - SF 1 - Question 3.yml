@@ -1,0 +1,25 @@
+metadata: ''
+question: Andrew X, the son of a farmer, completed his apprenticeship in 1789, established
+  a barber's shop in Gerrard Street in Soho, England and began to produce cosmetic
+  products. At that time Soho was a high-end residential area, and X's clientele included
+  many wealthy socialites who took pride in their appearance. The fashion among the
+  wealthy of the period was for pristine white complexions; tanned faces were associated
+  with those who laboured outdoors. X found that his powders and creams were frequently
+  being used to cover up damage caused by the harshness of the soaps and other beauty
+  products (many of which contained arsenic or lead) that were in general use at the
+  time. X began to experiment with soap purification and eventually managed to produce
+  a gentle soap based on glycerine and other natural products.
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 1 - Question 3
+themes:
+- Business and Economics
+- Health and Wellness
+- Pharmaceuticals & Medicine
+variable_specific_rationale:
+  X: Andrew Pears created the Pears soap which was initially only used by the wealthy.
+    Soaps were very harsh on the skin at the time and he eventually created a much
+    gentler one using Glycerine and other natural products
+variable_to_answer:
+  X: Pears
+variables:
+- X

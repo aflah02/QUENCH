@@ -1,0 +1,19 @@
+metadata: ''
+question: "In 2004, Italian film producer Aurelio De Laurentiis financed the movie\
+  \ Sky Captain and the World of Tomorrow, starring Jude Law, Gwyneth Paltrow and\
+  \ Angelina Jolie. He then went on a holiday to Capri for 15 days, during which he\
+  \ decided to buy something for \u20AC37 million. After a historical recent achievement\
+  \ (X), that happened for the first time in 33 years, he recently accepted in an\
+  \ interview that it was the best \u20AC37 million he had ever spent."
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 15
+themes:
+- Business and Economics
+- Movies and Entertainment
+variable_specific_rationale:
+  X: Aurelio De Laurentiis bought the team SSC Napoli which only recently won the
+    league after 33 years
+variable_to_answer:
+  X: SSC Napoli
+variables:
+- X

@@ -1,0 +1,21 @@
+metadata: ''
+question: In the 1970s, Narasinha Chitale tasted this popular Gujarati snack. The
+  only difference was that it was the 'Nagpuri' variant of the snack. This "Nagpuri"
+  variant was an extremely spicy roll, whereas the Gujarati staple snack is milder.
+  The amalgamation of the spicy Nagpuri variant and the shape of Gujarati variant
+  is the iconic Chitale X. The recipe was perfected by Narasinha's elder sister-in-law
+  and went on sale in 1976.
+question_source: https://www.youtube.com/watch?v=OsNiTh7rf-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=3
+question_title: KVizzing With the Comedians - QF 2 - Question 15
+themes:
+- Food and Cooking
+variable_specific_rationale:
+  X: 'Chitale Bakarwadi perfected by Narasinha Chitale''s elder sister-in-law in 1970s
+    is an amalgamation
+
+    of the spicy Nagpuri variant and the shape of Gujarati variant. It went on sale
+    in 1976'
+variable_to_answer:
+  X: Bakarwadi
+variables:
+- X

@@ -1,0 +1,18 @@
+metadata: ''
+question: 'Published in 1958 and is considered to be one of the greatest ad lines
+  ever. X used the following ad line: "At 60 miles an hour, the loudest noise in this
+  new X comes from the electric clock"'
+question_source: https://www.youtube.com/watch?v=FQNzfDMGqZY&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB
+question_title: KVizzing With The Comedians - Business Edition - QF 1 - Question 4
+themes:
+- Business and Economics
+- History
+variable_specific_rationale:
+  X: "This refers to the longest-running & most successful Rolls-Royce ad at the time,\
+    \ written by advertising legend, David Ogilvy. Many consider it to be one of the\
+    \ greatest advertisements ever written & Ogilvy himself said it's \u201Cthe best\
+    \ headline I ever wrote.\u201D"
+variable_to_answer:
+  X: Rolls-Royce
+variables:
+- X

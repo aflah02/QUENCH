@@ -1,0 +1,17 @@
+metadata: ''
+question: Xs have some of the most dexterous hands in nature. Native Americans were
+  the first to note their unusual paws. The English word X comes from the Powhatan
+  word aroughcun, which means "animal that scratches with its hands." The Aztecs went
+  in a similar direction when naming the X mapachitli, or "one who takes everything
+  in its hands." Today mapache means "X" in Spanish.
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q6
+themes:
+- Language and Linguistics
+variable_specific_rationale:
+  X: Racoons are always shown to be holding stuff in media and hence the dextrous
+    hands. The word "aroughcun" also sounds vaguely like racoon.
+variable_to_answer:
+  X: Racoon
+variables:
+- X

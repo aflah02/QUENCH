@@ -1,0 +1,16 @@
+metadata: ''
+question: This culinary item (X), despite its name, is unrelated to religious endorsement;
+  instead, it earned its designation from the community's tradition of employing dry
+  meat tenderization. Notably, it lacks a crucial ingredient present in its more mainstream
+  counterpart. It is typically used in cooking and not at the table.
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF2 -  Q7
+themes:
+- Food and Cooking
+variable_specific_rationale:
+  X: 'Kosher Salt is not Kosher endorsed however people might be led to believe the
+    same going by the name. The crucial ingredient which it lacks is Iodine. '
+variable_to_answer:
+  X: Kosher Salt
+variables:
+- X

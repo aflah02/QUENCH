@@ -1,0 +1,21 @@
+metadata: ''
+question: 'The 1980s marked a highly successful period for X. Alongside his significant
+  role as one of Saturday Night Live''s prominent talents, he enjoyed immense success
+  as a stand-up comedian, creating iconic moments in pop culture history with Delirious
+  and Raw. Amidst his Hollywood blockbuster ventures, X even ventured into a singing
+  career, yielding two hits: "Party All the Time" in 1985 and "Put Your Mouth on Me"
+  in 1989. Produced by Rick James, the former song gained attention, although it is
+  often noted for being catchy yet considered one of the worst songs ever.'
+question_source: https://www.youtube.com/watch?v=JtvCSZdMzAI&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF3 -  Q6
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: 1980s was a successful period for Eddie Murphy through is multiple ventures.
+    He also had music hits "Party All the Time" in 1985 and "Put Your Mouth on Me"
+    in 1989. The former was very catchy and produced by Rick James but is often considered
+    the worst song of all time.
+variable_to_answer:
+  X: Eddie Murphy
+variables:
+- X

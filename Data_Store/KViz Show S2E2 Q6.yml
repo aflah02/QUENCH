@@ -1,0 +1,19 @@
+metadata: ''
+question: Named after the fictional child phantom, it's a friendly alternative to
+  ghosting. Instead of ignoring someone, you're honest about how you feel, and let
+  them down gently before disappearing from their lives. It (X) involves a considerate
+  approach to ending a relationship, leaving behind a sense of friendliness even when
+  parting ways.
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E2 Q6
+themes:
+- Language and Linguistics
+- Pop Culture
+variable_specific_rationale:
+  X: 'Caspering is named after the famous ghost Casper and is a friendly alternative
+    to ghosting where you tell the other person about your thoughts instead of just
+    disappearing. '
+variable_to_answer:
+  X: Caspering
+variables:
+- X

@@ -1,0 +1,23 @@
+metadata: ''
+question: A fictional terrorist organization, whose name is that of a mythological
+  creature, features this creature on its logo. A supervillain is named after this
+  animal (X) due to similarities in abilities. One of this kind of animal became famous
+  for correctly predicting the results of a number of matches of a particular sport,
+  to the extent that fans of the side predicted to lose would call for him to be eaten.
+question_source: https://donquizote.wordpress.com/2021/12/17/winter-qotd-17-2/
+question_title: winter-qotd-17-2
+themes:
+- Movies and Entertainment
+- Mythology and Folklore
+variable_specific_rationale:
+  X: Hydra is a fictional terrorist organization appearing in American comic books
+    published by Marvel Comics. It is named after the mythological creature "Hydra."
+    Hydra and Octopus share a lot of resemblance. Dr. Octopus, a villain also from
+    the same universe, is named after this animal, who also share a lot of similarities
+    in their abilities. Paul the Octopus is the football oracle as it became famous
+    around the world for correctly "choosing" the winner of Germany's seven matches
+    at the 2010 World Cup, as well as the final.
+variable_to_answer:
+  X: Octopus
+variables:
+- X

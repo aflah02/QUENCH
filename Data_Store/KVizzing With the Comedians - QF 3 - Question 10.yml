@@ -1,0 +1,21 @@
+metadata: ''
+question: 'The phrase X first appeared in 1979 in G. K. Payne''s work Built Environment,
+  but gained recognition as an Internet meme beginning in 2005, particularly on social
+  networking sites like Twitter (where it became a popular hashtag). In 2012, UNICEF
+  NZ conducted a survey of X in New Zealand, finding "slow web access" to be the most
+  common. Things that have been cited as being X include: * Poor mobile-phone coverage
+  * Phone battery dying * Television remote not working * Misplacing AirPods * Getting
+  a bad haircut * Bad-tasting fruit'
+question_source: https://www.youtube.com/watch?v=01WxO1MZNHI&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 3 - Question 10
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: First world problems which has now become a popular meme first appeared in 1979
+    in G. K. Payne's work Built Environment. It is often used to talk about relatively
+    trivial problems which implies a contrast to bigger problems faced by people in
+    developing countries
+variable_to_answer:
+  X: First world problems
+variables:
+- X

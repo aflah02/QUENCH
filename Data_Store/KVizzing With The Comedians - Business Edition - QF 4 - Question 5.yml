@@ -1,0 +1,16 @@
+metadata: ''
+question: North Face started providing these gloves with the thumb and index finger
+  highlighted in red for the Winter Olympics in Pyeongchang, South Korea in 2018.
+  These special gloves were made due to X
+question_source: https://www.youtube.com/watch?v=tCA4WD6VeWw&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 4 - Question 5
+themes:
+- Business and Economics
+- Sports
+variable_specific_rationale:
+  X: These special gloves were made so that the hearts were red when the wearer made
+    a finger heart.
+variable_to_answer:
+  X: To highlight the finger heart gesture
+variables:
+- X

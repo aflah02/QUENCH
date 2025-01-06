@@ -1,0 +1,33 @@
+metadata: ''
+question: "Z wanted to sign with X when he was drafted in 1984. Distributors reportedly\
+  \ wanted to make it happen, but executives wanted taller players to represent the\
+  \ brand on court. Converse was ready to offer him $100,000 per year. Y, a well-known\
+  \ rival of X, offered Z a $500,000 per year contract, which he took back to X to\
+  \ see if they could \"come anywhere close,\" but the brand had to pass. Z signed\
+  \ with Y. Missing out on Z was\u2014and still is\u2014one of the biggest missteps\
+  \ in X's history, but the company had its share of smart plays, too. Kareem Abdul-Jabbar\
+  \ was one of the brand's first contracted player, while Stan Smith made sales soar\
+  \ when he signed on and got a silhouette named after him. X & Y are companies and\
+  \ Z is a person"
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 1 - Question 9
+themes:
+- Business and Economics
+- Sports
+variable_specific_rationale:
+  X: Michael Jordan wanted to sign with Adidas which offered him $100,000 per year
+    while Nike offered him $500,000 per year and Adidas could not match that. This
+    is one of the worst missed in Adidas history however they've also made good decisions
+    as well such as signing Kareem Abdul-Jabbar and Stan Smith.
+  Y: Nike gave Michael Jordan a $500,000 per year offer beating Adidas and signing
+    him.
+  Z: Michael Jordan wanted to sign with Adidas however Nike offered him a 5x multiple
+    of what Adidas offered and hence he signed with Nike.
+variable_to_answer:
+  X: Adidas
+  Y: Nike
+  Z: Michael Jordan
+variables:
+- X
+- Y
+- Z

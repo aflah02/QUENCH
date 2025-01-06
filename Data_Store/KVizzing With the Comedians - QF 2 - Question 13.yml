@@ -1,0 +1,15 @@
+metadata: ''
+question: Even though Cristiano Ronaldo is the most followed person on Instagram,
+  X is the most followed account on Instagram across all categories. The brand page
+  is very active, and posts daily about its new features, interviews with creators
+  and influencers, and content by other creators.
+question_source: https://www.youtube.com/watch?v=OsNiTh7rf-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=2
+question_title: KVizzing With the Comedians - QF 2 - Question 13
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: Instagram is the most followed account on Instagram across all categories
+variable_to_answer:
+  X: Instagram
+variables:
+- X

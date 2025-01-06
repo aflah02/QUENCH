@@ -1,0 +1,22 @@
+metadata: ''
+question: "X is a high-end luxury fashion house founded by the Spanish designer Crist6bal\
+  \ X in San Sebastian, Spain. Called \"the master of us all\" by Christian Dior,\
+  \ X had a reputation as a couturier of uncompromising standards. His bubble skirts\
+  \ and odd, feminine, yet modern silhouettes became the trademarks of the house.\
+  \ Several designers who worked for X would go on to open their own successful couture\
+  \ houses, notably Oscar de Ia Renta (1949), Andre Courreges (1950), Emanuel Ungaro\
+  \ (1958), but his most famous and noted prot\xE9g\xE9 was Hubert de Givenchy. X?"
+question_source: https://www.youtube.com/watch?v=FQNzfDMGqZY&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB
+question_title: KVizzing With The Comedians - Business Edition - QF 1 - Question 12
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: "Crist\xF3bal Balenciaga was a Spanish fashion designer and the founder of the\
+    \ Balenciaga clothing brand. He had a reputation as a couturier of uncompromising\
+    \ standards and was referred to as \"the master of us all\" by Christian Dior\
+    \ and as \"the only couturier in the truest sense of the word\" by Coco Chanel,\
+    \ who continued, \"The others are simply fashion designers.\""
+variable_to_answer:
+  X: Balenciaga
+variables:
+- X

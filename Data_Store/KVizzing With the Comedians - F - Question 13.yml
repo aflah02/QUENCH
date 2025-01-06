@@ -1,0 +1,24 @@
+metadata: ''
+question: Samuel Johnson born in 1709, was an English writer who made lasting contributions
+  as a poet, essayist, editor and critic amongst other things. In 1746, a group of
+  publishers approached Johnson with a project. Johnson claimed that he could finish
+  the project in three years. In comparison, the French had 40 scholars spending 40
+  years to complete their project. This project was finally completed in April 1755
+  and was the most commonly used and imitated X for the next ~150 years till Y came
+  out toward end-of 19th century.
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 13
+themes:
+- History
+- Language and Linguistics
+- Literature
+variable_specific_rationale:
+  X: Samuel Johnson led the creation of the English Dictionary
+  Y: Oxford English Dictionary introduced in end-of 19th century overtime became more
+    popular
+variable_to_answer:
+  X: English Dictionary
+  Y: Oxford English Dictionary
+variables:
+- X
+- Y

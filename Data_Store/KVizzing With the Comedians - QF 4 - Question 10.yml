@@ -1,0 +1,17 @@
+metadata: ''
+question: X, who started X Burgers in 2020, is the most subscribed individual channel
+  on YouTube. To promote his newly launched brand, he did an event giving away free
+  food, money, and even cars. There was a line of people for up to 20 miles to try
+  the burgers and get the freebies. Within 3 months, the brand sold 1 million burgers.
+question_source: https://www.youtube.com/watch?v=xeAYBOR2On0&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 4 - Question 10
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: MrBeast Burgers started by MrBeast broke all records. MrBeast also has the most
+    subscribed individual owned youtube channel which aided in the success of his
+    business.
+variable_to_answer:
+  X: MrBeast
+variables:
+- X

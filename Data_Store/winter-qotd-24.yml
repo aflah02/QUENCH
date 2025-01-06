@@ -1,0 +1,25 @@
+metadata: ''
+question: "This is the world\u2019s largest travel luggage company and began more\
+  \ than a century ago as a trunk manufacturer. It was founded by a deeply religious\
+  \ Colorado man who named one of the initial cases after a Biblical strongman. From\
+  \ this was derived the trademark name that this company is now known by. This company\
+  \ was also instrumental in establishing the LEGO brand in the United States, a foray\
+  \ into toy manufacturing that was abandoned a decade later. Name the biblical character\
+  \ this company is named after (X)."
+question_source: https://donquizote.wordpress.com/2021/12/24/winter-qotd-24/
+question_title: winter-qotd-24
+themes:
+- Business and Economics
+- Pop Culture
+variable_specific_rationale:
+  X: Samsonite is named after the biblical character Samson. A religious man, Shwayder
+    named one of his initial cases Samson, after the Biblical strongman, and began
+    using the trademark Samsonite in 1941 for its tapered vulcanized fiber suitcase,
+    introduced in 1939. In 1965 after the Samsonite suitcase became its best-selling
+    product, the company changed its name to Samsonite. Beginning in 1961, Samsonite
+    manufactured and distributed Lego building toys for the North American market
+    under license from the Lego Group.
+variable_to_answer:
+  X: Samson
+variables:
+- X

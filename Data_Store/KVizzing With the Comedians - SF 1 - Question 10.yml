@@ -1,0 +1,20 @@
+metadata: ''
+question: 'This Indian city X, derives its name from a Hindu Goddess whose temple
+  is situated nearby. An interesting, unique policy makes X stand out from other Indian
+  cities. In the ''Edict of X'', the following is stated: "The age of personal statues
+  is gone. No personal statues shall be erected in the city or parks of X. The city
+  is planned to breathe the new sublimated spirit of art. Commemoration of persons
+  shall be confined to suitably placed bronze plaques."'
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 10
+themes:
+- Geography
+- Travel and Tourism
+variable_specific_rationale:
+  X: Chandigarh derives its name from the temple of "Chandi Mandir" located near the
+    city. It is also known as the planned city due to the extreme planning done to
+    build the city.
+variable_to_answer:
+  X: Chandigarh
+variables:
+- X

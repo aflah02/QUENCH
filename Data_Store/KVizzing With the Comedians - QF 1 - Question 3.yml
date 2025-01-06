@@ -1,0 +1,21 @@
+metadata: Variable ordering does not matter
+question: One month before their departure, these three people (X) had no idea about
+  the potential danger of their journey. Being government employees, they were unable
+  to purchase life insurance (very expensive at that time). To provide for their families
+  in case of disaster, they signed many items and had them posted to their families
+  on the day they left. This way, if they did not return, the families could at least
+  sell the autographs. Luckily, they did not need the failsafe, and survived the trip.
+  This act became a tradition followed by all subsequent people who made a similar
+  trip. Who are these people?
+question_source: https://www.youtube.com/watch?v=VSc6V6sXL-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6
+question_title: KVizzing With the Comedians - QF 1 - Question 3
+themes:
+- History
+variable_specific_rationale:
+  X: The ability of astronauts to obtain much life insurance was limited, so they
+    signed hundreds of postal covers before they left, on the presumption that they
+    would become highly valuable in the event of their death
+variable_to_answer:
+  X: Apollo 11 Astronauts (Neil Armstrong, Buzz Aldrin, Michael Collins)
+variables:
+- X

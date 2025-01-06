@@ -1,0 +1,17 @@
+metadata: ''
+question: X was founded in 1998 by Chip Wilson in Vancouver. Wilson created the name
+  to have many 'L's so that it would sound western to Japanese buyers, who often have
+  difficulty pronouncing the letter, and that the name otherwise "means nothing".
+  He later remarked that he found it "funny to watch Japanese speakers try and say
+  it".
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q13
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Lululemon was founded in 1998 by Chip Wilson in Vancouver. It has a lot of Ls
+    in the name.
+variable_to_answer:
+  X: Lululemon
+variables:
+- X

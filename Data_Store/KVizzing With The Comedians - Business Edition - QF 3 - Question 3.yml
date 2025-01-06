@@ -1,0 +1,24 @@
+metadata: ''
+question: Mr. Mittal was elected as a Rajya Sabha member with four other candidates
+  of the AAP from the state of Punjab recently, unopposed. Hailing originally from
+  the state of Rajasthan , his family developed special expertise in automobile dealerships
+  and sweet dishes over the years. But his enterprise only started getting deserved
+  recognition and respect when Mr. Mittal worked on his vision to bring back to Punjab
+  the long lost, shining glory of Takshila. He found X in 2005 that bears testimony
+  to his tireless efforts, indomitable will, and strong sense of commitment to his
+  ideals and goals?
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 3 - Question 3
+themes:
+- Business and Economics
+- Politics and Government
+variable_specific_rationale:
+  X: Lovely Professional University was found in 2005 by Mr. Mittal. The reference
+    to Takshila introduces the notion of an educational institution in the picture.
+    Mr. Mittal was also elected as a Rajya Sabha member from Punjab and originally
+    hails from Rajasthan.  His family developed special expertise in automobile dealerships
+    and sweet dishes over the years.
+variable_to_answer:
+  X: Lovely Professional University
+variables:
+- X

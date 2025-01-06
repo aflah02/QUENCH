@@ -1,0 +1,22 @@
+metadata: ''
+question: The term X was coined by New York environmentalist Jay Westerveld in a 1986
+  essay about the hotel industry's practice of placing notices in bedrooms promoting
+  reuse of towels to "save the environment". He noted that often little or no effort
+  toward reducing energy waste was made by these institutions, although towel reuse
+  saved them laundry costs. He labeled this and other profitable-but-ineffective "environmentally-
+  conscientious" acts as X. What term that is a form of advertising aimed at projecting
+  an environment friendly image?
+question_source: https://www.youtube.com/watch?v=YHCB9sUoqNM&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=8
+question_title: KVizzing With The Comedians - Business Edition - Final - Question
+  7
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: The term greenwashing is used to refer to advertising aimed at projecting an
+    environment friendly image. It was coined by the New York environmentalist Jay
+    Westerveld in a 1986 essay about the hotel industry's practice of placing notices
+    in bedrooms promoting reuse of towels to "save the environment".
+variable_to_answer:
+  X: Greenwashing
+variables:
+- X

@@ -1,0 +1,21 @@
+metadata: ''
+question: "The IMDb description of this movie (X) goes like \"A contract killer with\
+  \ a tragic past trains a girl to avenge the murder of her family and falls for her\
+  \ in the process\". This action-thriller Hindi film released in the year 2000, is\
+  \ a remake of the 1994 English-language French action thriller film L\xE9on: The\
+  \ Professional."
+question_source: https://www.youtube.com/watch?v=BOOHPDcz7Zs&list=PLwXllhq0F5MlDWa52D8-w2-4AQ7H5W2SI
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep1 - Question
+  15
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: "The film Bichhoo is a remake of 1994 English-language French action thriller\
+    \ film L\xE9on: The Professional. The IMDb description of the film goes like -\
+    \ \"A contract killer with a tragic past trains a girl to avenge the murder of\
+    \ her family and falls for her in the process\"."
+variable_to_answer:
+  X: Bichhoo
+variables:
+- X

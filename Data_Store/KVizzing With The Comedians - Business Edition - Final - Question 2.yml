@@ -1,0 +1,19 @@
+metadata: ''
+question: In response to the financial crisis of 1772 - 1773, Amsterdam-based businessman
+  Abraham (or Adriaan) van Ketwich formed something named Eendragt Maakt Magt ("unity
+  creates strength"). His aim was to provide small investors with an opportunity to
+  diversify. This was the first example of X
+question_source: https://www.youtube.com/watch?v=YHCB9sUoqNM&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=8
+question_title: KVizzing With The Comedians - Business Edition - Final - Question
+  2
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Abraham (or Adriaan) van Ketwich formed Eendragt Maakt Magt which was the first
+    mutual fund. The hint also lies in the translation of the name which is "unity
+    creates strength" just like in mutual funds where you have multiple assets covered
+    under a single fund. He created this during the financial crisis of 1772 - 1773.
+variable_to_answer:
+  X: Mutual Funds
+variables:
+- X

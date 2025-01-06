@@ -1,0 +1,16 @@
+metadata: ''
+question: The name of this Australian brand (X), owned by a British multinational
+  consumer goods company, is a combination of a French word for dead and a German
+  word for one.
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 2 - Question 3
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Mortein, an Australian brand is owned by a British multinational consumer goods
+    company. It is composed of the french word for dead, mort, and the German word
+    for one, ein.
+variable_to_answer:
+  X: Mortein
+variables:
+- X

@@ -1,0 +1,21 @@
+metadata: ''
+question: '''X'' (5 words) means, ''I am not novice to this situation, I have experience
+  in this area''. This is mostly used in instances where a less experienced person
+  is trying to give advice to a more experienced person, and is meant to establish
+  superiority. The last word in X is a contest staged to allow cowboys to exhibit
+  their skills. Some of the categories of competition are bull riding, saddle bronc
+  riding, bareback bronc riding, team roping, steer wrestling, calf roping, barrel
+  racing. X is commonly used as an idiom.'
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 12
+themes:
+- Language and Linguistics
+- Literature
+variable_specific_rationale:
+  X: This ain't my first rodeo is commonly used as an idiom to tell someone you're
+    well acquainted with the situation/task at hand. A rodeo is a contest staged to
+    allow cowboys to showcase their skills.
+variable_to_answer:
+  X: This ain't my first rodeo
+variables:
+- X

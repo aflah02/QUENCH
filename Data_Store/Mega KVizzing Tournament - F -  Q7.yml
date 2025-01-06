@@ -1,0 +1,22 @@
+metadata: ''
+question: Donald Lau, a long-standing figure at Wonton Foods in New York had dedicated
+  three decades of his life to the company's growth. Starting from its humble beginnings
+  as a small noodle shop, Lau has been instrumental in shaping the success of their
+  flagship product, making them the global leader in its production. His mastery of
+  the key ingredient has been unparalleled, a skill honed over his 30-year tenure.
+  However, feeling the creative well running dry, Lau decided to switch gears within
+  the company, taking on a new role of CFO. Donald Lau was previously X within Wonton
+  Foods.
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q7
+themes:
+- Business and Economics
+- Food and Cooking
+variable_specific_rationale:
+  X: Donald Lau had the role of Chief Fortune Writer before transitioning to the CFO
+    role. He used to write the fortunes for the fortune cookies which was their flagship
+    product.
+variable_to_answer:
+  X: Chief Fortune Writer
+variables:
+- X

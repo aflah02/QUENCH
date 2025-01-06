@@ -1,0 +1,18 @@
+metadata: ''
+question: Nestled in Milan, the Piazzale Loreto McDonald's conceals a dark secret
+  beneath its everyday facade. Unbeknownst to its patrons, this fast-food joint occupies
+  the spot where a crumbling legacy faced a tragic demise. The exact location, now
+  a bustling McDonald's at Corso Buenos Aires 17, hides a grim chapter of history
+  beneath its golden arches. X is the claim to fame of this fast-food joint.
+question_source: https://www.youtube.com/watch?v=0rZIH2hSl54&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF1 -  Q10
+themes:
+- Business and Economics
+- Pop Culture
+variable_specific_rationale:
+  X: This McDonald is located at the same spot where Mussolini died which can be deciphered
+    from the clues "where a crumbling legacy faced a tragic demise"
+variable_to_answer:
+  X: Death of Mussolini
+variables:
+- X

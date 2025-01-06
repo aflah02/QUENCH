@@ -1,0 +1,23 @@
+metadata: ''
+question: "In his lifetime, Rodin made at least 10 castings of X. Upon his death in\
+  \ 1917, the rights to recast it were given to the nation of France. Since then,\
+  \ that number has grown to over 20. (The exact figure is a matter of debate.) Today,\
+  \ plaster and bronze versions of X can be seen in Melbourne's National Gallery of\
+  \ Victoria, Geneva's Mus\xE9e d'Art et d'Histoire, Washington D.C.'s National Gallery\
+  \ of Art, and Paris' Mus\xE9e Rodin, just to name a few. There's also one that marks\
+  \ Rodin's grave."
+question_source: https://www.youtube.com/watch?v=1qxJy0OpbUI&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 1 - Question 14
+themes:
+- Art and Music
+- Geography
+- Pop Culture
+variable_specific_rationale:
+  X: "The Thinker is a bronze sculpture by Auguste Rodin, usually placed on a stone\
+    \ pedestal. Rodin conceived the figure as part of his work The Gates of Hell,\
+    \ commissioned in 1880, but the first of the familiar monumental bronze castings\
+    \ was made in 1904 and is now exhibited at the Mus\xE9e Rodin in Paris."
+variable_to_answer:
+  X: The Thinker
+variables:
+- X

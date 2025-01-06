@@ -1,0 +1,19 @@
+metadata: ''
+question: Sometime in the past, the legendary perfumers of ancient Kannauj created
+  a unique scent. The perfumes were traditionally stored in camel-skin pockets but
+  are now kept in bottles made from buffalo skins. Because of the rigorous process,
+  the perfume finally produced was warm, organic and rich in minerals. What is the
+  ultimate raw material (X) for this perfume?
+question_source: https://www.youtube.com/watch?v=xeAYBOR2On0&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 4 - Question 3
+themes:
+- History
+- Perfumes and Scents
+variable_specific_rationale:
+  X: The perfume in reference is called Mitti Attar also called the perfume of Petrichor.
+    Petrichor is a pleasant smell that frequently accompanies the first rain after
+    a long period of warm, dry weather.
+variable_to_answer:
+  X: Petrichor
+variables:
+- X

@@ -1,0 +1,18 @@
+metadata: ''
+question: His (X) website states that he has sung over 36000 songs in Tamil, Telugu,
+  Kannada, Hindi and Malayalam and holds the Guinness world record for most number
+  of songs rendered by a male singer.
+question_source: https://www.youtube.com/watch?v=AYkYqmgf2M4&list=PLwXllhq0F5MlHT_R6ITogkjEqGHj1d6ha&index=2
+question_title: KVizzing With The Comedians - India Quiz Edition - QF 1 - Q4
+themes:
+- Art and Music
+- History
+- Pop Culture
+variable_specific_rationale:
+  X: S P Balasubramaniam has has sung over 36000 songs in Tamil, Telugu, Kannada,
+    Hindi and Malayalam. He also holds the Guinness world record for most number of
+    songs rendered by a male singer.
+variable_to_answer:
+  X: S P Balasubramaniam
+variables:
+- X

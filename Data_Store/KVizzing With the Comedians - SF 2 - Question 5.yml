@@ -1,0 +1,27 @@
+metadata: ''
+question: "In 1982, a group of 150 Icelanders visited the NATO base in Keflavik in\
+  \ search of \"endangered X\" who they believed were at risk from American Phantom\
+  \ jets and AWACS reconnaissance planes. They felt that the military's presence disrespected\
+  \ their beliefs and desecrated sacred land. In 2013, plans for a road construction\
+  \ project from \xC4lftanes peninsula to the Reykjavik suburb of Gar\xF6ab\xE6r were\
+  \ halted due to protests from X supporters and environmental groups. They argued\
+  \ that the road would harm the habitat of X. The Icelandic Road and Coastal Administration\
+  \ has even prepared a comprehensive five-page document about X emphasizing the importance\
+  \ of respecting cultural heritage. In some cases, construction projects have been\
+  \ delayed to allow the X to supposedly relocate, demonstrating a response to these\
+  \ concerns."
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 5
+themes:
+- Geography
+- History
+- Mythology and Folklore
+- Social Issues
+variable_specific_rationale:
+  X: Elves are a mythological beings. People who believed in the same culture took
+    a stand for them and asked various organizations to make changes to accommodate
+    for them.
+variable_to_answer:
+  X: Elves
+variables:
+- X

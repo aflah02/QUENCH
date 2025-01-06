@@ -1,0 +1,20 @@
+metadata: ''
+question: "On February IO, 1929, JRD 'Jeh' Tata achieved the inaugural commercial\
+  \ aviator's certificate in India, realizing a dream he had cherished since the age\
+  \ of 15. This marked the beginning of a more significant vision\u2014empowering\
+  \ the nation with aviation. At 24, when a flying club launched in Mumbai (then Bombay),\
+  \ JRD Tata became the first Indian to graduate with 'No. 1' on his flying license.\
+  \ Three years later, he notably piloted the inaugural flight in Indian aviation\
+  \ history. On October 15, 1932, the Air India flight (then Tata Air Services) took\
+  \ off from X's Drigh Road Aerodrome and landed at Mumbai's Juhu Airstrip."
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q12
+themes:
+- Travel and Tourism
+variable_specific_rationale:
+  X: The question essentially asks us the takeoff airport of India's first flight
+    which was Karachi. It can also be narrowed down using "Drigh Road Aerodrome"
+variable_to_answer:
+  X: Karachi
+variables:
+- X

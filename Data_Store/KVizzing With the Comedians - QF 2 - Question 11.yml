@@ -1,0 +1,23 @@
+metadata: ''
+question: He (X) made his debut in "The Case of the Incomplete Letter", where he was
+  initially referred to as Dr. Verma but later changed his surname in "The Case of
+  the Burnt Letter - l". Cases like The Case of the Clinching Evidence and The Case
+  of the Multiple Puzzles made him a household name. But sometime in the 2000s, some
+  of his fans believe he went crazy most likely because of his stupid wig. He started
+  behaving very weirdly at times (read most of the times), with his superiors.
+question_source: https://www.youtube.com/watch?v=OsNiTh7rf-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=2
+question_title: KVizzing With the Comedians - QF 2 - Question 11
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Dr. Salunkhe is a fictional character in the CID TV Series, who made his debut
+    in "The Case of the Incomplete Letter" under the name Mr. Verma and became a household
+    name with cases like "The Case of the Clinching Evidence" and "The Case of the
+    Multiple Puzzles." He is known for his intelligence and deductive skills, but
+    some of his fans believe he went crazy in the 2000s due to his stupid wig and
+    started behaving weirdly with his superiors.
+variable_to_answer:
+  X: Dr Salunkhe
+variables:
+- X

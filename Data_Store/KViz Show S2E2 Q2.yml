@@ -1,0 +1,16 @@
+metadata: ''
+question: "Named 'La Belle et Ia B\xE9te,' this work was penned by Gabrielle- Suzanne\
+  \ Barbot de Villeneuve during the 18th century. The title means X in English"
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E2 Q2
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: "'La Belle et Ia B\xE9te' means the 'The Beauty and the Beast' where Belle means\
+    \ Beauty and B\xE9te means Beast. The hint that penned down by Gabrielle-Suzanne\
+    \ Barbot de Villeneuve during the 18th century also confirms the answer."
+variable_to_answer:
+  X: The Beauty and the Beast
+variables:
+- X

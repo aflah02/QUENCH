@@ -1,0 +1,21 @@
+metadata: ''
+question: In the spotlight of a recent recognition by Libero Quotidiano, a far-right
+  daily published in Milan, this Italian (X) has been hailed as the 'man of the year.'
+  The accolade, bestowed upon the person, reflects their triumph in what the article
+  terms "the war of perspectives" within Italy. The praise goes beyond conventional
+  barriers as they are credited not just with breaking but completely dissolving barriers.
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF1 -  Q11
+themes:
+- Current Events
+- Politics and Government
+- Science and Technology
+variable_specific_rationale:
+  X: Giorgia Meloni was awarded 'man of the year' by Libero Quotidiano, a far-right
+    daily published in Milan. The person can be guesses by the terms "breaking barriers"
+    as she won the award which is usually given to men as also affirmed by the name
+    itself. She is also a possible answer as she is also known to be a far-right politician.
+variable_to_answer:
+  X: Giorgia Meloni
+variables:
+- X

@@ -1,0 +1,21 @@
+metadata: ''
+question: Detective Sam Spade had a lot of speeches in the movie X, which the Warners
+  felt tended to slow things down. They asked the director John Huston to pick up
+  the pace by having Bogart (and the others) talk faster. Huston, eager to please
+  on his first film, took the note to heart and instructed everyone accordingly. When
+  X was a hit, the rat-a-tat pace became one of the hallmarks of film noir.
+question_source: https://www.youtube.com/watch?v=1qxJy0OpbUI&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 1 - Question 12
+themes:
+- History
+- Movies and Entertainment
+variable_specific_rationale:
+  X: The Maltese Falcon is a 1941 American film noir written and directed by John
+    Huston in his directorial debut, based on the 1930 novel of the same name by Dashiell
+    Hammett and indebted to the 1931 movie of the same name. The Maltese Falcon quickly
+    became a classic, viewed as the first major "film noir" and a prototype for the
+    genre of hardboiled detectives, femmes fatales, and carefully placed shadows.
+variable_to_answer:
+  X: The Maltese Falcon
+variables:
+- X

@@ -1,0 +1,26 @@
+metadata: ''
+question: It (X) started quietly and privately, and compared with the fame it would
+  attract over the next 50 years, understatedly. In an unassuming Adelaide home in
+  mid-1971, a piece of Australian history was being assiduously created. But as Sandy
+  Hanson sat at the sewing machine of her Hyde Park townhouse over several of those
+  winter nights, she had no idea this thing she was stitching as a favour for a friend
+  would become one of the nation's most recognised symbols. On July 12, 1971, armed
+  with Sandy Hanson's finished work, it was carried down King William Street through
+  the city's centre, where, at a rally near the fountains at Victoria Square, this
+  recognised symbol was first used publicly.
+question_source: https://www.youtube.com/watch?v=OsNiTh7rf-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=2
+question_title: KVizzing With the Comedians - QF 2 - Question 5
+themes:
+- History
+- Politics and Government
+- Social Issues
+variable_specific_rationale:
+  X: The Australian Aboriginal Flag was created in mid-1971 by Sandy Hanson in her
+    Hyde Park townhouse in Adelaide, South Australia. It was first publicly used at
+    a rally near the fountains at Victoria Square in Adelaide on July 12, 1971, and
+    has since become one of the most recognizable symbols of Australian culture and
+    identity.
+variable_to_answer:
+  X: Australian Aboriginal Flag
+variables:
+- X

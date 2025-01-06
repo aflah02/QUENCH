@@ -1,0 +1,35 @@
+metadata: ''
+question: The word X is of Italian origin; the root Y means a house. X may mean a
+  small country villa, summerhouse, or social club. During the 19th century, X came
+  to include other public buildings where pleasurable activities took place; such
+  edifices were usually built on the grounds of a larger Italian villa or palazzo,
+  and were used to host civic town functions, including dancing, Z, music listening,
+  and sports. In modern-day Italian, X can mean a brothel, a mess (confusing situation),
+  a noisy environment or a gaming house.
+question_source: https://www.youtube.com/watch?v=VSc6V6sXL-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6
+question_title: KVizzing With the Comedians - QF 1 - Question 8
+themes:
+- History
+- Pop Culture
+variable_specific_rationale:
+  X: The term "Casino," rooted in Italian, originally referred to a small country
+    villa and expanded to encompass public establishments hosting civic functions.
+    Through linguistic evolution, it now includes gaming houses, aligning with its
+    historical connection to social clubs and pleasurable activities.
+  Y: With Italian origins, the root "Casa," meaning a house, encapsulates the term's
+    initial association with a small country villa. As it transformed to include public
+    buildings, the root retained its essence, showcasing the linguistic continuity
+    and highlighting the fundamental connection to a dwelling.
+  Z: Reflecting the diverse activities in the public buildings associated with the
+    term, "Gambling" aptly captures the broader category, including dancing, music
+    listening, and sports. This choice emphasizes the historical and contemporary
+    association with pleasurable pursuits, particularly highlighting gambling as one
+    of the activities hosted in these venues.
+variable_to_answer:
+  X: Casino
+  Y: Casa
+  Z: Gambling
+variables:
+- X
+- Y
+- Z

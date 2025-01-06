@@ -1,0 +1,29 @@
+metadata: ''
+question: Silicon based life is a possibility that scientists have been discussing
+  for quite a while now. Like carbon, silicon too is tetravalent and can create molecules
+  that are sufficiently large enough to carry biological information. While there
+  is no proof for the same yet, a sci-fi tv show portrayed a sentient silicon based
+  life form that ate rocks and lived on another planet. There have been over 125 games
+  related to the franchise, with the first one being created on BASIC.
+question_source: https://donquizote.wordpress.com/2023/07/05/qotd-3-week-2-summer-season-2023/
+question_title: qotd-3-week-2-summer-season-2023
+themes:
+- Movies and Entertainment
+- Pop Culture
+- Science and Technology
+variable_specific_rationale:
+  TV Show: This description matches the concept of the Horta, a silicon-based life
+    form that appears in the Star Trek franchise. The Horta is a sentient, rock-like
+    creature that lives on the planet Janus VI and is capable of communication with
+    humans. The first Star Trek series, The Original Series, aired in the 1960s and
+    was created by Gene Roddenberry. Since then, there have been numerous spin-offs,
+    movies, and games related to the franchise, with over 125 games being developed.
+    The mention of the first game being created on BASIC refers to the fact that the
+    first Star Trek game, titled "Star Trek," was developed in 1971 by Mike Mayfield
+    and was written in BASIC. The game was a text-based adventure game that allowed
+    players to explore the galaxy and interact with various alien species, including
+    the Horta.
+variable_to_answer:
+  TV Show: Star Trek
+variables:
+- TV Show

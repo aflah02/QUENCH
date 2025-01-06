@@ -1,0 +1,20 @@
+metadata: ''
+question: Blood and Whiskey captures the person's (X) indomitable rise in the rough-edged
+  world of the nineteenth-century trade and shows how his commitment to quality and
+  his flair for marketing and packaging helped create one of America's most venerable
+  and recognizable brands.
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 1 - Question 10
+themes:
+- Books
+- Business and Economics
+- Food and Cooking
+- Literature
+variable_specific_rationale:
+  X: 'Blood and Whiskey''s full title is Blood and Whiskey: The Life and Times of
+    Jack Daniel and it is about the rise of Jack Daniel and his brand of the same
+    name.'
+variable_to_answer:
+  X: Jack Daniel
+variables:
+- X

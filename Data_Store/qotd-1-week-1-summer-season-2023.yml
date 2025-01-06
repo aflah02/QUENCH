@@ -1,0 +1,43 @@
+metadata: ''
+question: This critically acclaimed singer has won several awards and received many
+  praises for their unique pop songs, being one of the younger artists in the industry.
+  One of their most popular songs is the theme song for a film in one of the most
+  popular film series in the world. Another, significantly older singer sung another
+  theme song for another film in the same series and both have won more than two of
+  the same awards in their respective release times. Identify both singers and both
+  songs in the order that they were first mentioned in the question.
+question_source: https://donquizote.wordpress.com/2023/06/26/qotd-1-week-1-summer-season-2023/
+question_title: qotd-1-week-1-summer-season-2023
+themes:
+- Art and Music
+- Pop Culture
+variable_specific_rationale:
+  Artist 1: This refers to Billie Eilish, who was born in 2001 and rose to fame in
+    the late 2010s with her unique pop sound. Eilish has won numerous awards for her
+    music, including multiple Grammy Awards, and has become a popular name in the
+    music industry. She is also the artist for the song "No Time to Die" which was
+    featured in the James Bond movie with the same name.
+  Artist 2: This refers to Adele, who was born in 1988 and rose to fame in the early
+    2010s with her soulful voice and heartfelt lyrics. Adele has won numerous awards
+    for her music, including multiple Grammy Awards, and has become a well-known and
+    respected artist in the music industry. She is also the artist for the song "Skyfall"
+    which was featured in the James Bond movie with the same name.
+  Song 1: The film series in question is the James Bond series, and the song mentioned
+    is "No Time to Die," which was written and recorded by Billie Eilish. The song
+    was released in 2020 and won several awards, including the Academy Award for Best
+    Original Song.
+  Song 2: The question states that both songs won more than two of the same awards
+    in their respective release times. The other singer in question is Adele, who
+    recorded the theme song for the James Bond film "Skyfall" in 2012. "Skyfall" won
+    several awards, including the Academy Award for Best Original Song, and became
+    a popular hit for Adele.
+variable_to_answer:
+  Artist 1: Billie Eilish
+  Artist 2: Adele
+  Song 1: No Time To Die
+  Song 2: Skyfall
+variables:
+- Song 1
+- Artist 1
+- Song 2
+- Artist 2

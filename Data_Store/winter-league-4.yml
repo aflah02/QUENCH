@@ -1,0 +1,27 @@
+metadata: ''
+question: One of the newest capitals (X) in the world, construction of this "monarchial
+  residence" began in the 21st century. This colossal megaproject remains largely
+  uninhabited and draws a sharp satire with giant deserted boulevards and mammoth
+  infrastructure whose access lies significantly beyond the purses of its residents.
+  One of the poorest countries in the region, its decision to relocate its capital
+  deeper into the mainland lies on shaky arguments of strategic positioning and defense
+  against an amphibious foreign invasion. Despite many replicas of iconic monuments
+  from the previous capital, the heart and people of the country elude it.
+question_source: https://donquizote.wordpress.com/2021/12/27/winter-league-4/
+question_title: winter-league-4
+themes:
+- Geography
+- Social Issues
+variable_specific_rationale:
+  X: "Myanmar is one of the poorest countries in the SEA region. Naypyidaw, the capital\
+    \ of Myanmar, is Burmese for \"abode of the king\" and is generally translated\
+    \ as \"royal capital,\" \"seat of the king,\" or \"abode of kings,\" which is\
+    \ similar in meaning to a \u201Cmonarchial residence.\" The capital was moved\
+    \ from Yangon to Naypidaw because it is more centrally located. It is also a transportation\
+    \ hub located adjacent to the Shan, Kayah, and Kayin states. Governmental and\
+    \ military leaders felt that a stronger military and governmental presence nearby\
+    \ might provide stability to those chronically turbulent regions."
+variable_to_answer:
+  X: Naypyidaw
+variables:
+- X

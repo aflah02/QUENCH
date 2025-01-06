@@ -1,0 +1,23 @@
+metadata: ''
+question: 'Throughout Avengers: Age of Ultron, the main antagonist Ultron is shown
+  with parallels to another famous fictional character, X. In the movie, Ultron repeats
+  the famous lines of X, which is originally a song in the 1940 movie, X : "l had
+  strings but now I''m free, there are no strings on me" By repeating those lines,
+  Ultron conveys that he is not being controlled by anyone anymore and is finally
+  free.'
+question_source: https://www.youtube.com/watch?v=OsNiTh7rf-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=2
+question_title: KVizzing With the Comedians - QF 2 - Question 1
+themes:
+- History
+- Literature
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Ultron's repeated use of Pinocchio's famous line "I had strings, but now I'm
+    free" highlights his desire for autonomy and freedom from control, much like Pinocchio's
+    journey towards becoming a real boy. By embracing this line, Ultron expresses
+    his rejection of being controlled by others and his pursuit of self-determination.
+variable_to_answer:
+  X: Pinocchio
+variables:
+- X

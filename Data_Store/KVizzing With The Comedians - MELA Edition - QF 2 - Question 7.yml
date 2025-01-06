@@ -1,0 +1,24 @@
+metadata: ''
+question: X is a phrase that was often used by public address announcers at the conclusion
+  of his event in order to disperse audiences who lingered in hopes of an encore.
+  It has since become a catchphrase and punchline. The phrase was first used by promoter
+  Horace Logan at the Shreveport Municipal Memorial Auditorium in Shreveport, Louisiana,
+  on had appeared in the middle of the December 15, 1956. Y had appeared in the middle
+  of the night's lineup, and Logan needed to quiet the audience so that the remaining
+  performers could play. In the early part of his original heel run, WWE wrestler
+  Shawn Michaels' departure from the arena during live events would be announced by
+  the announcers by taking inspiration from this original phrase.
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=7
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 7
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: '"Elvis has left the building" was used by announcers to mark the conclusion
+    of Elvis Presley concerts. It was later also adopted in WWE to mark Shawn Michael''s
+    departure from the arena by the phrase "The Heartbreak Kid Shawn Michaels has
+    left the building."'
+variable_to_answer:
+  X: Elvis has left the building
+variables:
+- X

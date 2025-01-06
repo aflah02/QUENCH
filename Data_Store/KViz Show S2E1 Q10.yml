@@ -1,0 +1,22 @@
+metadata: ''
+question: X is thought to have had its roots in Italy where the gambling game sprang
+  up in the early 18th century. The king of Naples and Sicily wanted to formalize
+  lottery in order to be able to tax it. The Church, however, opposed this as it was
+  considered a "deceptive and amoral delight". Eventually it was legalized as long
+  as the game was suspended during the Christmas holidays, so as not to distract the
+  faithful from prayer. The Neapolitans didn't want to give up playing, so they adapted
+  this lottery to a board game X with a familiar character. X is a derivative of a
+  word that means "to fall headlong or tumble".
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q10
+themes:
+- History
+- Hobbies and Interests
+variable_specific_rationale:
+  X: 'Tambola is an adaptation of the lottery in a board game form which was made
+    to avoid the rule that lottery was to be suspended during Christmas time. The
+    hint about the word meaning "tumble" also leads to Tambola as they sound similar. '
+variable_to_answer:
+  X: Tambola
+variables:
+- X

@@ -1,0 +1,20 @@
+metadata: ''
+question: In 2013, a man from America named Benjamin Carethers, believed that the
+  slogan of X is dishonest and therefore sued the company on the accusation of false
+  advertising! The misleading part which Benjamin used in the lawsuit was that it
+  does not offer what was advertised literally or metaphorically. In 2015 when the
+  lawsuit ended, customers received $13 million in compensation. The company thereafter
+  altered a word in their slogan so that it 'technically' does not have a meaning
+  in the dictionary.
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 5
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Red Bull originally had the slogan "Red Bull Gives you Wings" but they lost a
+    lawsuit due to the false claim and changed the word Wings to Wiiings which is
+    not an actual word, thereby protecting them from future claims.
+variable_to_answer:
+  X: Red Bull
+variables:
+- X

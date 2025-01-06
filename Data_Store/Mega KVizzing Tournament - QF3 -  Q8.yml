@@ -1,0 +1,14 @@
+metadata: ''
+question: 'X won 7 Singles Grand Slam titles (exhaustive): - 2000 - Wimbledon - 2000
+  - US open - 2001 - Wimbledon - 2001 - US open - 2005 - Wimbledon - 2007 - Wimbledon
+  - 2008 - Wimbledon'
+question_source: https://www.youtube.com/watch?v=JtvCSZdMzAI&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF3 -  Q8
+themes:
+- Sports
+variable_specific_rationale:
+  X: These 7 Grand Slams were won by Venus Williams
+variable_to_answer:
+  X: Venus Williams
+variables:
+- X

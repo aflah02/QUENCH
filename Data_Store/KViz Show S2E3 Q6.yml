@@ -1,0 +1,15 @@
+metadata: ''
+question: In the 1860s, X was a boundary within or around a prison. Prisoners would
+  be shot for crossing the X. Over time, X started being used in a less bloody context.
+  X would not be familiar to people in corporate.
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E3 Q6
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: Deadline is quite common in corporate jobs while quite literally the line was
+    a line of death as crossing it got you killed.
+variable_to_answer:
+  X: Deadline
+variables:
+- X

@@ -1,0 +1,15 @@
+metadata: ''
+question: The Starbucks' Siren logo is famous all around the world. Yet, when the
+  coffee behemoth decided to enter a certain country (X) in 2000, the logo was altered
+  to remove the siren, leaving only her crown floating in the water (or coffee?)
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 2 - Question 2
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Starbucks altered its logo to remove the siren when entering Saudi Arabia in
+    2000 due to different moral standards in the country.
+variable_to_answer:
+  X: Saudi Arabia
+variables:
+- X

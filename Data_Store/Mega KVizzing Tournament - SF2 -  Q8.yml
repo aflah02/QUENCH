@@ -1,0 +1,14 @@
+metadata: ''
+question: On the flag of X, an Asian country you will find a mythological entity called
+  Druk
+question_source: https://www.youtube.com/watch?v=eNX9FH5XXKo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF2 -  Q8
+themes:
+- Geography
+variable_specific_rationale:
+  X: Bhutan's flag contains mythological entity called Druk which translates to "The
+    Thunder Dragon"
+variable_to_answer:
+  X: Bhutan
+variables:
+- X

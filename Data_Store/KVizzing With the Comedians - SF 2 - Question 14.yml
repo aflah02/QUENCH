@@ -1,0 +1,23 @@
+metadata: ''
+question: There once was a woman who had 100 children. She named each of them after
+  numbers in the order they were born. There was a fire and all of them died except
+  Ninety. Ninety went off to have kids of her own. They were very kind and loving.
+  One day they found an injured dog. They took it home and nursed it back to health.
+  They hid the dog and never told their mother, afraid she would kick the dog out.
+  In fact they never told anyone. To keep from arousing any suspicions they named
+  the dog "This" so the name could be used in conversation. One day This ran away.
+  They never saw This again. No one else knew about This. No one even knew a dog named
+  This existed. What is the final sentence of this story (X), used widely on the internet
+  in a certain context?
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 14
+themes:
+- Literature
+variable_specific_rationale:
+  X: The phrase "Only Ninety's Kids Will Remember This" is very popular as a mode
+    to invoke nostalgia. It makes sense here as Ninety is the parent of the kids and
+    the dog's name is This.
+variable_to_answer:
+  X: Only Ninety's Kids Will Remember This
+variables:
+- X

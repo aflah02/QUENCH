@@ -1,0 +1,22 @@
+metadata: ''
+question: In the realm of social media, a familiar face (X) has made a triumphant
+  return, causing waves of excitement among fans who thought the content creator had
+  vanished from the scene forever. Known for a deadpan comedic style and astute commentary
+  on race and pop culture, this individual mysteriously disappeared from the digital
+  landscape in December 2018, leaving followers in suspense. After years of silence
+  the individual has reemerged to the delight of a global fanbase. This personality,
+  who was among the trailblazers for increased South Asian representation has partnered
+  with Crave and Pier 21 Films for an eight-part series titled "Late Bloomer".
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF1 -  Q2
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Jus Reign is known for his deadpan comedic style and astute commentary on race
+    and pop culture. He vanished from the digital landscape in 2018 and is now making
+    a return with an eight-part series titled "Late Bloomer"
+variable_to_answer:
+  X: Jus Reign
+variables:
+- X

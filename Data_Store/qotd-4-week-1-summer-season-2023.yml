@@ -1,0 +1,20 @@
+metadata: ''
+question: "One of the more popular subjects of Van Gogh, X is a very famous plant\
+  \ that is believed by some to follow the daylight. What catches the eye of most\
+  \ people about it though is not it\u2019s flowers but rather it\u2019s large and\
+  \ brightly coloured \u201Cflower head\u201D or pseudanthium."
+question_source: https://donquizote.wordpress.com/2023/06/29/qotd-4-week-1-summer-season-2023/
+question_title: qotd-4-week-1-summer-season-2023
+themes:
+- Art and Music
+- Wildlife and Nature
+variable_specific_rationale:
+  Plant: Sunflowers is the name of two still life painting series by Vincent Van Gogh
+    with the plants themselves as the primary subject of the paintings! Sunflowers
+    are said to follow the sun throughout the day. They are known for their their
+    bright yellow pseudanthium (flower head), which is made up many flowers and is
+    not a single flower!
+variable_to_answer:
+  Plant: Sunflower
+variables:
+- Plant

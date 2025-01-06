@@ -1,0 +1,23 @@
+metadata: ''
+question: 'On more than one occasion, Barack Obama has cited X as one of his favorite
+  TV shows. Interestingly, during the 2008 presidential election, the show''s greatness
+  was one of the few things that both John McCain and Obama could agree on, with McCain
+  mentioning X alongside Seinfeld as a personal favorite. And Obama''s favorite character?
+  It''s pretty much everyone''s favorite character: the gay, drug dealer-robbing,
+  criminal code- having, Robin Hooding stick-up boy Omar. "That''s not an endorsement.
+  He''s not my favorite person, but he''s a fascinating character," Obama told adding
+  that he''s "the toughest, baddest guy on the show."'
+question_source: https://www.youtube.com/watch?v=WX2z4VTY8Yo
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep3 - Question
+  10
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Obama mentioned The Wire being his favorite show on multiple occasions and during
+    the 2008 presidential elections both John McCain and Obama agreed on the show's
+    greatness. Omar is also a character in the series who was also Obama's favorite.
+variable_to_answer:
+  X: The Wire
+variables:
+- X

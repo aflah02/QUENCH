@@ -1,0 +1,22 @@
+metadata: ''
+question: X is a genetic condition where one person can have two sets of DNA. It occurs
+  when a woman is pregnant with twins, and one embryo dies, and the other embryo absorbs
+  the twin's cells. X in general also means a single animal, plant or any organism
+  composed of cells with more than 1 genotype X is also a fire breathing monster in
+  Greek mythology, having lion's head, goat's body, and a serpent's tail.
+question_source: https://www.youtube.com/watch?v=01WxO1MZNHI&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 3 - Question 14
+themes:
+- Biology and Genetics
+- Health and Wellness
+- Mythology and Folklore
+variable_specific_rationale:
+  X: Chimera is a genetic condition where one person has 2 sets of DNAs. It occurs
+    when out of two twins one of dies in the embryo stage and is absorbed by the other
+    twin. It is named after the fire breathing monster in Greek mythology, having
+    lion's head, goat's body, and a serpent's tail due to it being a mixture of several
+    species
+variable_to_answer:
+  X: Chimera
+variables:
+- X

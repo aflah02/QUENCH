@@ -1,0 +1,22 @@
+metadata: ''
+question: "\"This wonderful night bestows us with the colo\xFCs of our crest: black\
+  \ and blue against a gilded backdrop of stars. It shall be called X because we are\
+  \ brothers of the world\" These were the founding words of which football club (Y)?\
+  \ It was born on 9th March 1908 due to a split from its parent club caused by disagreements\
+  \ over signing of foreign players."
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 7
+themes:
+- Pop Culture
+- Sports
+variable_specific_rationale:
+  X: "The founding words for Inter Milan are - \"This wonderful night bestows us with\
+    \ the colo\xFCs of our crest: black and blue against a gilded backdrop of stars.\
+    \ It shall be called Internazionale because we are brothers of the world\""
+  Y: These founding words correspond to Inter Milan
+variable_to_answer:
+  X: Internazionale
+  Y: Inter Milan
+variables:
+- X
+- Y

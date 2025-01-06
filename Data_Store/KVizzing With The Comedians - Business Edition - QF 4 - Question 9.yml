@@ -1,0 +1,18 @@
+metadata: ''
+question: The logo of this brand (X) was carefully chosen. Elephant signifies steadiness
+  and strength. Moreover, to many, elephant has an auspicious significance. Keeping
+  these values in mind, elephant was chosen hoping that it would bestow luck and spell
+  success. The logo caught on. In the rural heartland of India, it is still known
+  as the "hathiwala cream".
+question_source: https://www.youtube.com/watch?v=tCA4WD6VeWw&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 4 - Question 9
+themes:
+- Business and Economics
+- Movies and Entertainment
+variable_specific_rationale:
+  X: Boroline's logo features an Elephant which signifies steadiness and strength.
+    In the rural heartland of India, it is known as the "hathiwala cream".
+variable_to_answer:
+  X: Boroline
+variables:
+- X

@@ -1,0 +1,25 @@
+metadata: ''
+question: '- X honed his passion for maths, worked as an algebra and geometry teacher.
+  - He had also worked as the court astrologer. His famous works include ''Treatise
+  on Demonstration of Problems of Algebra'' which he completed in 1070. - In 1077,
+  he published a book on non-euclidean geometry ''Sharh ma ashkala min musadarat kitab
+  Uqlidisi'' meaning ''Explanations of the Difficulties in the Postulates of Euclid''.
+  * He also wrote ''Problems of Arithmetic'', a book on music and algebra - He was
+  also a famous astronomer and invented Jalali Calendar which became the base of other
+  calendars and is also known to be more accurate than the Gregorian calendar - Apart
+  from all these milestones, he had earned quite a name for his poems.'
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q7
+themes:
+- Literature
+- Science and Technology
+- Space and Astronomy
+variable_specific_rationale:
+  X: Omar Khayyam is known for his literary works but he was also a mathematician
+    and astronomer. He wrote 'Sharh ma ashkala min musadarat kitab Uqlidisi' meaning
+    'Explanations of the Difficulties in the Postulates of Euclid' as well as invented
+    the Jalali Calendar.
+variable_to_answer:
+  X: Omar Khayyam
+variables:
+- X

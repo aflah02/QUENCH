@@ -1,0 +1,21 @@
+metadata: ''
+question: Pure Drinks Group were pioneers in the Indian soft drink industry when they
+  introduced Coca-Cola into India in 1949, and were the sole manufacturers and distributors
+  of Coca-Cola till the 1970s when Coke was asked to leave. The Pure Drinks Group
+  virtually dominated the entire Indian soft drink industry for about 15 years, and
+  then started X during the absence of foreign competition. The brand's slogan was
+  "The Great Indian Taste", an appeal to nationalism. This drink that might see a
+  revival due to being acquired by Reliance recently
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 3 - Question 2
+themes:
+- Business and Economics
+- Food and Cooking
+- History
+variable_specific_rationale:
+  X: Campa Cola was started by Pure Drinks Group after Coke was asked to leave. It
+    was acquired by Reliance recently.
+variable_to_answer:
+  X: Campa Cola
+variables:
+- X

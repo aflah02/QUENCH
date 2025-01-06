@@ -1,0 +1,22 @@
+metadata: ''
+question: Considered one of North America's oldest sports, X traces its origins to
+  a time predating the arrival of European settlers in Canada. Indigenous peoples,
+  known as First Nations, engaged in a variation of the sport, commonly called "baggatawa,"
+  "tewaarathon," or "stickball." According to the Federation of International X, Algonquin
+  First Nations in the St. Lawrence Valley initiated the game in the 1630s, with subsequent
+  spread. A pivotal moment occurred in 1834 when Caughnawaga First Nations demonstrated
+  the sport in Montreal, leading to further development. Dr. William George Beers,
+  founding the Montreal X Club, formalized the game's rules. By 1860, X gained recognition
+  as Canada's National Game (unofficially), and it made its Olympic debut in the 1904
+  Games in St. Louis.
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q9
+themes:
+- Sports
+variable_specific_rationale:
+  X: Lacrosse is a popular Canadian game. The "stickball" name also hints towards
+    the same. it made an Olympic debut in the 1904 Games in St. Louis.
+variable_to_answer:
+  X: Lacrosse
+variables:
+- X

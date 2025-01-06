@@ -1,0 +1,17 @@
+metadata: ''
+question: Braeburn Capital is an asset management company based in Nevada. The name
+  Braeburn refers to a particular variety of the Malus domestica plant. It is a subsidiary
+  of X.
+question_source: https://www.youtube.com/watch?v=YHCB9sUoqNM&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=8
+question_title: KVizzing With The Comedians - Business Edition - Final - Question
+  9
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Braeburn Capital is a subsidiary of Apple. The reference to a plant in the name
+    hints towards the parent also being something plant related and possibly a giant
+    as only they possess enough money to run an asset management company.
+variable_to_answer:
+  X: Apple
+variables:
+- X

@@ -1,0 +1,29 @@
+metadata: ''
+question: 'George Solti, the longtime leader of the Chicago Symphony Orchestra, won
+  31 Grammys his whole life and holds the record for winning the maximum number of
+  Grammys. The Grammy Awards are regarded by many as the most prestigious and significant
+  awards in the music industry worldwide. In a completely different genre(Y), X, an
+  enigmatic artist who, despite leaving an indelible mark on the music industry, faced
+  disappointment when it came to Grammy nominations. Despite having dominated the
+  charts with 18 #1 worldwide hits, they only managed to secure 3 Grammy wins out
+  of 14 nominations. X is more famously known as the King of Y.'
+question_source: https://donquizote.wordpress.com/2023/07/04/qotd-2-week-2-summer-season-2023-2/
+question_title: qotd-2-week-2-summer-season-2023-2
+themes:
+- Art and Music
+variable_specific_rationale:
+  X: 'Elvis Presley is known as the "King of Rock and Roll." He had 18 #1 worldwide
+    hits, including songs like "Hound Dog," "Jailhouse Rock," and "Love Me Tender".
+    Despite his significant impact on the music industry, Presley only won 3 Grammy
+    Awards out of 14 nominations.'
+  Y: Rock and Roll is a genre of music that originated in the 1950s and is characterized
+    by its use of electric instruments and strong emphasis on rhythm. The Grammy Awards
+    are considered the most prestigious and significant awards in the music industry
+    worldwide. Elvis Presley, known as the "King of Rock and Roll," is a prominent
+    figure in the genre and has had a lasting impact on the music industry.
+variable_to_answer:
+  X: Elvis Presley
+  Y: Rock and Roll
+variables:
+- X
+- Y

@@ -1,0 +1,21 @@
+metadata: ''
+question: X was originally developed for British Army officers, and became popular
+  because of its use in the World War l. Many veterans returning to civilian life
+  kept them, which became fashionable for both men and women. It was made from gabardine,
+  a worsted wool fabric waterproofed using lanolin before weaving. It's invention
+  is claimed by two British luxury clothing manufacturers, Y and Aquascutum. Thomas
+  Y had invented gabardine fabric in 1879.
+question_source: https://www.youtube.com/watch?v=eNX9FH5XXKo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF2 -  Q13
+themes:
+- Fashion and Style
+variable_specific_rationale:
+  X: Trench Coats were originally used by British Army Officers and then returning
+    veterans post WW1 kept using it making them fashionable for the common people.
+  Y: Thomas Burberry had invented the gabardine fabric in 1879.
+variable_to_answer:
+  X: Trench Coat
+  Y: Burberry
+variables:
+- X
+- Y

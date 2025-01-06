@@ -1,0 +1,23 @@
+metadata: ''
+question: X is the Japanese word for freshwater eel, especially the Japanese eel,
+  Anguilla japonica. It is a common ingredient in Japanese cooking, often as kabayaki.
+  A kind of sweet biscuit by the same named pie made with powdered X also exists.
+  It is high in protein, vitamin A, and calcium. However, a fictional paleontologist
+  (Y) means this as "a state of total and complete awareness" when he says this word.
+question_source: https://www.youtube.com/watch?v=1qxJy0OpbUI&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 1 - Question 10
+themes:
+- Geology
+- Wildlife and Nature
+variable_specific_rationale:
+  X: Unagi is the Japanese word for freshwater eel. Unagi is served as part of unadon,
+    a donburi dish with sliced eel served on a bed of rice.
+  Y: Ross Geller, a fictional character of the famous TV Series, Friends, is a paleontologist.
+    In the episode "The One With Unagi," he quotes that after years of studying karate,
+    he has learned that self-defense is useless without Unagi, a state of total awareness.
+variable_to_answer:
+  X: Unagi
+  Y: Ross Geller
+variables:
+- X
+- Y

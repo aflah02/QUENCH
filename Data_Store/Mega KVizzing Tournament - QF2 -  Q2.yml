@@ -1,0 +1,16 @@
+metadata: ''
+question: In the 1800s, this expression (X) originated from an old bookkeeping practice
+  where the account total was written at the "bottom" of the page. The person responsible
+  for adding up the total was often the one who ended up covering the cost or paying
+  the expenses of something.
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF2 -  Q2
+themes:
+- Language and Linguistics
+variable_specific_rationale:
+  X: 'The phrase Footing the Bill originated from an old bookkeeping practice where
+    the account total was written at the "bottom" of the page. '
+variable_to_answer:
+  X: Footing the Bill
+variables:
+- X

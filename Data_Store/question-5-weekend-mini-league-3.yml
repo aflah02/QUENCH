@@ -1,0 +1,30 @@
+metadata: ''
+question: Within a certain category, X is one element whose name describes one of
+  its general purposes. Although X can be distinguished from Y, which also belongs
+  to the same category, based on certain physical properties such as size, shape and
+  load bearing capacity, there is no universally accepted distinction between the
+  two! The general idea is that X can carry Y but not vice-versa. Owners/Heads in-charge
+  of X and Y almost always give a name to them! A word that rose to popularity during
+  the past few years has Venetian origins and was originally done to X from plague-stricken
+  areas!
+question_source: https://donquizote.wordpress.com/2023/07/16/question-5-weekend-mini-league-3/
+question_title: question-5-weekend-mini-league-3
+themes:
+- Geography
+- Car
+variable_specific_rationale:
+  X: The word ship itself means to transport or deliver goods, which the purpose of
+    cargo ships. The word 'quarantine' comes from 'quarantena'  or 'quarantaine',
+    meaning 'forty days', used in the Venetian language in the 14th and 15th centuries
+    and also in France. The word is designated in the period during which all ships
+    were required to be isolated before passengers and crew could go ashore during
+    the Black Death plague.
+  Y: Boats are generally smaller than ships and usually carry lesser load but the
+    terms are used without distinction sometimes. An example of ships carrying boats
+    but not vice-versa is life-boats on cruise ships.
+variable_to_answer:
+  X: Ship
+  Y: Boat
+variables:
+- X
+- Y

@@ -1,0 +1,24 @@
+metadata: ''
+question: After dropping out of Stanford University, X worked as a caretaker at the
+  luxury Cascade Estates on the California side of Lake Tahoe near Mount Tallac. While
+  working and living on the property, he also found time to finish his first book,
+  Cup of Gold, which was published in 1929. The historical novel is based loosely
+  on pirate Henry Morgan's assault on Panama City in the 17th century. X was also
+  a Nobel prize winning writer.
+question_source: https://www.youtube.com/watch?v=1qxJy0OpbUI&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 1 - Question 8
+themes:
+- History
+- Literature
+variable_specific_rationale:
+  X: John Ernst Steinbeck was an American writer. He won the 1962 Nobel Prize in Literature
+    "for his realistic and imaginative writings, combining as they do sympathetic
+    humor and keen social perception." Steinbeck's first novel, Cup of Gold, was published
+    in 1929. He studied English Literature at Stanford University from 1919 to 1925
+    but left without a degree. When he failed to publish his work while working odd
+    jobs in NYC, he returned to California and worked in 1928 as a tour guide and
+    caretaker at Lake Tahoe, where he met Carol Henning, his first wife.
+variable_to_answer:
+  X: John Steinbeck
+variables:
+- X

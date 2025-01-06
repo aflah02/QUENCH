@@ -1,0 +1,18 @@
+metadata: ''
+question: In 1929, the US Army Air Corps Colonel John A. Macready created X, to reduce
+  the distraction for pilots caused by the intense blue and white hues of the sky.
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=3
+question_title: KVizzing With The Comedians - Business Edition - QF 2 - Question 1
+themes:
+- Business and Economics
+- History
+variable_specific_rationale:
+  X: "Ray-Ban is a brand of luxury sunglasses and eyeglasses created in 1936 by Bausch\
+    \ & Lomb. In 1929, US Army Air Corps Colonel John A. Macready worked with Bausch\
+    \ & Lomb, a Rochester, New York\u2013based medical equipment manufacturer, to\
+    \ create aviation sunglasses that would reduce the distraction for pilots caused\
+    \ by the intense blue and white hues of the sky."
+variable_to_answer:
+  X: Ray-Ban
+variables:
+- X

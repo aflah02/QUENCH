@@ -1,0 +1,21 @@
+metadata: ''
+question: X is a term for a user's response to an interface where there is insufficient
+  differentiation between active, 'clickable' elements, and content. Without appropriate
+  visual cues, the user must 'scrub' the screen to 'unearth' active elements. It is
+  named after a 1960s single-player video game which most of us have played.
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=7
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 12
+themes:
+- Pop Culture
+- Science and Technology
+variable_specific_rationale:
+  X: Minesweeping originally refers to the game Minesweeper, which originated in the
+    1960s when it used to be played on mainframe computers. It is also referred to
+    as the activity of moving the pointer across icons to uncover ToolTips or rollovers
+    in order to figure out what the icons represent. Such designs require the user
+    to actively decipher the interface, probing and testing the meaning of each interface
+    element rather than the interface elements being self-apparent.
+variable_to_answer:
+  X: Minesweeping
+variables:
+- X

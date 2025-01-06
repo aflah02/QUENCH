@@ -1,0 +1,21 @@
+metadata: ''
+question: Hidden within the realm of document customization in LaTeX, a peculiar package
+  (X) adds a touch of spontaneity to an otherwise formal environment. Crafted by Hanno
+  Rein and diligently maintained by Patrick Bideault, this package fills a void that
+  has lingered for far too long in the LaTeX world. You can choose from 4 options,
+  such as a 270 degree circular imprint with two tiny adornments, a 60 degree circular
+  mark, a pair of delicate hues dancing across the page and a vibrant twin manifestation.
+  This is a unique feature that allow you to effortlessly grace your documents without
+  the need for manual intervention
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF1 -  Q10
+themes:
+- Science and Technology
+variable_specific_rationale:
+  X: The Coffee Stains package lets you add coffee stain like marks on your latex
+    document. The different configurations allude to the different orientation/styles
+    of the stains.
+variable_to_answer:
+  X: Coffee Stains
+variables:
+- X

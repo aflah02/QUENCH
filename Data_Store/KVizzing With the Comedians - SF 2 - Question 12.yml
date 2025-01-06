@@ -1,0 +1,19 @@
+metadata: ''
+question: The word (X) was imported from Japan in the late 1850s, and its original
+  meaning had very little to do with business. X was the title of the shogun, Japan's
+  hereditary military dictator. Its literal meaning is "Great Lord/Prince" or "Supreme
+  Commander". The word quickly took on an extended meaning, and by the early 1860s
+  was being used to refer to a noteworthy or important person. Now it is usually used
+  to refer to "a person of great wealth, influence or power".
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 12
+themes:
+- History
+- Language and Linguistics
+variable_specific_rationale:
+  X: The word tycoon which is used to refer to an important person originates from
+    Japan and used to be the title of a Shogun
+variable_to_answer:
+  X: Tycoon
+variables:
+- X

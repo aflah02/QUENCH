@@ -1,0 +1,19 @@
+metadata: ''
+question: "He (X) was first buried in the St. Francis church located in Fort Kochi\
+  \ of the city of Kochi in Kerala. It is the oldest European church in India. However,\
+  \ due to the decision of his native country's king and a danger of vandalism in\
+  \ the tomb in India, fourteen years after his funeral, his remains were moved to\
+  \ Lisbon and now located at Jer\xF6nimos Monastery."
+question_source: https://www.youtube.com/watch?v=AYkYqmgf2M4&list=PLwXllhq0F5MlHT_R6ITogkjEqGHj1d6ha&index=2
+question_title: KVizzing With The Comedians - India Quiz Edition - QF 1 - Q5
+themes:
+- History
+- Religion and Philosophy
+variable_specific_rationale:
+  X: Vasco da Gama was first buried in the St. Francis church located in Kerela. Lisbon
+    hints to his origins. The king of his native place then recalled his remains to
+    Lisbon.
+variable_to_answer:
+  X: Vasco da Gama
+variables:
+- X

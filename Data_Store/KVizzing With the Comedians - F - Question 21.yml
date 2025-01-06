@@ -1,0 +1,22 @@
+metadata: ''
+question: 'Gordon Thomas, also known as X, is a character in Marvel Comics. He fought
+  in an unknown war for the US Army and lost his brother Joey. When he returns home,
+  his wife leaves him and takes their son. Feeling like an outcast, Gordon becomes
+  a signsmith but gets laid off. This leads him to become a super-villain named X,
+  using a grease pencil to write letters on his face, including a large "R" for "retribution."
+  He commits vandalism and catches Spider-Man''s attention. X defeats Spider-Man using
+  his letter weapons and escapes, later changing the "R" to an "A" for "Annihilation."
+  X was ranked 10th in CBR.com''s "Marvel: 10 Famous Villains From The 2000s To Bring
+  Back" list. He also appears in the 2023 film Spider-Man: Across the Spider-Verse.'
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 21
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: Typeface is a villain from the Marvel comics who wrote words on his face after
+    feeling like he lost everything and starts to commit vandalism and catches Spider-Man's
+    attention.
+variable_to_answer:
+  X: Typeface
+variables:
+- X

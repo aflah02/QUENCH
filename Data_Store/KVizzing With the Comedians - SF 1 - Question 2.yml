@@ -1,0 +1,19 @@
+metadata: ''
+question: One of the most iconic scenes in The Godfather (1972) was the death of Sonny
+  Corleone. The character, played by James Caan, gets ambushed at a toll booth by
+  Barzini's men, who shower him with a rain of bullets. It was inspired by another
+  crime-themed movie (X) released five years ago that is considered groundbreaking
+  in its portrayal of on-screen violence. X is based on real-life American criminals.
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 2
+themes:
+- History
+- Movies and Entertainment
+variable_specific_rationale:
+  X: Bonnie & Clyde was released 5 years before The Godfather and is said to have
+    inspired the scene where Sonny gets ambushed at a toll booth by Barzini's men,
+    who shower him with a rain of bullets
+variable_to_answer:
+  X: Bonnie & Clyde
+variables:
+- X

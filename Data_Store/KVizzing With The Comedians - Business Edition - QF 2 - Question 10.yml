@@ -1,0 +1,22 @@
+metadata: ''
+question: UK-based Lush, which had launched a line of products including perfumes
+  and body sprays called "Smugglers Soul" in 2014, named a moustache wax after an
+  Indian (X). According to the company the vegan moustache wax will "add a daring
+  and debonair twist to your facial hair".
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 2 - Question 10
+themes:
+- Fashion and Style
+variable_specific_rationale:
+  X: 'In 2004, to better understand the problems that sandalwood faced, Lush buyers
+    traveled to India, New Caledonia, Vanuatu, and Australia. Their journey unearthed
+    the shocking story of Veerappan, a sandalwood smuggler and elephant poacher notorious
+    for violence, kidnapping, and murder. This led to the creation of a graphic novel
+    called "On the Trail of Sandalwood Smugglers."
+
+    Lush also launched a line of products after Veerappan, namely, "Smugglers Soul,"
+    which has seen a lot of controversy.'
+variable_to_answer:
+  X: Veerappan
+variables:
+- X

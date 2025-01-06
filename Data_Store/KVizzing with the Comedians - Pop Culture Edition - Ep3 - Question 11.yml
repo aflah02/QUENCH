@@ -1,0 +1,28 @@
+metadata: ''
+question: 'The song Y was written by X at the same desk at which Ian Fleming wrote
+  his James Bond novels. X was staying at Fleming''s property GoldenEye in Jamaica
+  following the breakdown of his first marriage. In 2019 BMI declared the song the
+  most played in radio history. In America, this was the biggest hit of 1983, according
+  to Billboard''s year-end chart. It stayed at #1 for eight weeks, longer than any
+  other song that year (Michael Jackson''s "Billie Jean" was #2, with a seven-week
+  stay). This is one of the most misinterpreted songs ever. It is about an obsessive
+  stalker, but it sounds like a love song.'
+question_source: https://www.youtube.com/watch?v=WX2z4VTY8Yo
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep3 - Question
+  11
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Sting wrote Every Breath You Take at the same desk at which Ian Fleming wrote
+    his James Bond novels. He was staying at Fleming's property GoldenEye in Jamaica
+    following the breakdown of his first marriage.
+  Y: Every Breath You Take which is about a stalker has been widely misunderstood
+    to be a love song. It was the biggest hit of 1983 even beating Michael Jackson's
+    Billie Jean
+variable_to_answer:
+  X: Sting
+  Y: Every Breath You Take
+variables:
+- X
+- Y

@@ -1,0 +1,19 @@
+metadata: ''
+question: Rum and Coke, or the X Y , is a cocktail consisting of cola, rum, and lime
+  juice on ice. Traditionally, the cola ingredient is Coca-Cola and the alcohol is
+  a light rum such as Bacardi. It originated in the early 20th century in a certain
+  country after they won independence in the Spanish-American War. The cocktail's
+  name was the slogan of the country's independence movement.
+question_source: https://www.youtube.com/watch?v=01WxO1MZNHI&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 3 - Question 5
+themes:
+- Food and Cooking
+- History
+variable_specific_rationale:
+  X Y: Cuba Libre is a cocktail usually made from Coca-Cola and light rum. Its origin
+    lies in the early 20th century Cuba who gained their independence through the
+    Spanish-American War
+variable_to_answer:
+  X Y: Cuba Libre
+variables:
+- X Y

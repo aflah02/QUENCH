@@ -1,0 +1,19 @@
+metadata: ''
+question: Rabindranath Tagore holds one of the unique records of writing national
+  anthems of more than 1 country. He has written the national anthem of India and
+  Bangladesh. Further, he often receives credit for the national anthem of another
+  country (X) as one of his students wrote it after being influenced by Tagore in
+  the university founded by him and hence he inspired the music and lyrics of the
+  anthem. A minority of people also thinks that he wrote the anthem in full.
+question_source: https://www.youtube.com/watch?v=AYkYqmgf2M4&list=PLwXllhq0F5MlHT_R6ITogkjEqGHj1d6ha&index=2
+question_title: KVizzing With The Comedians - India Quiz Edition - QF 1 - Q6
+themes:
+- History
+variable_specific_rationale:
+  X: Rabindranath Tagore wrote the national anthems of India and Bangladesh but is
+    often thought to have written the national anthem of Sri Lanka. However it was
+    actually written by a student of his.
+variable_to_answer:
+  X: Sri Lanka
+variables:
+- X

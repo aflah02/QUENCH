@@ -1,0 +1,20 @@
+metadata: ''
+question: Tennessee bottlers Barney and Ally Hartman developed X as a mixer in the
+  1940s. Soft drinks were sold regionally in the 1930s, and the Hartmans had difficulty
+  in Knoxville obtaining their preferred soda to mix with liquor, preferably whiskey,
+  so the two developed their own. Originally a 19th century slang term for whiskey,
+  especially Highland Scotch whiskey, the X name was trademarked for the soft drink
+  in 1948.
+question_source: https://www.youtube.com/watch?v=tCA4WD6VeWw&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 4 - Question 2
+themes:
+- Business and Economics
+- Food and Cooking
+variable_specific_rationale:
+  X: Tennessee bottlers Barney and Ally Hartman developed Mountain Dew as a mixer.
+    Mountain Dew was a 19th century slang term for whiskey, especially Highland Scotch
+    whiskey.
+variable_to_answer:
+  X: Mountain Dew
+variables:
+- X

@@ -1,0 +1,23 @@
+metadata: ''
+question: X is a traditional semi-oxidized Chinese tea produced through a process
+  including withering the plant under strong sun and oxidation before curling and
+  twisting. According to one theory, the term X replaced the old term when loose tea
+  came into fashion. Since it was dark, long, and curly, it was called Black Dragon
+  tea. Yet another tale tells of a man named Wu Liang who discovered the tea by accident
+  when he was distracted by a deer after a hard day's tea-picking, and by the time
+  he remembered to return to the tea it had already started to oxidize.
+question_source: https://www.youtube.com/watch?v=JtvCSZdMzAI&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF3 -  Q1
+themes:
+- Food and Cooking
+- History
+variable_specific_rationale:
+  X: Oolong Tea is a traditional Chinese tea which is produced through a process including
+    withering the plant under strong sun and oxidation before curling and twisting.
+    These are several theories for its creation one being about how a man named Wu
+    Liang accidentally created it. Wu Liang vaguely sounds like Oolong and hence acts
+    as a hint.
+variable_to_answer:
+  X: Oolong
+variables:
+- X

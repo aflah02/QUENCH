@@ -1,0 +1,22 @@
+metadata: ''
+question: The word X comes from Greek for "leisure or spare time." In ancient Athens
+  and Rome, a favourite use of spare time was to engage in learned discussion. To
+  the Greeks, leisure allowed a man to spend time thinking and finding out about things.
+  Hence, the connection between leisure and the pursuit of knowledge. It referred
+  to a group to whom lectures were given. It also refers to "people united by a general
+  similarity of principles and methods".
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 18
+themes:
+- History
+- Language and Linguistics
+variable_specific_rationale:
+  X: 'School comes from Greek for "leisure or spare time." Words like lecture hint
+    towards educational places and description like "people united by a general similarity
+    of
+
+    principles and methods" indicates stuff like school of thought'
+variable_to_answer:
+  X: School
+variables:
+- X

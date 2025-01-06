@@ -1,0 +1,18 @@
+metadata: ''
+question: In a contemporary reimagining of a popular dystopian classic, a critically
+  acclaimed novelist, Sandra Newman, offers a fresh perspective on the character Julia
+  from an iconic work. This imaginative retelling delves into Julia's experiences
+  from her own point of view, shedding new light on her relationship with Winston
+  Smith and giving voice to previously voiceless female characters in literature.
+  Julia is a retelling of a famous novel X
+question_source: https://www.youtube.com/watch?v=0rZIH2hSl54&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF1 -  Q3
+themes:
+- Books
+- Literature
+variable_specific_rationale:
+  X: Julia is a retelling of the famous novel 1984 which is a popular dystopian classic.
+variable_to_answer:
+  X: '1984'
+variables:
+- X

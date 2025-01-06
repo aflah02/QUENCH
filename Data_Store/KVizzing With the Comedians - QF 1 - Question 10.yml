@@ -1,0 +1,21 @@
+metadata: ''
+question: "The leaf vegetables 'XY' are typically 1.5\u20144.0 cm (0.6\u20141.6 in)\
+  \ in diameter, forerunners to these were probably cultivated in Ancient Rome. Although\
+  \ native to the Mediterranean region, XY first appeared in northern Europe during\
+  \ the 5th century; they were later cultivated in the 13th century near the European\
+  \ city X, from which they derived their name."
+question_source: https://www.youtube.com/watch?v=VSc6V6sXL-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6
+question_title: KVizzing With the Comedians - QF 1 - Question 10
+themes:
+- Food and Cooking
+- Geography
+- History
+variable_specific_rationale:
+  XY: Brussels sprouts are a type of leaf vegetable that originated in Ancient Rome
+    and were later cultivated in northern Europe during the 5th century. They were
+    named after the European city of Brussels, where they were first cultivated in
+    the 13th century.
+variable_to_answer:
+  XY: Brussel Sprouts
+variables:
+- XY

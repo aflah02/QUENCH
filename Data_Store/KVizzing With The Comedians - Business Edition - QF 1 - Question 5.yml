@@ -1,0 +1,24 @@
+metadata: ''
+question: 'Recently when the Indian Prime Minister announced that India would celebrate
+  January 16 as National X Day, everyone could feel a change of air in the country''s
+  environment. Earlier in the day, during the interaction held, invitees were divided
+  on the basis of six factors: 1. Growing from roots 2. Nudging the DNA 3. From local
+  to global 4. Technology to future 5. Building champions in manufacturing 6. Sustainable
+  development'
+question_source: https://www.youtube.com/watch?v=FQNzfDMGqZY&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB
+question_title: KVizzing With The Comedians - Business Edition - QF 1 - Question 5
+themes:
+- Business and Economics
+- Pop Culture
+variable_specific_rationale:
+  X: Emphasizing and promoting recognition of startups contributing towards nation-building,
+    socio-economic development, and self-reliance, the Indian Prime Minister in 2022
+    declared 16th January the National Startup Day. The Startup India initiative was
+    launched by the Prime Minister, Shri Narendra Modi on 16th January 2016 to build
+    a strong ecosystem for nurturing innovation, boosting startups, and encouraging
+    investments in the startup ecosystem of the country. 16th January 2024 marks the
+    completion of 8 marvelous years since the launch of Startup India.
+variable_to_answer:
+  X: Startup
+variables:
+- X

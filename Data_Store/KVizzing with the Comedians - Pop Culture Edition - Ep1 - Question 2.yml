@@ -1,0 +1,20 @@
+metadata: ''
+question: All the horror in the movie (X) unfolds aboard a spaceship dubbed Nostromo.
+  The spaceship's name was ripped from the title of a 1904 novel by Joseph Conrad.
+  That's not the movie's only Conrad reference, though. The shuttle that Ripley uses
+  to escape is called Narcissus, and that moniker refers to yet another Conrad novel.
+  X is a 1979 Ridley Scott sci-fi classic.
+question_source: https://www.youtube.com/watch?v=BOOHPDcz7Zs&list=PLwXllhq0F5MlDWa52D8-w2-4AQ7H5W2SI
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep1 - Question
+  2
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: 'Alien is a 1979 Ridley Scott sci-fi classic. The movie is set on a spaceship
+    dubbed Nostromo and some elements are borrowed from Nostromo: A Tale of the Seaboard,
+    a 1904 novel by Joseph Conrad'
+variable_to_answer:
+  X: Alien
+variables:
+- X

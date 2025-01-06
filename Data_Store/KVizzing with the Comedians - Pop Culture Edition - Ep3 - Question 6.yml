@@ -1,0 +1,20 @@
+metadata: ''
+question: She (X) made her debut with the film C.I.D. in 1956 and followed it up with
+  other Guru Dutt films such as Pyaasa (1957), Chaudhvin Ka Chand (1960), and Sahib
+  Bibi Aur Ghulam (1962). In her career spanning 50 years she has received numerous
+  awards. She won an Academy Award for a 1982 film. She also won two National Film
+  Awards, in 1991 for Lekin and in 2002 for Lagaan.
+question_source: https://www.youtube.com/watch?v=WX2z4VTY8Yo
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep3 - Question
+  6
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Bhanu Athaiya made her debut with the film C.I.D. in 1956. She had a career spanning
+    50 years and won an Academy Award for a 1982 film. She also won two National Film
+    Awards, in 1991 for Lekin and in 2002 for Lagaan.
+variable_to_answer:
+  X: Bhanu Athaiya
+variables:
+- X

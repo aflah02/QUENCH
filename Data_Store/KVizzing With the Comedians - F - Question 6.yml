@@ -1,0 +1,24 @@
+metadata: ''
+question: The "X" (2 Words) is used as a metaphor for a seemingly intractable problem
+  which is solved by exercising an unexpectedly direct, novel, rule-bending, decisive
+  and simple approach to the problem that removes the perceived constraints. According
+  to ancient Greek legends, this was to be untied only by the future conqueror of
+  Asia. In popular accounts, Y sliced through it with his sword, exercising a form
+  of mental genius. The phrase "cutting the X" has thus come to denote a bold solution
+  to a complicated problem.
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 6
+themes:
+- History
+- Mythology and Folklore
+variable_specific_rationale:
+  X: Gordian Knot is an Ancient Greek legend regarding a complex knot that tied an
+    oxcart. Whoever could untie it would be destined to rule all of Asia.
+  Y: According to accounts Alexander was challenged to untie the knot and instead
+    of manually doing so he slashed it with his sword showcasing his mental prowess
+variable_to_answer:
+  X: Gordian Knot
+  Y: Alexander
+variables:
+- X
+- Y

@@ -1,0 +1,18 @@
+metadata: ''
+question: The Intertropical Convergence Zone (ITCZ) encircles Earth near the thermal
+  equator though its specific position varies seasonally. These are notably described
+  in Samuel Taylor Coleridge's poem The Rime of the Ancient Mariner as a monotonous
+  windless weather As trans-equator sea voyages became more common, sailors in the
+  eighteenth century named this belt of calm seas the X because of the stagnant, or
+  inactive winds.
+question_source: https://www.youtube.com/watch?v=lhMV08ZPDfo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=4
+question_title: Mega KVizzing Tournament - QF4 -  Q1
+themes:
+- Geography
+variable_specific_rationale:
+  X: The Intertropical Convergence Zone (ITCZ) is also known as Doldrums as named
+    by sailors in the eighteenth century because of the stagnant, or inactive winds.
+variable_to_answer:
+  X: Doldrums
+variables:
+- X

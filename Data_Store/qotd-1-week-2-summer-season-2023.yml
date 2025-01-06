@@ -1,0 +1,31 @@
+metadata: ''
+question: "X\u2019s father, who is a professor in the Civil Engineering Department\
+  \ at National Institute of Technology, Surathkal happened to be a college-level\
+  \ cricketer himself. He used to idol-worship Y and decided to name his son (X) after\
+  \ Y\u2019s son. However, he mistook the first name of Y\u2019s son, thus making\
+  \ story quite confusing. Although just like Y, X also went to captain the Indian\
+  \ team. X's cricket career started in 2014 and is still ongoing. Y's career as a\
+  \ cricketer started in 1971 and ended in 1987."
+question_source: https://donquizote.wordpress.com/2023/07/03/qotd-1-week-2-summer-season-2023/
+question_title: qotd-1-week-2-summer-season-2023
+themes:
+- Sports
+variable_specific_rationale:
+  X: KL Rahul, an Indian cricketer who has been playing for the national team since
+    2014, fits the description of X. His father, Dr. KN Ramesh, is a professor in
+    the Civil Engineering Department at National Institute of Technology, Surathkal.
+    Rahul has been a captain of the Indian team in various formats, including Test
+    cricket.
+  Y: Sunil Gavaskar, a legendary Indian cricketer who played for the national team
+    from 1971 to 1987, fits the description of Y. Gavaskar was known for his batting
+    skills and was one of the greatest opening batsmen in Test cricket history. He
+    was also a captain of the Indian team and led the team to several victories. Gavaskar's
+    son, Rohan Gavaskar, also played cricket and was a member of the Indian team.
+    However, Rohan's first name is not the same as KL Rahul's first name, which could
+    be a source of confusion.
+variable_to_answer:
+  X: KL Rahul
+  Y: Sunil Gavaskar
+variables:
+- X
+- Y

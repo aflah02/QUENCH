@@ -1,0 +1,21 @@
+metadata: ''
+question: This business personality was born in 1923 in Sialkot, Pakistan. In 1937,
+  he started his first business of selling mirrors, then carpentry, cloth merchant,
+  hardware and rice trading. Somehow, none of this business would work and finally
+  he joined his father in their parental business. In 2017, he was the highest paid
+  FMCG CEO in India. He was also the owner of the Mata Chanan Devi Hospital in Janakpuri.
+  Name the company he started.
+question_source: https://www.youtube.com/watch?v=YHCB9sUoqNM&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=8
+question_title: KVizzing With The Comedians - Business Edition - Final - Question
+  4
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: MDH was founded by Dharampal Gulati who was the highest paid FMCG CEO in India
+    in 2017. He also owns the Mata Chanan Devi Hospital in Janakpuri. He is also famously
+    the brand ambassador and is very popular in TV Media hence the old age evident
+    in the question can also lead people to narrow down it's him.
+variable_to_answer:
+  X: MDH
+variables:
+- X

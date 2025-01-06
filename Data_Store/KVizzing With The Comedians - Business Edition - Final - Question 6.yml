@@ -1,0 +1,18 @@
+metadata: ''
+question: Andon Cord principle was adopted by Amazon around 2012, and gave any Customer
+  Support agent the ability to issue a warning or pull a product from buyable status
+  if they notice a real or possible quality or safety concern. Andon Cord was however
+  first conceptualized by X, where every worker on the shop floor was empowered to
+  pull them and stop the entire assembly line in case they notice defect.
+question_source: https://www.youtube.com/watch?v=YHCB9sUoqNM&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=8
+question_title: KVizzing With The Comedians - Business Edition - Final - Question
+  6
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Toyota Motor Corporation first conceptualized the Andon Cord principle which
+    was later adopted by other companies such as Amazon.
+variable_to_answer:
+  X: Toyota Motor Corporation
+variables:
+- X

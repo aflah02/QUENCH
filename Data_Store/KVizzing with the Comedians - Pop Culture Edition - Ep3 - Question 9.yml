@@ -1,0 +1,19 @@
+metadata: ''
+question: Wings is a 1927 American silent film. The film stars Clara Bow, Charles
+  Rogers, and Richard Allen. Rogers and Allen portray WW1 pilots in a romantic rivalry
+  over a woman. The film is known for being the first to achieve X
+question_source: https://www.youtube.com/watch?v=WX2z4VTY8Yo
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep3 - Question
+  9
+themes:
+- History
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Wings a 1927 American silent film, was the first film to win the Academy Award
+    for Best Picture. It features Clara Bow, Charles Rogers, and Richard Allen where
+    Rogers and Allen are WW1 pilots with rivalry over a woman.
+variable_to_answer:
+  X: Academy Award for Best Picture
+variables:
+- X

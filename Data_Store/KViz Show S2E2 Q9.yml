@@ -1,0 +1,18 @@
+metadata: ''
+question: Isigny sur Mer is a small town in Normandy, France. In 1066, William the
+  Conqueror awarded the title "Lords of Isigny" to the French father-and-son duo Robert
+  and Hugues Suhard, as a thank you for helping him conquer England. The family moved
+  to England and later Ireland, where the surname was anglicized. The French variant
+  (X) means 'off/from Isigny'.
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E2 Q9
+themes:
+- Language and Linguistics
+variable_specific_rationale:
+  X: The surname Disney can be constructed from the fact that in French de is used
+    to denote of and Isigny is the place they were from. Combining the two as per
+    the question leads to Disney.
+variable_to_answer:
+  X: Disney
+variables:
+- X

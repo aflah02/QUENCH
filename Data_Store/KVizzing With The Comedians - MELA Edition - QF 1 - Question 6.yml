@@ -1,0 +1,23 @@
+metadata: ''
+question: By 1988, Tinkle was already on its way to becoming the most popular children's
+  magazine in India. Their biggest rival then was another children's magazine named
+  Target. Unlike Tinkle, Target was more of a narrative magazine with a few pages
+  of comics. Their flagship character at that time was Detective Moochwala. Tinkle
+  decided to create a competing character (X). They based this new character on a
+  boastful but cowardly big game in the then famous television drama, I Love Lucy.
+question_source: https://www.youtube.com/watch?v=1qxJy0OpbUI&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 1 - Question 6
+themes:
+- Literature
+- Movies and Entertainment
+variable_specific_rationale:
+  X: Shikari Shambu (Hunter Shambu) is an Indian comic character created by Vasant
+    Halbe and Luis Fernandes for Tinkle in 1983. To deal with the competition from
+    their arch-rival Target, Subba Rao and Dhruva, two of the creators at Tinkle,
+    came up with the proposal for such a character. They decided to base this new
+    character on a boastful but cowardly big game hunter in the then famous television
+    drama, I Love Lucy.
+variable_to_answer:
+  X: Shikari Shambu
+variables:
+- X

@@ -1,0 +1,20 @@
+metadata: ''
+question: After an engineering degree from IIT Kanpur and a management course from
+  the 11M Ahmedabad, Deepak Mohoni worked on mainframe computing for about four years
+  before he decided to start a computer graphics company. It was then that a senior
+  journalist asked him if he could generate technical charts for news articles on
+  companies and stock markets. In 1989, while writing in top journals including Economic
+  Times and Business World, he claimed to have created this term (X) which gained
+  popularity soon after.
+question_source: https://www.youtube.com/watch?v=YHCB9sUoqNM&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=8
+question_title: KVizzing With The Comedians - Business Edition - Final - Question
+  8
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Deepak Mohoni coined the term Sensex which is a market index. He did this while
+    writing in top journals including Economic Times and Business World.
+variable_to_answer:
+  X: Sensex
+variables:
+- X

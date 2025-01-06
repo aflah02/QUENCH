@@ -1,0 +1,20 @@
+metadata: ''
+question: Founded by Vijay Kiragandur, this production house (X), named after a deity
+  linked to Goddess Parvathi, has made a significant mark in the film industry. They
+  kicked off their journey with Puneeth Rajkumar's "Ninnindale" in 2013. Recognized
+  for crafting films that resonate with audiences and boost box office earnings, this
+  production house has truly mastered the art of storytelling. X is mainly known for
+  the K.G.F franchise, Kantara and Salaar
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF2 -  Q9
+themes:
+- Movies and Entertainment
+variable_specific_rationale:
+  X: Hombale Films was founded by Vijay Kiragandur, and is named after a deity linked
+    to Goddess Parvathi. Their first movie was Puneeth Rajkumar's "Ninnindale" in
+    2013 and it has known to deliver superhits such as the K.G.F franchise, Kantara
+    and Salaar.
+variable_to_answer:
+  X: 'Hombale Films '
+variables:
+- X

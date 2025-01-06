@@ -1,0 +1,16 @@
+metadata: ''
+question: X is a globally known brand which started out in 1938 after the Brazilian
+  Government's initiative to preserve the substantial surplus harvest of something
+  Brazil is famous for.
+question_source: https://www.youtube.com/watch?v=tCA4WD6VeWw&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 4 - Question 4
+themes:
+- Business and Economics
+- Politics and Government
+variable_specific_rationale:
+  X: Nescafe started out in 1938 after the Brazilian Government's initiative to preserve
+    the substantial surplus harvest of coffee.
+variable_to_answer:
+  X: Nescafe
+variables:
+- X

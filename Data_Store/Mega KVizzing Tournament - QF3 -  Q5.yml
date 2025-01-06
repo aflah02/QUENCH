@@ -1,0 +1,18 @@
+metadata: ''
+question: Ed-a-Mamma is a conscious clothing brand that cares about children and the
+  earth. Ed-a-Mamma was started by celebrity X and it combines two things they cares
+  about the most The Planet and the Children. So, they decided to create a world that
+  nurtures in children, a love of nature knowing fully well that they will look after
+  what they love. In Sep 2023, Reliance Retail acquired a majority stake in the brand.
+question_source: https://www.youtube.com/watch?v=JtvCSZdMzAI&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF3 -  Q5
+themes:
+- Business and Economics
+- Pop Culture
+variable_specific_rationale:
+  X: Alia Bhatt started Ed-a-Mamma and it was later acquired by Reliance. The company
+    aims to be a conscious clothing brand.
+variable_to_answer:
+  X: Alia Bhatt
+variables:
+- X

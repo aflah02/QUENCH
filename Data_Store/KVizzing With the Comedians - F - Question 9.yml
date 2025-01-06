@@ -1,0 +1,27 @@
+metadata: ''
+question: Despite extensive investigations by the FBI, the true identity and fate
+  of X remains unknown. The case has captured public fascination and has become one
+  of the most famous unsolved mysteries in American history. Numerous theories and
+  speculations have emerged over the years, but none have been proven definitively.
+  The FBI officially closed the case in 2016, stating that no credible leads had been
+  developed in recent years. In 2021, the incident also found its way into pop culture.
+  The TV series Y offered its own take on the story revealing that Y assumed the identity
+  of X and orchestrated the entire event. Y managed to deceive the authorities by
+  mysteriously disappearing mid-air, never to be discovered again.
+question_source: https://www.youtube.com/watch?v=9p1r0eGi4Q8&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=8
+question_title: KVizzing With the Comedians - F - Question 9
+themes:
+- History
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: D. B. Cooper's fate remains unknown. FBI recently closed the case due to no concrete
+    leads. He supposedly jumped off an airplane only to never be found again
+  Y: In the Loki T.V. Series, Loki is shown to have been D. B. Cooper all along and
+    vanished midair which is why all investigations proved fruitless.
+variable_to_answer:
+  X: D. B. Cooper
+  Y: Loki
+variables:
+- X
+- Y

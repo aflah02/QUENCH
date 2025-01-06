@@ -1,0 +1,24 @@
+metadata: ''
+question: The intriguing classmate (X) in this vibrant comic strip world, distinguished
+  by having both a first and last name, is a character known for her studious and
+  polite nature. While residing on the same street as the main character, she occasionally
+  exhibits a mischievous side when provoked. Engaging in activities like hosting tea
+  parties, playing house with stuffed animals, and participating in imaginative games
+  where she takes on roles such as a high-powered lawyer or politician, she stands
+  out from other characters in the strip. Despite moments of tension, including disrupting
+  cheating attempts and retaliating against attacks with snowballs or water balloons,
+  there is a popular belief that hidden feelings may be present beneath her composed
+  exterior.
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF2 -  Q3
+themes:
+- Literature
+variable_specific_rationale:
+  X: Susie Derkins is a character from the comic strip Calvin and Hobbes. She fits
+    the entire description as she is studious and polite nature, resides in the same
+    street as the main character, and sometimes does some mischief.  Some people also
+    suspect she has feeling for Calvin.
+variable_to_answer:
+  X: Susie Derkins
+variables:
+- X

@@ -1,0 +1,16 @@
+metadata: ''
+question: Mr. John X was an English dissenting minister in Colonial America whose
+  deathbed bequest to the "schoale or colledge" founded two years earlier was so gratefully
+  received that it was consequently ordered "that the Colledge agreed upon formerly
+  to bee built at Cambridge shalbee called X Colledge."
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 2 - Question 8
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Mr. John Harvard was an English dissenting minister in Colonial America who created
+    a fairly well received school which was renamed to Harvard College in his honour.
+variable_to_answer:
+  X: Harvard
+variables:
+- X

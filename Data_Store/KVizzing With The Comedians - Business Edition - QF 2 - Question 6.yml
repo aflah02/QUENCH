@@ -1,0 +1,22 @@
+metadata: ''
+question: 'In 1965, Fred DeLuca borrowed $1,000 from friend Peter Buck to start "Pete''s
+  Drive-in: Super Y" in Connecticut, and in the following year, they formed Doctor''s
+  Associates Inc. to oversee operations of the restaurants as the franchise expanded.
+  The holding company derives its name from DeLuca''s goal to earn enough from the
+  business to pay tuition for medical school, as well as Buck''s having a doctorate
+  in physics. X is a franchise that calls its employees "Artists" and uses the advertising
+  slogan "Z Fresh."'
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=4
+question_title: KVizzing With The Comedians - Business Edition - QF 2 - Question 6
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: 'Subway was founded by Fred DeLuca and financed by Peter Buck in 1965 as Pete''s
+    Super Submarines
+
+    They often refer to their employees as "Subway Sandwich Artists" and their slogan
+    is "Eat Fresh".'
+variable_to_answer:
+  X: Subway
+variables:
+- X

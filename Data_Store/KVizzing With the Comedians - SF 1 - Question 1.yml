@@ -1,0 +1,23 @@
+metadata: ''
+question: 'Homer''s epic poem The Iliad was written in around 700 BC. It was translated
+  into English in the 19th century by Samuel Butler and his version contains a reference
+  to X these lines: in "Grant that my sword may pierce the shirt of Hector about his
+  heart, and that full many of his comrades may X as they fall dying round him." This
+  popular phrase means ''to end in failure''. It is still debated whether this is
+  Homer''s phrase or Butler''s!'
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 1
+themes:
+- History
+- Language and Linguistics
+- Literature
+variable_specific_rationale:
+  X: 'The phrase Bite the Dust is often used to denote ending in failure. The phrase
+    was found in Samuel
+
+    Butler''s translation of Homer''s epic poem The Iliad and hence it''s often debated
+    whether the phrase belongs to Butler or Homer'
+variable_to_answer:
+  X: Bite the Dust
+variables:
+- X

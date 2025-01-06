@@ -1,0 +1,26 @@
+metadata: ''
+question: In the world of economics, this beloved novel (X) has served as a timeless
+  reference, weaving its character through the intricate fabric of economic theory.
+  Its protagonist, after enduring 28 years of solitary existence on an island, becomes
+  an unwitting muse for economists. From the pen of Karl Marx to the lectures of Milton
+  Friedman, this character embarks on an unexpected journey through the annals of
+  economic literature, appearing in "Das Kapital," the "General Theory," and even
+  finding a place in Google's chief economist, Hal Varian's, textbook. A one-person
+  economy, akin to a certain marooned individual's, becomes a didactic benchmark,
+  simplifying the principles of supply and demand. The novel, in its peculiar way,
+  raises questions about the harmony of decision-making in more complex economies
+  and explores the possibility of replicating this equilibrium
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF1 -  Q7
+themes:
+- Books
+- Business and Economics
+variable_specific_rationale:
+  X: Robinson Crusoe weaves its character through the intricate fabric of economic
+    theory. The protagonist endures 28 years of solitary existence on an island. This
+    character later finds himself in works by several key pieces of economic literature
+    too.
+variable_to_answer:
+  X: Robinson Crusoe
+variables:
+- X

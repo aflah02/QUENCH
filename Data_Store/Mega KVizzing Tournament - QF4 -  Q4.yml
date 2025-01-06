@@ -1,0 +1,20 @@
+metadata: ''
+question: In the quest for chess supremacy at the G.O.A.T. Challenge, Magnus Carlsen
+  introduced a novel approach to the game. This unique chess variant, unlike traditional
+  formats, emphasizes flexibility, creativity, and a departure from conventional strategies.
+  The players will navigate uncharted territory, combining strategic brilliance with
+  an open-minded and adaptive mindset. What chess variant (X), echoing the spirit
+  of artistic expression on the board, will be tested at the G.O.A.T. Challenge, which
+  is also a term you might associate with dancing, swimming, and rapping?
+question_source: https://www.youtube.com/watch?v=lhMV08ZPDfo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=4
+question_title: Mega KVizzing Tournament - QF4 -  Q4
+themes:
+- Sports
+variable_specific_rationale:
+  X: Freestyle is associated with dancing, swimming, and rapping as well.  Magnus
+    Carlsen introduced Freestyle Chess which unlike old school chess emphasizes flexibility,
+    creativity, and a departure from conventional strategies.
+variable_to_answer:
+  X: Freestyle
+variables:
+- X

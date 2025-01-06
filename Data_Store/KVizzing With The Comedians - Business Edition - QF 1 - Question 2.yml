@@ -1,0 +1,26 @@
+metadata: ''
+question: In 1891 James Congdell Fargo the then President of a particular company
+  (Y) went on a business trip to Europe. Fargo had problems carrying money abroad.
+  He could carry currency gold or letters of credits, all acceptable only at the banks
+  they named. Fed up with the problem faced, he asked the manager of the European
+  branch of the company, Marcellus Berry to devise a solution. Berry came up with
+  an idea (X) which solved all of Fargo's problems. What was the solution and which
+  company was he the president of?
+question_source: https://www.youtube.com/watch?v=FQNzfDMGqZY&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=2
+question_title: KVizzing With The Comedians - Business Edition - QF 1 - Question 2
+themes:
+- Business and Economics
+- History
+variable_specific_rationale:
+  X: The travellers cheque was invented by Marcellus Berry in 1891 in denominations
+    of $10, $20, $50, and $100. It is a medium of exchange that can be used in place
+    of hard currency. They were generally used by people on vacation in foreign countries
+    instead of cash, as many businesses used to accept traveller's cheques as currency.
+  Y: James Fargo was a president of the American Express Company for 30 years and
+    the brother of American Express Company and Wells Fargo co-founder, William Fargo.
+variable_to_answer:
+  X: Traveller's Cheque
+  Y: American Express
+variables:
+- X
+- Y

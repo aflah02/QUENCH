@@ -1,0 +1,25 @@
+metadata: ''
+question: "This phenomenon is named after the scientist who first discovered it. Many\
+  \ years later, the man who gave the theoretical explanation of the phenomenon went\
+  \ on to win a Nobel prize. The name of the phenomenon is X Y. Some of the concepts\
+  \ and ideas related to or inspired by this phenomenon are given: X dynamics, X motor,\
+  \ X surface, X noise. The last one\u2019s name is also a pun on the term \u201C\
+  white noise.\u201D"
+question_source: https://donquizote.wordpress.com/2021/12/20/winter-qotd-20/
+question_title: winter-qotd-20
+themes:
+- Pop Culture
+- Science and Technology
+variable_specific_rationale:
+  X: The phenomenon, Brownian motion, is named after the botanist Robert Brown, who
+    first described it in 1827 while looking through a microscope at the pollen of
+    the plant Clarkia pulchella immersed in water. Then, in 1905, theoretical physicist
+    Albert Einstein published a paper where he modeled the motion of the pollen particles
+    as being moved by individual water molecules, making one of his first major scientific
+    contributions. Einstein was awarded the 1921 Nobel Prize in Physics "for his services
+    to Theoretical Physics, and especially for his discovery of the law of the photoelectric
+    effect."
+variable_to_answer:
+  X: Brownian
+variables:
+- X

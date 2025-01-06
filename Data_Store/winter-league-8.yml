@@ -1,0 +1,21 @@
+metadata: ''
+question: What began with a sailor whistling at the helm has now transcended to a
+  near-ubiquitous presence in the industry. One of its biggest subsidiaries initially
+  burst into the picture with funding from the pioneer of personal computers. Its
+  efforts have always been received with widespread critical acclaim and have been
+  felicitated with numerous awards. Name their iconic mascot (X), who is also the
+  protagonist of the short film of the same name.
+question_source: https://donquizote.wordpress.com/2021/12/28/winter-league-8/
+question_title: winter-league-8
+themes:
+- Movies and Entertainment
+- Pop Culture
+- Science and Technology
+variable_specific_rationale:
+  X: Pixar is the subsidiary, and a majority stakeholder in it was Steve Jobs, the
+    pioneer of personal computers. Luxo Jr. is the desklamp mascot of Pixar and also
+    the protagonist of a short film on the same name.
+variable_to_answer:
+  X: Luxo Jr.
+variables:
+- X

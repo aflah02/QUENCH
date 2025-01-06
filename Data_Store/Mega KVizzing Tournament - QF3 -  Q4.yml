@@ -1,0 +1,14 @@
+metadata: ''
+question: In a subtle nod to familial roots, the founders of this company (X) chose
+  to pay homage to their grandmother, Jai Kaur, by naming their venture after her.
+question_source: https://www.youtube.com/watch?v=JtvCSZdMzAI&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF3 -  Q4
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Jaquar is a bathroom fittings company. The name rhymes with the founders' grandmother's
+    name.
+variable_to_answer:
+  X: Jaquar
+variables:
+- X

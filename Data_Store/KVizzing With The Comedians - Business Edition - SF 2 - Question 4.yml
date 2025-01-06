@@ -1,0 +1,21 @@
+metadata: ''
+question: X-Y is a board game made by San Francisco State University Professor Ralph
+  Anspach. Anspach created this in part as a response to the lessons taught by the
+  mainstream game Y, which he believed created the impression that these were something
+  desirable. His intent was to show how X-trust laws work to curtail Ys in the real
+  world. The game was originally to be produced in 1973 as Bust the Trust, but the
+  title was changed to X-Y. It has seen multiple printings and revisions since 1973.
+  The game is currently still in print, and is produced and distributed worldwide
+  by University Games.
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 2 - Question 4
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Anti-Monopoly was created by Ralph Anspach. It showed how Anti-trust laws curtail
+    monopolys in the world. It's original name was Bust the Trust but lasted revised
+    and is currently made by University Games.
+variable_to_answer:
+  X: Anti-Monopoly
+variables:
+- X

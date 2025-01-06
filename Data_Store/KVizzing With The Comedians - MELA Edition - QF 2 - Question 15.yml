@@ -1,0 +1,25 @@
+metadata: ''
+question: Nearly every sword-wielding fantasy hero from the 20th century owes a tribute
+  to Robert E. Howard's X. Set in the fictional Hyborian Age, after the destruction
+  of Atlantis but before our general recorded history, X's stories have depicted him
+  as everything from a cunning thief to a noble king and all types of scoundrel in
+  between. But beneath that blood-soaked sword and shield is a character that struck
+  a nerve with generations of fantasy fans, spawning adaptations in comics, video
+  games, movies, TV shows, and cartoons in the eight decades since he first appeared
+  in the December 1932 issue of Weird Tales.
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=7
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 15
+themes:
+- History
+- Literature
+variable_specific_rationale:
+  X: Conan the Barbarian is a fictional sword and sorcery hero who originated in pulp
+    magazines and has since been adapted to books, comics, films, television programs,
+    video games, and role-playing games. Robert E. Howard created the character in
+    1932 for a series of fantasy stories published in Weird Tales magazine. The stories
+    occur in the pseudo-historical "Hyborian Age," set after the destruction of Atlantis
+    and before the rise of any known ancient civilization.
+variable_to_answer:
+  X: Conan the Barbarian
+variables:
+- X

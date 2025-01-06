@@ -1,0 +1,21 @@
+metadata: ''
+question: X Theory is an idea in political science. It asserts that the far-right
+  is more similar to the far-left than to the center- right and vice versa. X Theory
+  is often used as argument for centrism. People who believe in the X theory argue
+  that the Far-left and the Far-right are closer to each other than either is to the
+  centrists. The name X Theory comes from the idea that politics is not a straight
+  line from left to right but bent like a X so that the two ends (the far-left and
+  the far-right) share more similarities with each other than their moderate counterparts.
+question_source: https://www.youtube.com/watch?v=lhMV08ZPDfo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=4
+question_title: Mega KVizzing Tournament - QF4 -  Q6
+themes:
+- Politics and Government
+variable_specific_rationale:
+  X: Horseshoe theory advocates that far-right is more similar to the far-left than
+    to the center-right and vice versa. The question also provides more evidence for
+    horseshoe as it says "bent like a X so that the two ends (the far-left and the
+    far-right) share more similarities with each other than their moderate counterparts."
+variable_to_answer:
+  X: Horseshoe
+variables:
+- X

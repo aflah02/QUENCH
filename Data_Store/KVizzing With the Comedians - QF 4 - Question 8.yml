@@ -1,0 +1,23 @@
+metadata: ''
+question: '* Columbus was the first European to see the country (X), making his first
+  landfall in the "New World" in 1492. * The country is home to the third largest
+  barrier reef in the world and is unique even among other barrier reefs due to its
+  rare depth of 6,000 feet. * It is one of the two countries in the Western Hemisphere
+  that lie on the Tropic of Cancer. * It is one of 11 countries in the world with
+  the word "The" in its official name. * The national sport is cricket, which has
+  been played since 1846, and is the oldest sport played in the country today'
+question_source: https://www.youtube.com/watch?v=xeAYBOR2On0&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 4 - Question 8
+themes:
+- Geography
+- History
+variable_specific_rationale:
+  X: 'Columbus was the first European to see The Bahamas which is known for its Barrier
+    Reefs. It''s national game is cricket and is one of the only two countries in
+    the Western Hemisphere that lie
+
+    on the Tropic of Cancer.'
+variable_to_answer:
+  X: The Bahamas
+variables:
+- X

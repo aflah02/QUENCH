@@ -1,0 +1,29 @@
+metadata: ''
+question: Several mythological creatures like vampires, werewolves, and ghouls were
+  popularized and originated in gothic literature and folklore. These creatures were
+  seen to have varied significance, primarily considered to be malevolent. This mythological
+  being X saw its origin as an architectural sculpture to serve as a drainage system
+  in Gothic Europe. These beings were thought to be protectors of churches, driving
+  away evil spirits. Several sculptures of these creatures are distributed over cathedrals
+  in Europe. In 1996, an animated Disney movie starred these mythological creatures
+  as the best friends of Quasimodo.
+question_source: https://donquizote.wordpress.com/2023/07/14/qotd-5-week-3-summer-season-2023/
+question_title: qotd-5-week-3-summer-season-2023
+themes:
+- Movies and Entertainment
+- Mythology and Folklore
+variable_specific_rationale:
+  X: Gargoyles are stone sculptures that were commonly used as decorative elements
+    on Gothic cathedrals in Europe, particularly in France. They were believed to
+    have originated as a form of architectural sculpture to serve as a drainage system,
+    and were often depicted as grotesque, fantastical creatures. In addition to their
+    functional purpose, gargoyles were also seen as protectors of churches, driving
+    away evil spirits. Many cathedrals in Europe feature gargoyle sculptures, and
+    they have become a distinctive and recognizable feature of Gothic architecture.
+    In popular culture, gargoyles have been featured in various forms of media, including
+    the 1996 Disney animated movie "The Hunchback of Notre Dame," in which they are
+    depicted as the best friends of the protagonist Quasimodo.
+variable_to_answer:
+  X: Gargoyle
+variables:
+- X

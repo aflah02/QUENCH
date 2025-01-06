@@ -1,0 +1,24 @@
+metadata: ''
+question: Acherontia atropos, the African death's-head hawkmoth, gets its name from
+  the sinister-looking skull shape on its back. In many cultures, it is thought to
+  be an omen of death. A death's-head hawkmoth will squeak when a hungry predator
+  approaches and the noise often deters them. This has appeared in a movie (X) from
+  the 1990s.
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 2
+themes:
+- Movies and Entertainment
+- Religion and Philosophy
+- Wildlife and Nature
+variable_specific_rationale:
+  X: The poster of The Silence of the Lambs features this species of hawk moth. In
+    spite of the fact that this hawk moth is perfectly harmless except as a minor
+    pest to crops and to beehives, the fancied skull pattern has burdened the moth
+    with a negative reputation, such as associations with the supernatural and evil.
+    There are numerous superstitions to the effect that the moth brings bad luck to
+    the house into which it flies and that death or misfortune may be expected to
+    follow.
+variable_to_answer:
+  X: The Silence of the Lambs
+variables:
+- X

@@ -1,0 +1,28 @@
+metadata: ''
+question: In response to Bob Dylan's 'getting away with murder' style of songwriting,
+  X, a member of a prominent band, penned Y, a song characterized by its enigmatic
+  and whimsical lyrics. The inspiration for the song struck X when he received a letter
+  from a student who revealed that their English teacher had assigned the class to
+  analyze songs by X's band. X wrote this song to confuse those who tried to interpret
+  it. The song has eclectic sources such as Lewis Carroll's "Through the Looking-Glass,"
+  Humpty Dumpty, Shakespeare's "King Lear," and the rhythmic chanting of Hare Krishna.
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF1 -  Q5
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: John Lennon wrote I am the Walrus in response to Bob Dylan's 'getting away with
+    murder' style of songwriting. The inspiration for the song struck him when he
+    received a letter from a student who revealed that their English teacher had assigned
+    the class to analyze songs by his band and he wrote this song to confuse those
+    who might want to interpret their work.
+  Y: The song is "I am the Walrus". It uses eclectic sources such as Lewis Carroll's
+    "Through the Looking-Glass," Humpty Dumpty, Shakespeare's "King Lear," and the
+    rhythmic chanting of Hare Krishna. It is characterized by its enigmatic and whimsical
+    lyrics.
+variable_to_answer:
+  X: John Lennon
+  Y: I am the Walrus
+variables:
+- X
+- Y

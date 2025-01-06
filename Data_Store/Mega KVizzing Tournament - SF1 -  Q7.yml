@@ -1,0 +1,23 @@
+metadata: ''
+question: In the transformation of this actor into an iconic character (X), the makeup
+  artist, John Caglione Jr., faced a significant challenge. The actor's portrayal
+  required meticulous attention to detail, especially in choosing the right lipstick.
+  Interestingly, the actor personally selected the lipstick for the portrayal, opting
+  for Maybelline 49, Rouge Passion Red. This specific shade played a crucial role
+  in bringing the larger- than-life character into a more realistic world. Caglione
+  Jr. had to balance the untidy and messy appearance of the character without making
+  them unrecognizable. The distinct features of the character, including red lips
+  allowed for some creative freedom. The actor's long, greasy hair and the uneven,
+  messy green dye job contributed to the character's identity.
+question_source: https://www.youtube.com/watch?v=0rZIH2hSl54&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF1 -  Q7
+themes:
+- Fashion and Style
+variable_specific_rationale:
+  X: Heath Ledger's role as the Joker has become a fan favorite owning to his acting
+    skills as well as the design of the character. The elements described in the question
+    such as red lipstick and messy green dye job further solidify the answer.
+variable_to_answer:
+  X: Joker
+variables:
+- X

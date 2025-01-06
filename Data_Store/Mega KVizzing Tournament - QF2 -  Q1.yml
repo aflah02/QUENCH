@@ -1,0 +1,32 @@
+metadata: ''
+question: In this 2013 American romantic comedy-drama film (X) set in New Jersey,
+  the protagonist, embodies modern-day qualities reminiscent of a legendary Spanish
+  libertine (Y). Living an independent life, he devotes time to working out, maintaining
+  his apartment, and driving his beloved 1972 Chevrolet Chevelle SS. Despite engaging
+  in a casual sex life, he finds greater satisfaction in a unique habit. This character's
+  name is not just a title; it's also associated with a generic expression for a womanizer,
+  stemming from a legendary play, a 17th-century work by Tirso de Molina, and a satirical
+  epic poem by Lord Byron.
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF2 -  Q1
+themes:
+- Language and Linguistics
+- Movies and Entertainment
+- Pop Culture
+- Sports
+variable_specific_rationale:
+  X: Don Jon is a 2013 American romantic comedy-drama film set in New Jersey where
+    protagonist, embodies modern-day qualities reminiscent of a legendary Spanish
+    libertine Don Juan. He finds greater satisfaction in a unique habit instead of
+    all the other stuff he does.
+  Y: 'Don Juan is a legendary Spanish libertine. It is also a generic expression for
+    a womanizer, stemming
+
+    from a legendary play, a 17th-century work by Tirso de Molina, and a satirical
+    epic poem by Lord Byron. The movie Don Jon adapts the qualities of this character.'
+variable_to_answer:
+  X: Don Jon
+  Y: Don Juan
+variables:
+- X
+- Y

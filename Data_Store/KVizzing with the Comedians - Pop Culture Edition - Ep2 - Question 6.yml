@@ -1,0 +1,19 @@
+metadata: ''
+question: "The Northman is a 2022 historical film that stars Alexander Skarsg\xE5\
+  rd, Nicole Kidman, Anya Taylor-Joy etc. Heavily influenced by Norse mythology, the\
+  \ plot centers on the legend of a Viking prince who sets out on a quest to avenge\
+  \ the murder of his father. This legend was the direct inspiration for tragedy X"
+question_source: https://www.youtube.com/watch?v=_PnezMNAJgY
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  6
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Hamlet which is short for The Tragedy of Hamlet was inspired by legend of a Viking
+    prince who sets out on a quest to avenge the murder of his father as Hamlet also
+    has the same element.
+variable_to_answer:
+  X: Hamlet
+variables:
+- X

@@ -1,0 +1,25 @@
+metadata: ''
+question: "This shape (X) has a lot of significance in religions and belief systems.\
+  \ It is associated with a number, which allows it to be interpreted as symbolizing\
+  \ a lot of other important groups of the same number of elements. In the 19th-century,\
+  \ interpretations of this shape\u2019s orientation arose, with positive connotations\
+  \ when it was oriented upwards and negative connotations when it was oriented downwards.\
+  \ Though technically, this shape cannot be said to be pointing in a single direction."
+question_source: https://donquizote.wordpress.com/2021/12/18/winter-qotd-18-2/
+question_title: winter-qotd-18-2
+themes:
+- History
+- Mythology and Folklore
+- Religion and Philosophy
+variable_specific_rationale:
+  X: Pentagrams were used symbolically in ancient Greece and Babylonia. Christians
+    once commonly used the pentagram to represent the five wounds of Jesus. By the
+    mid-19th century, a further distinction had developed amongst occultists regarding
+    the pentagram's orientation. With a single point upwards, it depicted spirit presiding
+    over the four elements of matter and was essentially "good." The inverted pentagram
+    is the symbol used for Satanism, sometimes depicted with the goat's head of Baphomet
+    within it, which originated from the Church of Satan.
+variable_to_answer:
+  X: Pentagram
+variables:
+- X

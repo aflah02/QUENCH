@@ -1,0 +1,22 @@
+metadata: ''
+question: In a heartwarming tale of family and food, this 2018 animated short film
+  captured audiences worldwide with its poignant narrative. It tells the story of
+  an aging Chinese-Canadian mother experiencing the pangs of empty nest syndrome.
+  However, her life takes a delightful turn when she creates a special culinary creation,
+  that unexpectedly springs to life. This film went on to win the prestigious Academy
+  Award for Best Animated Short Film. The name of this endearing tale (X) is named
+  after the Chinese delicacy that plays a central role in its storyline
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q12
+themes:
+- Food and Cooking
+- Movies and Entertainment
+variable_specific_rationale:
+  X: The short film is titled Bao after the Chinese dish. In this short film the bao
+    comes to life to the surprise of an aging Chinese-Canadian mother who was experiencing
+    the pangs of empty nest syndrome. It also won the Academy Award for Best Animated
+    Short Film.
+variable_to_answer:
+  X: Bao
+variables:
+- X

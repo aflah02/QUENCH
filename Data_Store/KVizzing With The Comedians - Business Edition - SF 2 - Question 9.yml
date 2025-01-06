@@ -1,0 +1,22 @@
+metadata: ''
+question: X co-founded Y in 2007. In 2018, X signed a non- compete clause with Walmart
+  and exited Y. X then founded Navi in December 2018 along with IIT-DeIhi batchmate
+  Ankit Agarwal. Navi operates in the space of digital Loans, home loans, mutual funds,
+  health insurance and micro-loans. On 12 March 2022 it filed a draft for an INR 3350
+  crore IPO.
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 2 - Question 9
+themes:
+- Business and Economics
+variable_specific_rationale:
+  X: Sachin Bansal exited Flipkart in 2018 after signing a non-compete clause with
+    Walmart who owns a major stake in Flipkart, a startup he created in 2018. He then
+    moved on to build Navi which operates in the digital loan space.
+  Y: Flipkart was founded in 2008 by Sachin Bansal and later a major share was acquired
+    by Walmart.
+variable_to_answer:
+  X: Sachin Bansal
+  Y: Flipkart
+variables:
+- X
+- Y

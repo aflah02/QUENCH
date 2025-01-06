@@ -1,0 +1,26 @@
+metadata: ''
+question: In the quirky world of indie games, Gabe Cuzzillo, Maxi Boch, and Bennett
+  Foddy introduce their latest creation following the success of their prior hit,
+  Ape Out. This game adopts a literal approach to walking as players guide Nate, a
+  onesie-wearing character, using triggers to lift and plant each foot. Initially
+  feeling the pressure to confront the world, Nate finds himself in a surreal, lonely
+  land. The soundscape, a nascent musique concrete, triggers environmental sounds
+  tied to players' walking, guiding them to unique discoveries. A playful game concept
+  is encapsulated in the title (X), embodying Nate's journey through awkwardness,
+  mistakes, and unexpected encounters, inviting players to take small and cautious
+  strides towards their destination.
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF1 -  Q8
+themes:
+- Language and Linguistics
+- Pop Culture
+variable_specific_rationale:
+  X: Baby Steps can be guessed by either using the factual clues that is looking for
+    a game by Gabe Cuzzillo, Maxi Boch, and Bennett Foddy which came out after their
+    prior hit, Ape Out or using the fact that it's a onesie wearing character which
+    usually refers to a child and the phrase baby steps is usually used to denote
+    small and cautious strides.
+variable_to_answer:
+  X: Baby Steps
+variables:
+- X

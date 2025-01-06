@@ -1,0 +1,17 @@
+metadata: ''
+question: 85C Bakery Cafe is a Taiwanese international chain of retailers that has
+  1000 retail shops worldwide. Wu Cheng-hsueh incorporated the company (X) in 2003
+  and opened the first shop in Taipei County in July 2004. X is also one of Wu's beliefs.
+question_source: https://www.youtube.com/watch?v=FQNzfDMGqZY&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB
+question_title: KVizzing With The Comedians - Business Edition - QF 1 - Question 6
+themes:
+- Business and Economics
+- History
+variable_specific_rationale:
+  X: "Wu Cheng-hsueh incorporated the company in January 2003 and opened the first\
+    \ shop in Bao-Ping, Taipei County, in July 2004. The name \"85C\" refers to Wu's\
+    \ belief that 85 \xB0C (185 \xB0F) is the optimal temperature to serve coffee."
+variable_to_answer:
+  X: "85\xB0C is the optimal temperature to serve coffee"
+variables:
+- X

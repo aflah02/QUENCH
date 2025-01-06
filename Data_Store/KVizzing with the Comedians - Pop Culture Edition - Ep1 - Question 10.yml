@@ -1,0 +1,25 @@
+metadata: ''
+question: It's hard to imagine what the show Y might look like if it were stripped
+  of all its chaotic characters and performed as a solo show, but that's exactly how
+  it started. Before there was a TV show, creator/star X staged Y as a one- woman
+  play at the Edinburgh Fringe Festival back in 2013. The title character addressed
+  the audience in an hour-long, sexcapade-filled monologue, which was generally met
+  with praise by theater critics. The TV show was created soon after, and originally
+  premiered on July 2016.
+question_source: https://www.youtube.com/watch?v=BOOHPDcz7Zs&list=PLwXllhq0F5MlDWa52D8-w2-4AQ7H5W2SI
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep1 - Question
+  10
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Phoebe Waller-Bridge creator of Fleabag used to stage it as a one- woman play
+    at the Edinburgh Fringe Festival back in 2013.
+  Y: Fleabag used to be staged as a one- woman play at the Edinburgh Fringe Festival
+    back in 2013.
+variable_to_answer:
+  X: Phoebe Waller-Bridge
+  Y: Fleabag
+variables:
+- X
+- Y

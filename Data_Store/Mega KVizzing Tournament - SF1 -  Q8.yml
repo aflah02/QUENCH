@@ -1,0 +1,18 @@
+metadata: ''
+question: X was the title of various elected officials in ancient Rome. The two most
+  important were of the plebs and the military. For most of Roman history, a college
+  of ten X of the plebs acted as a check on the authority of the senate and the annual
+  magistrates, holding the power to intervene on behalf of the plebeians, and veto
+  unfavourable legislation. Military X, commanded portions of the Roman army. X is
+  also something founded by Sardar Dyal Singh Majithia in Lahore in 1881.
+question_source: https://www.youtube.com/watch?v=0rZIH2hSl54&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF1 -  Q8
+themes:
+- History
+variable_specific_rationale:
+  X: Sardar Dyal Singh Majithia founded The Tribune newspaper in Lahore while tribune
+    was also a title for elected officials in ancient Rome
+variable_to_answer:
+  X: Tribune
+variables:
+- X

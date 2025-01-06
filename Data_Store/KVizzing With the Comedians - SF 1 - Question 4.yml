@@ -1,0 +1,31 @@
+metadata: ''
+question: X and Y are both similar sounding dishes from Indian cuisine that are sometimes
+  confused with each other. X can be made with a variety of ingredients such as vegetables,
+  meat, or fish with a combination of spices, herbs, and other flavorings, such as
+  ginger, garlic, onions, and tomatoes. It has a liquid or semi-liquid consistency
+  due to the presence of a sauce or gravy that coats the ingredients. There are many
+  different types of X in Indian cuisine, each with its unique flavor profile and
+  ingredients. On the other hand, Y is a type of X that is made by whisking together
+  yogurt, gram flour (besan), and spices and then cooked with a tempering of cumin
+  seeds, mustard seeds, and sometimes includes vegetables or dumplings. It has a sour
+  and slightly tangy taste due to the use of yogurt and is often served with rice
+  or roti.
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 4
+themes:
+- Food and Cooking
+variable_specific_rationale:
+  X: Curry sounds very similar to Kadhi however Kadhi is only a subset of Curry which
+    whisks together yogurt, gram flour (besan) and other ingredients while Curry can
+    be made with a variety of ingredients such as vegetables, meat, or fish with a
+    combination of spices etc.
+  Y: Kadhi sounds very similar to Curry however Curry is a superset of Curry which
+    can be made with a variety of ingredients such as vegetables, meat, or fish with
+    a combination of spices etc. while Kadhi whisks together yogurt, gram flour (besan)
+    and other ingredients
+variable_to_answer:
+  X: Curry
+  Y: Kadhi
+variables:
+- X
+- Y

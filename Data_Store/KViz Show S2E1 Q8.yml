@@ -1,0 +1,22 @@
+metadata: ''
+question: There exists a remarkable event (X) that showcases the indomitable spirit
+  of wounded, injured, and sick servicemen and women. Founded by Prince Harry in 2014,
+  this international multi-sport competition is a testament to the resilience and
+  determination of those who have faced adversity in service to their countries. Named
+  after a Latin word meaning 'unconquered,' it symbolizes the unconquerable nature
+  of the participants. This event, born out of inspiration from Prince Harry's visit
+  to the Warrior Games in the United States, reflects the incredible achievements
+  of individuals post-injury.
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q8
+themes:
+- Social Issues
+- Sports
+variable_specific_rationale:
+  X: Invictus Games inspired by Warrior Games was started by Prince Harry for retired
+    servicemen. Invictus is the Latin word meaning 'unconquered,' which narrows down
+    the answer.
+variable_to_answer:
+  X: Invictus Games
+variables:
+- X

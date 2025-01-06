@@ -1,0 +1,29 @@
+metadata: ''
+question: The marble slab that was eventually turned into X by Y in 1504 was cut 43
+  years earlier for an artist named Agostino di Duccio, who planned to turn it into
+  a statue of Hercules. Di Duccio abandoned his sculpture, which was originally to
+  be installed in a Florentine cathedral, and the marble was unused for 10 years until
+  another sculptor named Antonio Rossellino, decided to work with it. Rossellino also
+  abandoned his work because he found marble too difficult to sculpt, and eventually,
+  Y began work on his sculpture in 1501.
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 3
+themes:
+- Art and Music
+- History
+- Mythology and Folklore
+variable_specific_rationale:
+  X: David is a masterpiece of Italian Renaissance sculpture, created from 1501 to
+    1504 by Michelangelo. Agostino was commissioned in 1463 to create a terracotta
+    figure of Hercules. In 1464 the Operai contracted Agostino to create a marble
+    sculpture of the young David, a symbol of Florence, to be mounted high on the
+    eastern end of the Duomo.
+  Y: On 16 August 1501, Michelangelo was given the official contract to undertake
+    the task of carving out the statue after being subject to the weather in the yard
+    of the cathedral workshop for another twenty-five years.
+variable_to_answer:
+  X: David
+  Y: Michelangelo
+variables:
+- X
+- Y

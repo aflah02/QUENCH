@@ -1,0 +1,21 @@
+metadata: ''
+question: Agumbe, a village in Karnataka, India, is renowned for its high rainfall,
+  earning it the moniker "The Cherrapunji of South India." This picturesque village
+  plays a crucial role in rainforest conservation, medicinal plant documentation,
+  and eco-tourism, attracting enthusiasts interested in trekking and photography.
+  Notably, the Agumbe Rainforest Research Station serves as a sanctuary for the King
+  Cobra, the village's flagship species. However, in 1986, a person chose Agumbe for
+  a particular purpose (X), captivated by its 'old world charm, sleepiness, and rustic
+  ambience'.
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E3 Q3
+themes:
+- Travel and Tourism
+- Wildlife and Nature
+variable_specific_rationale:
+  X: Malgudi Days fits the 'old world charm, sleepiness, and rustic ambience'. It
+    has high rainfall and is popular for ecotourism.
+variable_to_answer:
+  X: Malgudi Days
+variables:
+- X

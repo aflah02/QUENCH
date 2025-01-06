@@ -1,0 +1,21 @@
+metadata: ''
+question: Sweethearts, the confectionary brand, released a special limited edition
+  of sweeties for Valentine's Day. In a nod to Gen Z's dating landscape, these special
+  boxes are designed for those who relish the beauty of untraditional connections.
+  Instead of the classic "Be Mine" or "Forever," the messages on these heart-shaped
+  treats are intentionally misprinted and blurry, offering sweet, muddled nothings
+  and literal mixed messages. Term X encapsulates these nuanced connections celebrated
+  by Sweethearts this Valentine's Day
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E3 Q9
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: Situationships are described as relationships that are more than friendships
+    but less than committed relationships. This is becoming increasingly popular and
+    Sweethearts also released special limited edition of sweeties named the same.
+    The blurry details also reference the same.
+variable_to_answer:
+  X: Situationships
+variables:
+- X

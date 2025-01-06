@@ -1,0 +1,18 @@
+metadata: ''
+question: The first known use of the word X for beer, in a document dated 1677, referred
+  to its strength. The name porter was first used in 1721 to describe a dark brown
+  beer. The stronger beers, typically 7% or 8% alcohol by volume (ABV), were called
+  "X porters". Now, however, the term X has become firmly associated with dark beer,
+  rather than just strong beer.
+question_source: https://www.youtube.com/watch?v=xeAYBOR2On0&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 4 - Question 4
+themes:
+- Food and Cooking
+- History
+variable_specific_rationale:
+  X: Stout was used to describe a dark brown beer and the stronger beers were called
+    "X porters". Nowadays the term is used for dark beer more than strong beer
+variable_to_answer:
+  X: Stout
+variables:
+- X

@@ -1,0 +1,19 @@
+metadata: ''
+question: "On 26 December 1999, Chelsea against a match with Southampton in the Premier\
+  \ League fielded the following lineup: Ed De Goey, Albert Ferrer, Frank Leboeuf,\
+  \ Emerson Thome, Dan Petrescu, Celestine Babyaro, Gus Poyet, Didier Deschamps, Roberto\
+  \ Di Matteo, Gabriele Ambrosetti, and Tore Andr\xE9 Flo. It was notable that a breakout\
+  \ of the flu had deprived them of several regular selections, including striker\
+  \ Chris Sutton and midfielder Dennis Wise. Chelsea achieved the first X with this\
+  \ lineup which was ended in the 74th minute"
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E3 Q2
+themes:
+- Sports
+variable_specific_rationale:
+  X: Chelsea became the first Premier League team to feature no English players as
+    several players fell sick to the flu. The player names also provide the same details.
+variable_to_answer:
+  X: First Premier League team to feature no English players
+variables:
+- X

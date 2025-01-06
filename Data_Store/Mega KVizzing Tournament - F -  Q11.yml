@@ -1,0 +1,29 @@
+metadata: ''
+question: "In 2003, 24-year-old machinist Juan Catalan faced the death penalty for\
+  \ allegedly shooting a key witness in a murder case. Catalan told police that he\
+  \ couldn't have committed the crime\u2014he was at a Los Angeles Dodgers game at\
+  \ the time. He had the ticket stubs and everything! When police didn't buy his alibi,\
+  \ Catalan contacted the Dodgers, who pointed him to an unlikely hero: the misanthropic\
+  \ X. On the day in question, X had been filming an episode of Y in Dodger Stadium.\
+  \ It was a long shot, but maybe Catalan could be seen in the background. When his\
+  \ attorney watched the outtakes, it took just 20 minutes to find shots of Catalan\
+  \ and his daughter chowing down on ballpark dogs while watching from the stands.\
+  \ Thanks to the footage, Catalan walked free after five months behind bars. And\
+  \ X found one more thing to be self- deprecating about. \"l tell people that I've\
+  \ done one decent thing in my life, albeit inadvertently,\" joked X."
+question_source: https://www.youtube.com/watch?v=UR1-56Cv9Fo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=1
+question_title: Mega KVizzing Tournament - F -  Q11
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: Larry David was shooting in the Dodger Stadium whose footage showed the accused
+    alongside his daughter thereby proving his alibi. The "misanthropic" description
+    also solidifies the guess.
+  Y: Larry David was shooting Curb Your Enthusiasm whose footage captured the accused
+    and proved his alibi.
+variable_to_answer:
+  X: Larry David
+  Y: Curb Your Enthusiasm
+variables:
+- X
+- Y

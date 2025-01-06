@@ -1,0 +1,25 @@
+metadata: ''
+question: X and Y's origins changed because of a rights issue. In the comic books,
+  X and Y aid Magneto in his villainy, but with the X-Men split off from other Marvel
+  entities due to movie studios rights, the production team behind this 2015 movie
+  gave X and Y a different origin story. With no Magneto in the universe, X and Y
+  are test subjects for Hydra's Baron Wolfgang von Strucker.
+question_source: https://www.youtube.com/watch?v=WX2z4VTY8Yo
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  14
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Scarlet Witch is Magneto's daughter in the comics but since Marvel does not have
+    rights to the X-Men Universe, she is shown as a test subject for Hydra's Baron
+    Wolfgang von Strucker alongside her brother Quicksilver.
+  Y: Quicksilver is Magneto's daughter in the comics but since Marvel does not have
+    rights to the X-Men Universe, she is shown as a test subject for Hydra's Baron
+    Wolfgang von Strucker alongside his sister Scarlet Witch.
+variable_to_answer:
+  X: Scarlet Witch
+  Y: Quicksilver
+variables:
+- X
+- Y

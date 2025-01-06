@@ -1,0 +1,19 @@
+metadata: ''
+question: Sportsperson X, driven by a strong desire for orderliness, developed a fascination
+  for Archery, prompting her to join an archery center. However, upon her arrival,
+  there was no archery training scheduled for that day. In the absence of archery
+  activities, she stumbled upon footage of the iconic sportsperson Kunjarani Devi
+  from a distinct discipline. This encounter proved to be so motivating that X abandoned
+  her initial interest in Archery and chose to pursue the sport associated with Kunjarani
+  Devi instead.
+question_source: https://www.youtube.com/watch?v=TJAHWyYRnTo
+question_title: KVizzing with Members Ep 26 Q1
+themes:
+- Sports
+variable_specific_rationale:
+  X: Kunjarani Devi was a weight lifter and Mirabai Chanu got inspired by her footage
+    abandoning her archery interest and transitioning over to weight lifting.
+variable_to_answer:
+  X: Mirabai Chanu
+variables:
+- X

@@ -1,0 +1,23 @@
+metadata: ''
+question: Succession is a show which revolves around three siblings Roman, Kendall
+  and Shiv who are fighting for control of the company amid uncertainty about the
+  health of the family's patriarch, Logan Roy. Now, while each of them are equally
+  treacherous, a lot of Internet users have started believing who the show's real
+  villain is, owing to a Rian Johnson interview in which he revealed a certain tech
+  company's (X) very specific policy which doesn't allow its products to be used in
+  a negative light on camera.
+question_source: https://www.youtube.com/watch?v=pxLC-HAsBbo&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=4
+question_title: KVizzing With The Comedians - Business Edition - QF 2 - Question 8
+themes:
+- Movies and Entertainment
+- Pop Culture
+- Science and Technology
+variable_specific_rationale:
+  X: Apple forbids filmmakers from letting villainous characters use iPhones on screen,
+    which is the policy they impose on filmmakers if they are going to be using their
+    products on screen. This has been seen across multiple films such as Knives Out,
+    Big Little Lies, The Commuter, and A Star is Born.
+variable_to_answer:
+  X: Apple
+variables:
+- X

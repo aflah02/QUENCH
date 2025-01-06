@@ -1,0 +1,27 @@
+metadata: ''
+question: Throughout recorded history, desire has driven humanity to build supremely
+  majestic monuments and commitatrocities beyond the most perverse mind's remit. Enshrined
+  in movies like Neon Demon, the desire for X, a quality hilariously doing the rounds
+  thanks to a recent Olivia Rodrigo song, has driven people to rather unsavoury activities,
+  up to and including crime. X derived at any cost has come to be termed Y X after
+  a Greek man who committed a heinous crime for X.
+question_source: https://donquizote.wordpress.com/2023/07/15/question-2-weekend-mini-league-3/
+question_title: question-2-weekend-mini-league-3
+themes:
+- Art and Music
+- History
+- Mythology and Folklore
+variable_specific_rationale:
+  X: X in this context refers to fame. The Neon Demon is a movie about a younger model
+    and her rise to fame and the horrific actions by her co-models who are jealous
+    of her success! Vampire, by Olivia Rodrigo, hints at someone taking advantage
+    of her fame.
+  Y: Herostratus was a Greek arsonist who sought fame by setting fire to the second
+    temple of Artemis at Ephesus. This led to 'fame derived at any cost' to be termed
+    as 'Herostratic fame' after Herostratus!
+variable_to_answer:
+  X: Fame
+  Y: Herostratic
+variables:
+- X
+- Y

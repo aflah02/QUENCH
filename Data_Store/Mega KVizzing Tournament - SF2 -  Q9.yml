@@ -1,0 +1,22 @@
+metadata: ''
+question: X, a science fiction movie released in 1989, was a breakthrough in visual
+  effects. It was written and directed by James Cameron, in collaboration with Lightstorm
+  Entertainment. One of the notable achievements of the film was its utilization of
+  complex computer-generated images (CGI), particularly in the creation of a sea creature
+  known as the pseudopod. This pseudopod character was the first-ever fully computer-generated
+  3D character in a film. X won the Academy Award for Visual Effects, making it the
+  first film to receive this honor for CGI-produced effects.
+question_source: https://www.youtube.com/watch?v=eNX9FH5XXKo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=3
+question_title: Mega KVizzing Tournament - SF2 -  Q9
+themes:
+- Movies and Entertainment
+variable_specific_rationale:
+  X: The Abyss was directed by Hames Cameron in collaboration with Lightstorm Entertainment.
+    It used complex CGI which was rare for its time and the pseudopod character was
+    the first-ever fully computer-generated 3D character in a film. It won the Academy
+    Award for Visual Effects, making it the first film to receive this honor for CGI-produced
+    effects.
+variable_to_answer:
+  X: The Abyss
+variables:
+- X

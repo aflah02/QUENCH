@@ -1,0 +1,23 @@
+metadata: ''
+question: One possible origin of the term, in the sense of a period of entertainment,
+  is from the US Navy. In early 1913, a group of homemakers called the "X Y Social"
+  organized "semi- weekly smokers" on board IJSS Arkansas. This soon started being
+  referred to as 'X Y'. The events included a variety of entertainment, like boxing
+  and wrestling matches, music, dancing, and movies. By the end of World War l, the
+  practice had spread throughout the Navy. During the Prohibition era, people would
+  host "X Y", at illicit bars before eating at restaurants where alcohol could not
+  be served.
+question_source: https://www.youtube.com/watch?v=RmpMpkTUR6I&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=6
+question_title: KVizzing With The Comedians - Business Edition - SF 1 - Question 2
+themes:
+- Business and Economics
+- Pop Culture
+variable_specific_rationale:
+  X Y: Happy Hour is believed to have originated from a group called the Happy Hour
+    Social. It was later referred to as Happy Hour and had lot of entertainment. Post
+    WW1 this spread throughout the Navy and during the Prohibition era people hosted
+    Happy Hour at illicit bars.
+variable_to_answer:
+  X Y: Happy Hour
+variables:
+- X Y

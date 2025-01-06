@@ -1,0 +1,17 @@
+metadata: ''
+question: This Valentine's Day, the Rhode Island Society for the Prevention of Cruelty
+  to Animals has a unique way to let you express your feelings towards your past connections.
+  As part of their 'Love Stinks' campaign, they offer you the chance to pay $5 to
+  have something (X) done to your ex's name.
+question_source: https://www.youtube.com/watch?v=lhMV08ZPDfo&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=4
+question_title: Mega KVizzing Tournament - QF4 -  Q11
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: 'Love Stinks hints towards some foul act and since animals are at play and the
+    connection with the person is sour, it can be deduced that it is related to animal
+    poop. '
+variable_to_answer:
+  X: Animal poop on the name
+variables:
+- X

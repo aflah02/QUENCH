@@ -1,0 +1,20 @@
+metadata: ''
+question: X was first sold by Block Drug, a New York-based company established in
+  1907 by pharmacist Alexander Block. It contains Potassium nitrate in which the potassium
+  ion hyperpolarizes the nerve and stops it from firing. The nerve impulses are thus
+  desensitized and there is no pain.
+question_source: https://www.youtube.com/watch?v=tCA4WD6VeWw&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB&index=5
+question_title: KVizzing With The Comedians - Business Edition - QF 4 - Question 1
+themes:
+- Business and Economics
+- History
+- Pharmaceuticals & Medicine
+- Science and Technology
+variable_specific_rationale:
+  X: Sensodyne was first sold by Block Drug, a New York-based company established
+    in 1907 by pharmacist Alexander Block. It desensitizes the teeth and there is
+    reduces pain.
+variable_to_answer:
+  X: Sensodyne
+variables:
+- X

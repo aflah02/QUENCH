@@ -1,0 +1,19 @@
+metadata: ''
+question: Luis von Ahn did early pioneering work on CAPTCHA and later founded the
+  company reCAPTCHA, which was sold to Google in 2009. He is also the founder of the
+  company X. A driving motivation for founding X was Von Ahn's upbringing in Guatemala,
+  where he saw how expensive it was for people in his community to learn English.
+  Hacker (co-founder and current CTO) believed that "free education will really change
+  the world" and wanted to supply people an outlet to do so.
+question_source: https://www.youtube.com/watch?v=01WxO1MZNHI&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=4
+question_title: KVizzing With the Comedians - QF 3 - Question 4
+themes:
+- Education
+- Science and Technology
+variable_specific_rationale:
+  X: Luis von Ahn created Duolingo alongside Hacker inspired by Von Ahn's experience
+    growing up in Guatemala and seeing how expensive learning English was
+variable_to_answer:
+  X: Duolingo
+variables:
+- X

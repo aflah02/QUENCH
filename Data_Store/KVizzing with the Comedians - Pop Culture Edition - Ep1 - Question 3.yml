@@ -1,0 +1,22 @@
+metadata: ''
+question: Broken Horses is a 2015 American mystery thriller film directed by X and
+  starring Anton Yelchin, Chris Marquette, Vincent DOnofrio, Maria Valverde, Thomas
+  Jane, and Sean Patrick Flanery. The film follows the lives of the two orphaned brothers.
+  The film is a remake of the iconic 1989 film Y, also directed by X.
+question_source: https://www.youtube.com/watch?v=BOOHPDcz7Zs&list=PLwXllhq0F5MlDWa52D8-w2-4AQ7H5W2SI
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep1 - Question
+  3
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Vidhu Vinod Chopra directed Broken Horses which is a remake of a movie he earlier
+    directed.
+  Y: Broken Horses is a remake of Parinda both of which were directed by Vidhu Vinod
+    Chopra.
+variable_to_answer:
+  X: Vidhu Vinod Chopra
+  Y: Parinda
+variables:
+- X
+- Y

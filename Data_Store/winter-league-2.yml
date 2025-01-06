@@ -1,0 +1,21 @@
+metadata: ''
+question: This extremely popular pop culture icon continues to remain in memory years
+  after his demise. Renowned for their legacy and the larger-than-life presence they
+  inspired or arguably created, it is a little-known fact that their early career
+  focused on death and memory. Name this icon who sounds similar to a brand of luxury
+  furniture (X).
+question_source: https://donquizote.wordpress.com/2021/12/26/winter-league-2/
+question_title: winter-league-2
+themes:
+- Pop Culture
+variable_specific_rationale:
+  X: Stan Lee began his career in the comic book industry in the 1930s, working as
+    an editor and writer for Timely Comics, which later became Marvel Comics. During
+    this time, he wrote stories that featured themes of death, loss, and memory, such
+    as the tale of Captain America, who was frozen in suspended animation during World
+    War II and thawed out in the present day to continue fighting for justice. His
+    name sounds similar to "Stanley Furniture," a brand of luxury furniture.
+variable_to_answer:
+  X: Stan Lee
+variables:
+- X

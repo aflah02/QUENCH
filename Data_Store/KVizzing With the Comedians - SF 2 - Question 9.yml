@@ -1,0 +1,22 @@
+metadata: ''
+question: X was an American singer-songwriter born in 1932 in Arkansas. A trademark
+  all-black stage wardrobe, earned him the nicknames "Man in Black" and "Undertaker".
+  He is one of the best-selling music artists of all time, having sold more than 90
+  million records worldwide. He was also a writer and an ordained minister. He enlisted
+  in the Air Force in 1950 and worked as a Morse code operator intercepting Soviet
+  Army transmissions. While working this job, he was allegedly the first American
+  to be given the news of Joseph Stalin's death (supplied via Morse code). A species
+  of black tarantula was named after him in 2015.
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 9
+themes:
+- History
+- Pop Culture
+variable_specific_rationale:
+  X: Johnny Cash had the nicknames "Man in Black" and "Undertaker." He was also an
+    ordained minister, enlisted in the Air Force and has a species of black tarantula
+    named after him
+variable_to_answer:
+  X: Johnny Cash
+variables:
+- X

@@ -1,0 +1,19 @@
+metadata: ''
+question: XY means "impulsive, hasty, or reckless," used especially to describe adventurous
+  activities or personages. As Irving wrote in "The Legend of Sleepy Hollow," "when
+  any XY prank or rustic brawl occurred in the vicinity, always shook their heads,
+  and warranted Brom Bones was at the bottom of it." The adjective, attested as far
+  back as the 1580s in England, derives from the sense of Y as "head," so it's literally
+  "crazy in the head."
+question_source: https://www.youtube.com/watch?v=xpFEALbxHwQ&t=55s
+question_title: KViz Show S2E1 Q3
+themes:
+- Language and Linguistics
+variable_specific_rationale:
+  XY: The hint that Y is related to something wore on the head narrows the answer
+    space down and since the word should mean "impulsive, hasty, or reckless", madcap
+    makes the most sense.
+variable_to_answer:
+  XY: Madcap
+variables:
+- XY

@@ -1,0 +1,18 @@
+metadata: ''
+question: Brett Wicks, who designed the logo for the show, originally thought The
+  X was about singers. He felt it was important for the logo to "overcome any preconceptions
+  that the name might imply," which probably explains the gun in the now iconic logo
+question_source: https://www.youtube.com/watch?v=WX2z4VTY8Yo
+question_title: KVizzing with the Comedians - Pop Culture Edition - Ep2 - Question
+  16
+themes:
+- Movies and Entertainment
+- Pop Culture
+variable_specific_rationale:
+  X: Brett Wicks designed the logo for The Sopranos. He originally thought the show
+    is about singers and to overcome preconceptions stemming from the name he designed
+    the 'r' to look like a gun.
+variable_to_answer:
+  X: The Sopranos
+variables:
+- X

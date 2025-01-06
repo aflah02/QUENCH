@@ -1,0 +1,26 @@
+metadata: ''
+question: '"In such a remarkably short space of time X has become an iconic figure
+  at Y, showing what can be achieved through talent, hard work, and dedication. His
+  caring, humble, and engaging off-the- field demeanor has also made him such an impressive
+  role model. The 22 shirt has become synonymous with X, his rise to the first team
+  aged just 16 years and 38 days and these qualities. And as such, Y has decided it
+  would be fitting to retire this number, to remember one of our own and to inspire
+  others" X wore 22 since breaking out at Y. X made just 44 appearances before sealing
+  a E25 million move to Dortmund. He later continued to wear the same jersey number
+  at Borussia Dortmund.'
+question_source: https://www.youtube.com/watch?v=TJAHWyYRnTo
+question_title: KVizzing with Members Ep 26 Q3
+themes:
+- Sports
+variable_specific_rationale:
+  X: 'Bellingham is known for his 22 jersey number. Even after moving to Dortmund
+    he used the same jersey number. Birmingham City also retired the number when he
+    left. '
+  Y: Bellingham played for Birmingham City since age 16 before moving to Dortmund.
+    In both the clubs he used the 22 jersey number.
+variable_to_answer:
+  X: Bellingham
+  Y: Birmingham City
+variables:
+- X
+- Y

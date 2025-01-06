@@ -1,0 +1,25 @@
+metadata: ''
+question: In the early 1960s, a revolutionary literary movement unfolded in Kolkata,
+  India, challenging established norms in literature, language, and art. Spearheaded
+  by Shakti Chattopadhyay, Malay Roy Choudhury, Samir Roychoudhury, and Debi Roy,
+  the movement aimed to disrupt colonial canons, becoming a pioneering voice of post-colonial
+  freedom of expression. At its core, the movement embraced Oswald Spengler's idea
+  of History, asserting that an ailing culture feeds on cultural elements brought
+  from outside. According to these writers, Bengali culture had reached its zenith
+  and was now sustained by alien influences, akin to living on "alien food." Notable
+  writers and artists, including Utpal Kumar Basu also joined this avant-garde cultural
+  revolution. This movement is known as the "X Generation"
+question_source: https://www.youtube.com/watch?v=LCJcAERfexA&list=PLwXllhq0F5MkB62uJdJDHHpmqq-dG3_6_&index=7
+question_title: Mega KVizzing Tournament - QF1 -  Q9
+themes:
+- History
+- Language and Linguistics
+- Politics and Government
+variable_specific_rationale:
+  X: The Hungry Generation was a literary movement that Kolkata to challenge the status
+    quo of in literature, language and art. They felt that too much outside influence
+    is sustaining Bengali culture as it had already reached its zenith.
+variable_to_answer:
+  X: Hungry
+variables:
+- X

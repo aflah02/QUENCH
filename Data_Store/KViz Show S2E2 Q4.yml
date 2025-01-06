@@ -1,0 +1,20 @@
+metadata: ''
+question: '"Mindf*ck," written by Christopher Wylie, delves into the Cambridge Analytica
+  scandal. In the book, the 8th chapter is named after a 1963 film (part of a broader
+  franchise) in a clever play on words. This title (X) hints at the nation often held
+  responsible by Americans for the scandal. The altered word in the title points to
+  the weapon employed to shape public perception, a characteristic integral to the
+  product and company most closely linked to this controversy.'
+question_source: https://www.youtube.com/watch?v=A6yYHyw5pow&t=676s
+question_title: KViz Show S2E2 Q4
+themes:
+- Books
+- Business and Economics
+variable_specific_rationale:
+  X: 'The movie is From Russia With Love and the chapter title is From Russia With
+    Likes. Russia is often thought to be accountable for the scandal and hence this
+    name. The larger franchise hint also leads to the James Bond franchise. '
+variable_to_answer:
+  X: From Russia With Likes
+variables:
+- X

@@ -1,0 +1,23 @@
+metadata: ''
+question: Eminem's 2013 music video for the song "Rap God" features imagery from Dante's
+  Purgatorio, including the illustration of X. This is most likely a metaphor for
+  the rappers who try to compete with the self-proclaimed "Rap God," just like X tried
+  to compete with Athena in a weaving contest but was turned into the first spider
+  instead.
+question_source: https://www.youtube.com/watch?v=yq18yrfHW1Y&list=PLwXllhq0F5Mm7ZIzJ-4kxCY9hJ0tdYOcr&index=3
+question_title: KVizzing With The Comedians - MELA Edition - QF 2 - Question 1
+themes:
+- Art and Music
+- Mythology and Folklore
+variable_specific_rationale:
+  X: The music video for Eminem's song "Rap God" features an illustration of Arachne's
+    Punishment. Arachne was a mortal who challenged Athena, the goddess, to a weaving
+    contest and lost. When Athena could find no flaws in the tapestry Arachne had
+    woven for the contest, the goddess became enraged and beat the girl with her shuttle.
+    After Arachne hanged herself out of shame, she was transformed into a spider.
+    The myth both provides an aetiology of spiders' web-spinning abilities and was
+    a cautionary tale about hubris.
+variable_to_answer:
+  X: Arachne
+variables:
+- X

@@ -1,0 +1,23 @@
+metadata: ''
+question: On 1 July 1961, he was a passenger (X) in a car which was involved in an
+  accident in Hove, England. A shard of glass from the broken windscreen penetrated
+  and caused a permanent damage in the eye. A surgeon named Dr. David St Clair Roberts
+  was called to operate, and was praised by the injured individual for saving his
+  life. The damage caused him to see a doubled image, and it was feared this would
+  be the end of his career. But overcoming all these barriers he came back stronger
+  than before.
+question_source: https://www.youtube.com/watch?v=VSc6V6sXL-I&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6
+question_title: KVizzing With the Comedians - QF 1 - Question 9
+themes:
+- History
+- Pop Culture
+- Cricket
+variable_specific_rationale:
+  X: Mansoor Ali Khan Pataudi, a renowned Indian cricketer, was the passenger in a
+    car accident on July 1, 1961, in Hove, England. The accident caused permanent
+    damage to his eye, but he overcame the injury to continue his successful cricket
+    career.
+variable_to_answer:
+  X: Mansoor Ali Khan Pataudi
+variables:
+- X

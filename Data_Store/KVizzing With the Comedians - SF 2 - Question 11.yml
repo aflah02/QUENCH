@@ -1,0 +1,21 @@
+metadata: ''
+question: The earliest archaeological evidence of Xs is found at Dholavira, a Harappan
+  city in the modern state of Gujarat. They played a significant role in defining
+  subterranean architecture in Western India from the 7th to 19th century. These are
+  generally located in three types of places - as an extension or part of a temple,
+  in or at an edge of a village, and/or the outskirts of a village. They ensured availability
+  of water during periods of drought and played a critical role in serving as a direct
+  means to fresh water filtered through the earth.
+question_source: https://www.youtube.com/watch?v=d6aw2YwhbIs&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=6
+question_title: KVizzing With the Comedians - SF 2 - Question 11
+themes:
+- Geography
+- History
+variable_specific_rationale:
+  X: Existence of the oldest stepwells has been found in Dholavira, a Harappan city
+    in the modern state of Gujarat. These served as a means to get fresh water in
+    times of drought.
+variable_to_answer:
+  X: Stepwells
+variables:
+- X

@@ -1,0 +1,19 @@
+metadata: ''
+question: X, a city name, is the evolved Spanish form of the native place name which
+  comes from a local phrase meaning "where indigo is found". A part of the name is
+  derived from the Sanskrit word Ineel' which refers to indigo. Indigo dye extraction
+  became an important economic activity in this area in the 18th century. Another
+  theory suggests that the city was named after the Nilad plant that used to be very
+  common in the area. A popular piece of stationery shares its name with this city.
+question_source: https://www.youtube.com/watch?v=Gc3gxH9zT_M&list=PLwXllhq0F5MmZI1CPvFfsL1k41o029HL6&index=5
+question_title: KVizzing With the Comedians - SF 1 - Question 16
+themes:
+- Geography
+- History
+variable_specific_rationale:
+  X: Indigo dye extraction was a popular activity in Manila. The stationary item being
+    referred to is the Manila folder.
+variable_to_answer:
+  X: Manila
+variables:
+- X

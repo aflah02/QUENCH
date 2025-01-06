@@ -1,0 +1,20 @@
+metadata: ''
+question: 'Herb Kelleher was the co-founder, later CEO, and chairman emeritus of Southwest
+  Airlines until his death in 2019. X refers to a thing Herb did that revolutionized
+  the airline industry. One of his very famous quotes is: "If the Wright brothers
+  were alive today, Wilbur would have to fire Orville to X."'
+question_source: https://www.youtube.com/watch?v=FQNzfDMGqZY&list=PLwXllhq0F5Mmg_hhE8QTpK3aYe70fIKVB
+question_title: KVizzing With The Comedians - Business Edition - QF 1 - Question 14
+themes:
+- Business and Economics
+- History
+- Science and Technology
+variable_specific_rationale:
+  X: 'Herb said: "If the Wright brothers were alive today, Wilbur would have to fire
+    Orville to reduce costs." He was the co-founder, later CEO, and chairman emeritus
+    of Southwest Airlines until his death in 2019. He introduced low-fare air services
+    to Southwest Airlines'' passengers.'
+variable_to_answer:
+  X: low-cost airlines
+variables:
+- X
